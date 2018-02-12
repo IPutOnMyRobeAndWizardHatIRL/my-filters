@@ -23,6 +23,27 @@ liliputing.com###text-391998738 > .widget-wrap > .textwidget > center > .adsbygo
 
 liliputing.com###text-391998738 > .widget-wrap > .textwidget > center
 
+! 2/12/2018, 12:45:34 PM https://kickass.cd/blade-runner-2049-hdrip-xvid-ac3-evo-tt19466183.html
+kickass.cd##.chatButton
+
+! 2/12/2018, 12:48:05 PM https://readms.net/
+readms.net###msa-footer-btf
+
+! 2/12/2018, 12:50:41 PM http://www.mangareader.net/
+||s3.mangareader.net/sup/images/*.png$image
+
+! 2/12/2018, 12:50:52 PM http://www.mangareader.net/
+www.mangareader.net##.c3
+
+||rublacklist.net/images/rutracker_
+||rublacklist.net/media/*vpn.
+||rublacklist.net/media/banner_
+
+||rublacklist.net/images/rutracker_image.png
+||rublacklist.net/media/banner_
+||rublacklist.net^$domain=kinozal.tv
+
+
 
 *rad.mob-api.net*
 imagebam.com##[href*="rad.mob-api.net"]
