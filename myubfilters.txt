@@ -1,25 +1,12 @@
-https://chyoa.com/*/*.php?mg=*
-@@*gelbooru.com*images*
-@@*gelbooru.com*thumbnails*
-!@@||gelbooru.com^$first-party,image
-@@*gelbooru.com//samples*sample*.jpg
-http://www.hpfanficarchive.com/*png
 *rad.mob-api.net*
 imagebam.com##[href*="rad.mob-api.net"]
 imgbox.com##[href*="rad.mob-api.net"]
 1337x.to,1337x.st,x1337x.ws##[href*=".php"]
-
-! 1/21/2018, 9:35:46 PM http://cheezburger.com/4575237/21-shower-thoughts-that-will-leave-you-mildly-enlightened
-cheezburger.com##.ad-container-list.js-ad-container
-
-! 1/23/2018, 8:39:00 PM https://forums.creativecow.net/docs/forums/post.php?forumid=344&postid=5782&univpostid=5782&pview=t
 forums*###cookieNotice
 creativecow.net/js/script*
-
 mangadeep.com##script:has-text(ad block)
-
+@@mangadeep.com$generichide
 ||loggly.com$third-party
-
 /hotfix.js
 !working regex
 !/\/js\/script\d{15,}-\d.js/$script,first-party
@@ -1504,116 +1491,10 @@ changepw.com##.adbox-bg
 
 @@||krautchan.net^$image,first-party
 
-! --------------------------------------------------------------------------- !
-! boorus and stuff 
 
-! Imported some filters from kowith337's GelboLube list
-! https://github.com/kowith337/GelboLube
-! https://github.com/toshiya44/myAssets/issues/1
-! Note: gelbooru updates frequently
-
-@@||gelbooru.com$generichide
-gelbooru.com#@#center > a[href]
-gelbooru.com##.noticeError
-gelbooru.com##.twitter-share-button
-gelbooru.com##a[href^="http://gelbooru.com/redirect.html"]
-gelbooru.com##div[style*="width:1000px"]:has(script)
-gelbooru.com,thedoujin.com##noscript
-gelbooru.com,thedoujin.com##^script:has-text(adnOpt)
-gelbooru.com,thedoujin.com##^script:has-text(abvertDar)
-gelbooru.com,thedoujin.com##^script:has-text(advertVar)
-gelbooru.com,thedoujin.com##^script:has-text(ad_idzone)
-gelbooru.com,thedoujin.com##^script:has-text(ExoLoader)
-gelbooru.com,thedoujin.com##^script:has-text(trw_domain)
-gelbooru.com,thedoujin.com##^script:has-text(adsbyjuicy)
-||gelbooru.com/x/$important
-||gelbooru.com/y/$important
-||gelbooru.com/z/$important
-||gelbooru.com/*_xacd.$important
-||gelbooru.com/r18/$important
-||gelbooru.com/r19/$important
-||gelbooru.com/thumbnails/0A/$important
-||gelbooru.com/thumbnails/0C/$important
-||gelbooru.com$script,subdocument
-||gelbooru.com/v.php$important
-||gelbooru.com/bed2.php$important
-||gelbooru.com/bluet.php$important
-||thedoujin.com/bload.php$important
-||gelbooru.com/intermission.php$important
-||gelbooru.com/backend_loader.php$important
-||gelbooru.com/script/application.js.php$important
-
-||gelbooru.com^$first-party,image,badfilter
-! @@||gelbooru.com/thumbnails/*$image,first-party
-@@||gelbooru.com/thumbnails/*/*/thumbnail_*.jpg$image,first-party
-
-! ||gelbooru.com/script/license.gelbooru.js$important
-||gelbooru.com/script/license$important
-
-! honeypot (as of 2017-04-24)
-@@||gelbooru.com/ads.js?$script
-
-! unbreak tl bubbles and other functionality
-@@||gelbooru.com/index.php$inline-script,first-party
-@@||gelbooru.com/script/application.js?$first-party
-@@||gelbooru.com/script/lazyload.js?$script,first-party
-@@||gelbooru.com/script/miscJs.js?$script,first-party
-@@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=gelbooru.com
-
-! due to URL fragment filters, images wit/ad/ in the URL gets blocked.
-@@/ad/$image,domain=gelbooru.com|konachan.com|sankakucomplex.com|yande.re|baka-tsuki.org
-
-gelbooru.com#@#span[class]:last-child > a img[src]
-gelbooru.com#@#a[href*="//gelbooru.com/redirect.php?"]
-gelbooru.com##script:inject(abort-on-property-read.js, advertVar)
-gelbooru.com###post-list #content a[href*="redirect.php"]:if-not(img[src*="/thumbnail_"])
-
-! yes
-||youhate.us$important
 
 ! ---------------------------------------
 
-chan.sankakucomplex.com,idol.sankakucomplex.com###headerlogo
-chan.sankakucomplex.com,idol.sankakucomplex.com###headerthumbs
-chan.sankakucomplex.com,idol.sankakucomplex.com##cloudflare-app
-sankakucomplex.com##^script:has-text(pagespeed)
-sankakucomplex.com##script:inject(bab-defuser.js)
-
-||amazonaws.com$important,domain=sankakucomplex.com
-||cstats.sankakucomplex.com$important
-||sankakucomplex.com/*/afr.php$important
-||sankakucomplex.com/x/piwik.js$important
-||sankakucomplex.com/x/piwik.php$important
-||sankakucomplex.com/javascripts/ls.12.js$important
-||sankakucomplex.com/javascripts/ps.js$important
-||sankakucomplex.com/ngx_pagespeed_beacon$important
-||img.sankakucomplex.com/tn/$image,domain=chan.sankakucomplex.com|idol.sankakucomplex.com
-
-! possible fake/scam/phishing site "danbooru.idanbooru.com"
-||idanbooru.com$important
-
-danbooru.donmai.us###upgrade-account-notice
-danbooru.com##^script:has-text(errorBeacon)
-
-||konachan.net$subdocument,important
-||isshiki.donmai.us$third-party
-||isshiki.donmai.us/hits$important
-
-hitomi.la##.hitomi-vertical
-hitomi.la##.hitomi-horizontal
-||hitomi.la/hitomi.js$important
-||hitomi.la/hitomi-horizontal.js$important
-||hitomi.la/hitomi-vertical.js$important
-
-@@||pixiv.net^$generichide
-@@||pawoo.net^$generichide
-pixiv.net#@#.bookmark-container
-pixiv.net##.ad-footer
-pixiv.net##.adsbygoogle
-pixiv.net##.share-button
-pixiv.net##.ads-top-info
-! /pre-login.min.js$script,domain=pixiv.net
-@@||accounts.pixiv.net$popup,domain=pawoo.net
 
 readms.net###reader-sky
 bato.to###register_notice
@@ -1625,48 +1506,7 @@ mangashost.net##.clearfix.ads
 mangashost.net##script:inject(bab-defuser.js)
 ||mangashost.net/b3o.js$script,first-party
 
-! fc2 site banners
-fc2.com###fc2_bottom_bnr
-||static.fc2.com/js/blog/headbar_ad_rotate.js$script,important
-||static.fc2.com/js/blog/ad_ref.js$script,important
-||static.fc2.com/js/blog/headbar_ad_load.js$script,important
-||fc2.com/counter*.php$important
 
-! nicovideo.jp##a[href*="https://account.nicovideo.jp/premium/register?"]
-nicovideo.jp##a[href*="/premium/register?"]
-
-muchohentai.com###__eq2281__
-||muchohentai.com/*/gapro.js$script
-muchohentai.com##script:inject(noeval.js)
-
-!nhentai.net##script:inject(abort-on-property-write.js, show_popunders)
-!nhentai.net##^script:has-text(show_popunders)
-||nhentai.net^$popup
-||nhentai.net/api/_/popunder?$important
-||nhentai.net/api/_/popunder?$important,popup
-
-@@||hentaihaven.org$generichide
-hentaihaven.org##^script:has-text(Pukka)
-hentaihaven.org##^script:has-text(BetterJsPop)
-! honeypots used to detect blockers
-@@||hentaihaven.org/basement/js/adshow.js$script,first-party
-
-! unblocking baka-tsuki's logo and image (fragment filter issue)
-@@||baka-tsuki.org^$generichide
-@@||baka-tsuki.org$image,first-party
-! Owned by an advertisement company :D
-||nyaatorrents.info$important
-
-@@||nrvnqsr.com^$generichide
-@@||tsundora.com^$generichide
-
-pantsu.cat###cookie-warning
-||imgur.com^$domain=tsumino.com,important
-||tsumino.com/static/*.gif$image
-
-||anime8.*$important
-||anilinkz.*/count.php$important
-||9anime.is/clear.gif$important,redirect=1x1-transparent.gif
 
 ! --------------------------------MAL filters-------------------------------- !
 !
@@ -1741,6 +1581,73 @@ kissanime.ru,kissmanga.com,kissasian.com,kisscartoon.se,readcomiconline.to##^scr
 ||kisshentai.net/Content/script/swfobject.js$script
 ||kisshentai.net/Content/js/c-hive.js
 
+chan.sankakucomplex.com,idol.sankakucomplex.com###headerlogo
+chan.sankakucomplex.com,idol.sankakucomplex.com###headerthumbs
+chan.sankakucomplex.com,idol.sankakucomplex.com##cloudflare-app
+sankakucomplex.com##script:has-text(pagespeed)
+sankakucomplex.com##script:inject(bab-defuser.js)
+
+||amazonaws.com$important,domain=sankakucomplex.com
+||cstats.sankakucomplex.com$important
+||sankakucomplex.com/*/afr.php$important
+||sankakucomplex.com/x/piwik.js$important
+||sankakucomplex.com/x/piwik.php$important
+||sankakucomplex.com/javascripts/ls.12.js$important
+||sankakucomplex.com/javascripts/ps.js$important
+||sankakucomplex.com/ngx_pagespeed_beacon$important
+||img.sankakucomplex.com/tn/$image,domain=chan.sankakucomplex.com|idol.sankakucomplex.com
+
+! possible fake/scam/phishing site "danbooru.idanbooru.com"
+||idanbooru.com$important
+
+danbooru.donmai.us###upgrade-account-notice
+danbooru.com##script:has-text(errorBeacon)
+
+||konachan.net$subdocument,important
+||isshiki.donmai.us$third-party
+||isshiki.donmai.us/hits$important
+
+hitomi.la##.hitomi-vertical
+hitomi.la##.hitomi-horizontal
+||hitomi.la/hitomi.js$important
+||hitomi.la/hitomi-horizontal.js$important
+||hitomi.la/hitomi-vertical.js$important
+
+! fc2 site banners
+fc2.com###fc2_bottom_bnr
+||static.fc2.com/js/blog/headbar_ad_rotate.js$script,important
+||static.fc2.com/js/blog/ad_ref.js$script,important
+||static.fc2.com/js/blog/headbar_ad_load.js$script,important
+||fc2.com/counter*.php$important
+
+! nicovideo.jp##a[href*="https://account.nicovideo.jp/premium/register?"]
+nicovideo.jp##a[href*="/premium/register?"]
+
+muchohentai.com###__eq2281__
+||muchohentai.com/*/gapro.js$script
+muchohentai.com##script:inject(noeval.js)
+
+
+||nhentai.net^$popup
+||nhentai.net/api/_/popunder?$important
+||nhentai.net/api/_/popunder?$important,popup
+
+
+@@||baka-tsuki.org^$generichide
+@@||baka-tsuki.org$image,first-party
+! Owned by an advertisement company :D
+||nyaatorrents.info$important
+
+@@||nrvnqsr.com^$generichide
+@@||tsundora.com^$generichide
+
+pantsu.cat###cookie-warning
+||imgur.com^$domain=tsumino.com,important
+||tsumino.com/static/*.gif$image
+
+||anime8.*$important
+||anilinkz.*/count.php$important
+||9anime.is/clear.gif$important,redirect=1x1-transparent.gif
 ! --------------------------------------------------------------------------- !
 
 kobatochan.com###supplementary
@@ -1923,6 +1830,7 @@ casino*
 cdn.eyewonder.com*
 cdn1.eyewonder.com
 chitika.net*
+chyoa.com/*/*.php?mg=*
 click.dtiserv2.com*
 clickagents.com*
 clicksor.com*
@@ -2108,7 +2016,8 @@ bing.com#*(sb_adsW)
 bittorrent.com#*(bottom_sponsored)
 boardreader.com#*(adsense_side300_3)
 btmon.com#*(left_col)
-bytes.com#*(rightads)
+bytes.com#*(rightads
+cheezburger.com##.ad-container-list.js-ad-container
 cnet.com#*(asl_margin)
 ! cnn.com#*(cnn20pxTpad)
 ! cnn.com#*(cnn321pxBlock)
@@ -2399,6 +2308,7 @@ freeze.com#body
 healthandwellnessoffers.com#body
 hilarysweightloss.com#body
 haunted-guinness-crockett.com#body
+hpfanficarchive.com/*png
 imaalliance.com#body
 interesoft.com#body
 kaydensweightloss.com#body
