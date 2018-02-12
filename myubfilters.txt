@@ -2,6 +2,9 @@ bitlord.com/
 
 thepiratebay.*###details > div:nth-of-type(3) > div:nth-of-type(2) [href]:style(pointer-events: none !important; cursor: default !important;)
 
+! 2/12/2018, 12:19:32 PM http://rutracker.org/forum/index.php
+||rutrk.org*.gif$image
+
 ! 2/12/2018, 12:21:47 PM http://rutracker.org/forum/index.php
 ||rutrk.*/images/*.gif$image
 
@@ -11,6 +14,15 @@ thepiratebay.*###details > div:nth-of-type(3) > div:nth-of-type(2) [href]:style(
 
 ! 2/12/2018, 12:31:18 PM http://rutracker.org/forum/index.php
 ||rublacklist.*/images/*.png$image
+
+! 2/12/2018, 12:38:29 PM https://liliputing.com/2018/02/deals-day-2-12-2018.html
+liliputing.com##.orangebordered
+
+! 2/12/2018, 12:38:47 PM https://liliputing.com/2018/02/deals-day-2-12-2018.html
+liliputing.com###text-391998738 > .widget-wrap > .textwidget > center > .adsbygoogle
+
+liliputing.com###text-391998738 > .widget-wrap > .textwidget > center
+
 
 *rad.mob-api.net*
 imagebam.com##[href*="rad.mob-api.net"]
