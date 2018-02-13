@@ -47,6 +47,156 @@ www.mangareader.net##.c3
 ||rutrk.org
 rutracker.org$inline-script
 
+@@||blockergame.com^$generichide
+@@||blockersurvive.com^$generichide
+blockersurvive.com,blockergame.com##.ads > .ads-body > .ads-content > div
+blockersurvive.com,blockergame.com##.ads > .ads-body:style(background: initial !important;)
+
+# https://github.com/jspenguin2017/uBlockProtector/issues/746
+||imasdk.googleapis.com/js/sdkloader/outstream.js$script,redirect=noopjs,domain=squadd.io
+squadd.io###mc-videoads-overlay
+
+# https://github.com/jspenguin2017/uBlockProtector/issues/752
+wolframclient.net##script:inject(nano-remove-element-onready.js, [data-ad-client^="ca-pub-"])
+
+# https://github.com/jspenguin2017/uBlockProtector/issues/390
+vvvvid.it##script:inject(nano-vvvvid-it.js)
+
+# https://github.com/jspenguin2017/uBlockProtector/issues/761
+developpez.com##div:has(:scope > [id^="gabarit_pub"])
+
+# https://gitlab.com/xuhaiyang1234/uBlockProtectorSecretIssues/issues/1
+altadefinizione.*##.sm_header.sm_nomobile:has(:scope > a[href*="/HD/play"])
+
+# https://github.com/jspenguin2017/uBlockProtector/issues/760
+||tatumsmolena.com^
+||cayucosprenter.com^
+
+# NSFW! Missed ads, test: http://www.avseesee.com/
+avseesee.com###getadiv
+avseesee.com##.ads
+
+# NSFW! https://www.reddit.com/r/camwhorestv/comments/7li9kr/anyone_else_having_problems_with_adblock_on/
+camwhores.tv##script:inject(nano-camwhores-tv.js)
+camwhores.tv##body > div:matches-css(z-index: 9999999)
+camwhores.tv##body > a[href^="//"]
+
+# https://www.reddit.com/r/uBlockOrigin/comments/7imqbx/firefox_quantum_working_antiadblockkiller/
+libgen.io##script:inject(setTimeout-defuser.js, ad blocking)
+
+# https://github.com/jspenguin2017/uBlockProtector/issues/782
+download.inventivetalent.org##div:has(:scope > div > button.choice-adfly)
+
+# https://github.com/jspenguin2017/uBlockProtector/issues/807
+# https://github.com/NanoAdblocker/NanoFilters/issues/15
+# https://github.com/NanoAdblocker/NanoFilters/issues/20
+msnbc.com,nbcnews.com,today.com##script:inject(abort-on-property-read.js, stop)
+
+# https://github.com/jspenguin2017/uBlockProtector/issues/808
+||browserleaks.com/js/proxy_ab.js$script
+
+# https://github.com/jspenguin2017/uBlockProtector/issues/810
+9anime.*##.abmsg
+
+# https://github.com/jspenguin2017/uBlockProtector/issues/816
+myegy.tv##.disclaimer:has-text(Ad-Blocker)
+
+# https://github.com/jspenguin2017/uBlockProtector/issues/819
+html-online.com#@#.adBanner
+
+# https://github.com/jspenguin2017/uBlockProtector/issues/830
+elespanol.com###adblock_modal
+
+# NSFW! https://github.com/uBlockOrigin/uAssets/issues/642
+redtube.com###ab_banner
+
+# https://github.com/jspenguin2017/uBlockProtector/issues/834
+encyclopediadramatica.rs###siteNotice center:has-text(AdBlock)
+
+# https://github.com/jspenguin2017/uBlockProtector/issues/837
+funnygames.*#@#.afs_ads
+
+# https://github.com/jspenguin2017/uBlockProtector/issues/839
+@@||videolab.io^$generichide
+
+# https://github.com/NanoAdblocker/NanoDefender/issues/21
+bham.pl##body > div:has-text(UWAGA:)
+
+# https://github.com/jspenguin2017/uBlockProtector/issues/843
+jn.pt##.t-pubbox-inner
+
+# https://github.com/jspenguin2017/uBlockProtector/issues/848
+dn.pt##.t-pub-inner
+
+# ################################# #
+# #### Pending Synchronization #### #
+# ################################# #
+
+# https://github.com/NanoAdblocker/NanoDefender/issues/24
+wp-time.com##a[href^="https://goo.gl/"]:has(img)
+wp-time.com###pop-ad-wrap
+
+# https://github.com/NanoAdblocker/NanoDefender/issues/25
+coolgames.com###mainContainerVideo:has(#adContainerVideo)
+
+# https://github.com/jspenguin2017/uBlockProtector/issues/835
+link.tl##.mobsplOverlay
+link.tl##.mobsplBox
+
+# https://github.com/jspenguin2017/uBlockProtector/issues/851
+journaldugeek.com##.banner__content
+
+
+# The donation message is getting excessive, test: https://en.wikipedia.org/wiki/%22Hello,_World!%22_program
+wikipedia.org##script:inject(abort-on-property-write.js, frb)
+
+# https://github.com/jspenguin2017/uBlockProtector/issues/126
+italiashare.*##script:inject(abort-on-property-write.js, document.onkeydown)
+italiashare.*##script:inject(abort-on-property-write.js, killCopy)
+
+# https://github.com/NanoAdblocker/NanoDefender/issues/12
+rektstack.com##script:inject(abort-on-property-write.js, document.oncontextmenu)
+
+# Annoyance filter for Nano Adblocker
+# Cookie notice, intrusive donation message, try browser,
+# anti-copy, hostile anti-select, hostile anti-right-click, etc
+
+# https://github.com/uBlockOrigin/uAssets/issues/881#issuecomment-354490943
+/cookie-widget/*
+
+# https://github.com/NanoAdblocker/NanoFilters/issues/1
+microsoft.com,live.com###epb
+
+@@||advertising.apple.com^$domain=advertising.apple.com
+@@||ads.tapit.com^$domain=ads.tapit.com
+@@||google.co.uk/ads/$domain=google.co.uk
+@@||google.com/adsense/$document,domain=google.com
+@@||openx.com^$domain=openx.com
+@@||support.google.com/adwords/$document,domain=support.google.com
+@@||ads.senddroid.com/$document,domain=ads.senddroid.com
+@@||ads.socialbakers.com$domain=ads.socialbakers.com
+
+cistor.pl##img[src*="/ads_files/"]
+nysa.eu##img[src*="/ads_files/"]
+wrzesnia.pl##img[src*="/ads_files/"]
+
+! Opera doesn't support regex rules
+74.ru##.banner
+74.ru##object[id^="ban"]
+74.ru##div[id^="sb_"]
+
+! Should bypass pirateproxy.net's popup mechanism
+||*^$popup,domain=pirateproxy.net
+! block FB script which loads FB ads
+||connect.facebook.net^*/fbevents.js$third-party
+
+! 2/12/2018, 6:49:25 PM http://1337x.to/
+1337x.to##.bitcoin-text
+
+! 2/12/2018, 6:49:38 PM http://1337x.to/
+1337x.to##.bitcoin
+
+
 *rad.mob-api.net*
 imagebam.com##[href*="rad.mob-api.net"]
 imgbox.com##[href*="rad.mob-api.net"]
