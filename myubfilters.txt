@@ -348,7 +348,7 @@ www.mangapanda.com##[href*="http://www.animemobile.com/"]
 &refer=
 &refer_domain=
 &referer=
-&referrer=$domain~=reddit.com
+&referrer=
 &referrerurl=
 &refurl=
 &resp=ad;
@@ -789,7 +789,7 @@ www.mangapanda.com##[href*="http://www.animemobile.com/"]
 ?promoid=
 ?refer_id=
 ?referer=
-?referrer=
+?referrer=$domain~=reddit.com
 ?refurl=
 ?send_browser=
 ?site_id=
