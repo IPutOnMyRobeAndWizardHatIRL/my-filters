@@ -43,6 +43,10 @@ www.mangareader.net##.c3
 ||rublacklist.net/media/banner_
 ||rublacklist.net^$domain=kinozal.tv
 
+||rutrk.org$inline-script
+||rutrk.org
+rutracker.org$inline-script
+
 *rad.mob-api.net*
 imagebam.com##[href*="rad.mob-api.net"]
 imgbox.com##[href*="rad.mob-api.net"]
