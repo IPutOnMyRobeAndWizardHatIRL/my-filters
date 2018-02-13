@@ -308,7 +308,7 @@ www.mangapanda.com##[href*="http://www.animemobile.com/"]
 !=======================================================================
 !
 #publisherkey=
-#referrer=
+#eer=
 &ad_ids=
 &ad_key=
 &ad_size=
@@ -348,7 +348,7 @@ www.mangapanda.com##[href*="http://www.animemobile.com/"]
 &refer=
 &refer_domain=
 &referer=
-&referrer=
+&referrer=$domain~=reddit.com
 &referrerurl=
 &refurl=
 &resp=ad;
