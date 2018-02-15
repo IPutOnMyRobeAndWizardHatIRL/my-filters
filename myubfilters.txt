@@ -1698,7 +1698,7 @@ onhax.me###top-promo-dload
 !
 ##.third-pt-ad-abs
 ###bab10025
-##.a
+##.a$domain~-citationmachine.net
 ##.AD_wrapper
 !
 hk.thenewslens.com##.help-tnl-container-970_250
@@ -2000,14 +2000,6 @@ fingerprint.js$important
 /mollom/$script
 /mollom/$xmlhttprequest
 
-
-@@blizzard.com
-@@fleetilla.com/fleetOrb/Fleetilla/
-@@mozillazine.org
-@@http://www.ad.tomshardware.com/play/
-@@http://www.ad.tomshardware.com/xmlconfig.xml
-@@|http://media.tomshardware.com/cgi-bin/*
-@@|http://media.tomshardware.com/video/videoPlayer.swf*
 !
 ! Greedy websites blocking adblockers are blacklisted altogether; for redemption contact me but no games.
 ! Begin Filters below this line
