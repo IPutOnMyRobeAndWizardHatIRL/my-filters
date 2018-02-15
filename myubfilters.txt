@@ -1,5 +1,7 @@
 bitlord.com/
 
+! 2/15/2018, 2:28:40 PM https://thepiratebay.org/torrent/6774735/The_Change-Up_(2011)_720p_BrRip_x264_-_750MB_-_YIFY
+thepiratebay.*##div:nth-of-type(4) > div:nth-of-type(2) [href]:style(pointer-events: none !important; cursor: default !important;)
 thepiratebay.*###details > div:nth-of-type(3) > div:nth-of-type(2) [href]:style(pointer-events: none !important; cursor: default !important;)
 
 ! 2/12/2018, 12:19:32 PM http://rutracker.org/forum/index.php
@@ -34,6 +36,9 @@ readms.net###msa-footer-btf
 
 ! 2/12/2018, 12:50:52 PM http://www.mangareader.net/
 www.mangareader.net##.c3
+
+! 2/15/2018, 12:09:57 PM https://www.limetorrents.cc/search/all/blackfish/
+www.limetorrents.cc##.table3 > tbody
 
 ||rublacklist.net/images/rutracker_
 ||rublacklist.net/media/*vpn.
