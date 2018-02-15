@@ -389,6 +389,7 @@ mangadeep.com##script:has-text(ad block)
 127.0.0.1 www.donotwatch.org
 127.0.0.1 www.dontwatch.us
 127.0.0.1 www.eelsoup.net
+127.0.0.1 www.fingerslam.com
 127.0.0.1 www.fruitlauncher.com
 127.0.0.1 www.fuck.org
 127.0.0.1 www.funnelchair.com
@@ -403,6 +404,7 @@ mangadeep.com##script:has-text(ad block)
 127.0.0.1 www.junecleeland.com
 127.0.0.1 www.kids-in-sandbox.com
 127.0.0.1 www.kidsinsandbox.info
+127.0.0.1 www.k-k-k.com
 127.0.0.1 www.lemonparty.biz
 127.0.0.1 www.lemonparty.org
 127.0.0.1 www.lolhello.com
@@ -442,6 +444,7 @@ mangadeep.com##script:has-text(ad block)
 127.0.0.1 www.vomitgirl.org
 127.0.0.1 www.walkthedinosaur.com
 127.0.0.1 www.whipcrack.org
+127.0.0.1 www.whoomp.org
 127.0.0.1 www.wormgush.com
 127.0.0.1 www.xvideoslive.com
 127.0.0.1 www.y8.com
@@ -451,6 +454,16 @@ mangadeep.com##script:has-text(ad block)
 127.0.0.1 youaresogay.com
 127.0.0.1 zentastic.com
 #</shock-sites>
+||paypal.com^*/api/log$badfilter
+
+
+
+
+
+
+
+
+
 
 
 ! 1/27/2018, 11:31:01 AM https://liliputing.com/
@@ -1698,7 +1711,6 @@ onhax.me###top-promo-dload
 !
 ##.third-pt-ad-abs
 ###bab10025
-##.a$domain~-citationmachine.net
 ##.AD_wrapper
 !
 hk.thenewslens.com##.help-tnl-container-970_250
@@ -2851,11 +2863,6 @@ $websocket,domain=300mbfilms.co|a-o.ninja|ajplugins.com|dekoder.ws|fileone.tv|jk
 ##.f1
 ##.fInfo > center:nth-of-type(1)
 ##.flex-wrap.justify-center.flex-row.after-content
-##.footer__donate
-##.footer__sub
-##.footer-box
-##.footer-subscribe
-##.footer-title
 ##.funbox
 ##.goster.we-use-cookies
 ##.gri-bg.tam-konteyner:nth-of-type(4)
@@ -2883,9 +2890,6 @@ $websocket,domain=300mbfilms.co|a-o.ninja|ajplugins.com|dekoder.ws|fileone.tv|jk
 ##.post-navigation.navigation
 ##.premium-background
 ##.randomFile
-##.recent-video
-##.region-content-pre.region
-##.related-posts
 ##.results-ad
 ##.rounded-0.bg-red.text-white.f5.px-3.py-2
 ##.shop_promo
@@ -3269,13 +3273,7 @@ gizmodo.com##.js_ad-dynamic.show-for-large-up.ad-wide.video-page-ad
 gizmodo.com##.notransform.ad-non-sticky.leftrailmodule.sidebar-module
 
 thepiratebay.*^$third-party
-
-! 2/8/2018, 2:45:01 PM https://www.google.com/search?q=lion+vub&oq=lion+vub&aqs=chrome..69i57j0l5.1887j0j4&sourceid=chrome&ie=UTF-8
 www.google.com###rhscol
-
-!@@||fanfiction.net$generichide
-
-! 2/9/2018, 12:41:52 PM https://www.theguardian.com/lifeandstyle/2018/feb/05/dogs-chernobyl-abandoned-pets-stray-exclusion-zone
 ##.site-message--android.site-message--banner.js-site-message.site-message
 
 @@||mangadeep.com$generichide
