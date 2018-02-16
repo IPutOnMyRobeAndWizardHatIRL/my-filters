@@ -1164,8 +1164,8 @@ _gpt_bootstrap_
 !-----------------------------------------------------------------------
 !
 .omnitrack.
-/(\W|_)omniture(base|include|service|tracking)?(\W|_)/$~stylesheet
-/(\W|_)s[-_.]code[0-9]*(\W|_)/
+!/(\W|_)omniture(base|include|service|tracking)?(\W|_)/$~stylesheet
+!/(\W|_)s[-_.]code[0-9]*(\W|_)/
 /customomnituredata_
 /instrumentomniturebasejs/*
 /omnicode.
@@ -1178,7 +1178,7 @@ _gpt_bootstrap_
 /omniunih.
 /omtr_code.
 /omtr_variable.
-/omuniture/*
+
 /parseomniture.
 _omniturevarscomm.
 !
