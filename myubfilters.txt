@@ -1009,7 +1009,7 @@ www.mangapanda.com##[href*="http://www.animemobile.com/"]
 ?referrer=$domain~=reddit.com
 ?refurl=
 ?send_browser=
-?site_id=
+?site_id=$domain~=vsco.co
 ?sitecode=
 ?siteid=$~stylesheet
 ?websiteid=
