@@ -3293,7 +3293,6 @@ www.google.com###rhscol
 .statcounter.com/sitemeter.com
 .trackword.net/showads.jp
 /adimages
-/ads
 /ads/media/images
 /adserver
 /advert
