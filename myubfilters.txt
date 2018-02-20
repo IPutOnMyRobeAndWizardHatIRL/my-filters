@@ -1713,6 +1713,7 @@ www.viu.com##.pb30.pt30.video-cmd-pic
 !||*/*adblock*.js$script
 !||*/*adblock*/*.js$script
 blockadblock.com##script:inject(bab-defuser.js)
+realbooru.com##script:inject(addEventListener-defuser.js, DOMContentLoaded, innerHTML)
 ! onhax.me (Install RightToCopy extension to prevent right click link redirecting)
 onhax.me###bottom-promo-abdload
 onhax.me###top-promo-dload
