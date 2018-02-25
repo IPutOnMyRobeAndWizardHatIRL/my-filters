@@ -4,6 +4,8 @@ techmazza.com##script:inject(bab-defuser.js)
 thepiratebay.*##div:nth-of-type(4) > div:nth-of-type(2) [href]:style(pointer-events: none !important; cursor: default !important;)
 thepiratebay.*###details > div:nth-of-type(3) > div:nth-of-type(2) [href]:style(pointer-events: none !important; cursor: default !important;)
 
+mangadeep.com#@#.afs_ads
+
 ! 2/12/2018, 12:19:32 PM http://rutracker.org/forum/index.php
 ||rutrk.org*.gif$image
 
@@ -262,7 +264,6 @@ imgbox.com##[href*="rad.mob-api.net"]
 forums*###cookieNotice
 creativecow.net/js/script*
 mangadeep.com##script:has-text(ad block)
-@@mangadeep.com$generichide
 ||loggly.com$third-party
 /hotfix.js
 !working regex
@@ -3290,7 +3291,6 @@ thepiratebay.*^$third-party
 www.google.com###rhscol
 ##.site-message--android.site-message--banner.js-site-message.site-message
 
-@@||mangadeep.com$generichide
 
 .ad-cloud.jp/ad
 .mediaplex.com/ad
