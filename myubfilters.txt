@@ -1,9 +1,10 @@
-[Adblock Plus 2.0]
-! Title: Jakky567's UBOfilters
+! Title: Jakky567ubofilters
 ! Last Modified: 2018-02-26
 ! Expires: 1 days
 !
-! Author: Jakky567
+! Author:Jakky567
+!
+
 
 
 bitlord.com/
