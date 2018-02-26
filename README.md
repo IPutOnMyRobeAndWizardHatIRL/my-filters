@@ -1,2 +1,2 @@
-# Fanboy-annoyance-s-with-no-Social
+# Jakky567's adblock filters
 Here is a list of my custom Ublock origin filters. I take the approach that while social media is annoying sometimes, it can be useful, so I generally will not block widgets or logins or comment sections. That being said, I will have a separate list focused on privacy/speeding up webpage loading by blocking things like third party comment systems. A list of site fixes are also included as a separate list, for my policy will be to separate out the functionality where possible.
