@@ -1,1 +1,3 @@
 ||cloudflare.com^$badfilter
+||imgur.com/b$badfilter
+mangadeep.com#@#.afs_ads
