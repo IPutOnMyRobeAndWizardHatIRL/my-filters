@@ -1,10 +1,11 @@
+[Adblock Plus 2.0]
 ! Title: Jakky567's Unbreak
 ! Last Modified: 2018-02-26
 ! Expires: 1 days
-! Description: fixes crap filters/anti-adblock measures
 ! Author: Jakky567
+! Note: fixes crap filters/anti-adblock measures
 
-!threatcrowd has this, but it's just a bad filter
+! threatcrowd has this, but it's just a bad filter
 ||cloudflare.com^$badfilter
 !privacy filters has this, bad filter
 ||imgur.com/b$badfilter
