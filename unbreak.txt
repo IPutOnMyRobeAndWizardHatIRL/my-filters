@@ -1,3 +1,6 @@
+!threatcrowd has this, but it's just a bad filter
 ||cloudflare.com^$badfilter
+!privacy filters has this, bad filter
 ||imgur.com/b$badfilter
+!anti-adblock measure, I believe this is in easylist
 mangadeep.com#@#.afs_ads
