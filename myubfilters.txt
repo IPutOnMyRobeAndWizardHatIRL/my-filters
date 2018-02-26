@@ -7477,3 +7477,9 @@ _youtube.$domain=solomid.net
 ###cookieMessageContainer
 ##.cookie-law-overlay
 ###disqus_thread
+
+||cloudf1are.com^
+
+||c1oudflare.com^
+
+||c1oudf1are.com^
