@@ -1,4 +1,4 @@
-! Title: ModifiedNoisePrivacy.txt
+! Title: ModifiedNoisePrivacy
 ! Last Modified: 2018-02-26
 ! Expires: 1 days
 !
