@@ -1,4 +1,4 @@
-! Title: ModifiedNoisePrivacy
+! Title: Jakky567's ModifiedNoisePrivacy
 ! Last Modified: 2018-02-26
 ! Expires: 1 days
 !
@@ -134,5 +134,5 @@ imgur.com##div#under-image
 ##div.discussionContainer
 ###liste_reactions
 ~nexusmods.com##.comment-thread
-||disquscdn.com$domain~=disqus.com
-||disqus.com$third-party
+||disquscdn.com^$domain~=disqus.com
+||disqus.com^$third-party
