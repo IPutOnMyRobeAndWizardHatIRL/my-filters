@@ -31,8 +31,8 @@ cracked.com###Comments
 msnbc.com##.comments
 ##[class~=commentlist]
 ##[class~=commentList]
-##[id~=commentlist]
-##[id~=commentList]
+##[id~=commentlist]$domain~=funnyjunk.com
+##[id~=commentList]$domain~=funnyjunk.com
 ##[class~=comment-list]
 ##[id~=comment-list]
 ~quora.com##[class~=comment_list]
