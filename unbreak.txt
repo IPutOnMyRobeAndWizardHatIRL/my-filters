@@ -12,3 +12,4 @@
 !anti-adblock measure, I believe this is in easylist
 mangadeep.com#@#.afs_ads
 @@/googleanalytics.js$domain=phantasytour.com
+||paypal.com^*/api/log$badfilter
