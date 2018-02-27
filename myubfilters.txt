@@ -278,7 +278,7 @@ mangadeep.com##script:has-text(ad block)
 
 #<shock-sites>
 # For example, to block unpleasant pages, try:
-127.0.0.1 goatse.cx       # More information on sites sucas 
+127.0.0.1 goatse.cx       # More information on sites such as
 127.0.0.1 www.goatse.cx   # these can be found in this article
 127.0.0.1 oralse.cx       # en.wikipedia.org/wiki/List_of_shock_sites
 127.0.0.1 www.oralse.cx
@@ -288,8 +288,6 @@ mangadeep.com##script:has-text(ad block)
 127.0.0.1 www.oralse.ca
 127.0.0.1 goat.cx
 127.0.0.1 www.goat.cx
-127.0.0.1 shafou.com
-127.0.0.1 www.shafou.com
 
 127.0.0.1 1girl1pitcher.com
 127.0.0.1 1girl1pitcher.org
@@ -298,9 +296,9 @@ mangadeep.com##script:has-text(ad block)
 127.0.0.1 1man2needles.com
 127.0.0.1 1priest1nun.com
 127.0.0.1 1priest1nun.net
-127.0.0.1 2girls1cup-free.com
 127.0.0.1 2girls1cup.cc
 127.0.0.1 2girls1cup.com
+127.0.0.1 2girls1cup-free.com
 127.0.0.1 2girls1cup.nl
 127.0.0.1 2girls1cup.ws
 127.0.0.1 2girls1finger.com
@@ -329,8 +327,8 @@ mangadeep.com##script:has-text(ad block)
 127.0.0.1 fuck.org
 127.0.0.1 funnelchair.com
 127.0.0.1 goatse.bz
-127.0.0.1 goatse.ru
 127.0.0.1 goatsegirl.org
+127.0.0.1 goatse.ru
 127.0.0.1 hai2u.com
 127.0.0.1 homewares.org
 127.0.0.1 howtotroll.org
@@ -385,8 +383,8 @@ mangadeep.com##script:has-text(ad block)
 127.0.0.1 www.1man2needles.com
 127.0.0.1 www.1priest1nun.com
 127.0.0.1 www.1priest1nun.net
-127.0.0.1 www.2girls1cup-free.com
 127.0.0.1 www.2girls1cup.cc
+127.0.0.1 www.2girls1cup-free.com
 127.0.0.1 www.2girls1cup.nl
 127.0.0.1 www.2girls1cup.ws
 127.0.0.1 www.2girls1finger.org
@@ -409,13 +407,12 @@ mangadeep.com##script:has-text(ad block)
 127.0.0.1 www.donotwatch.org
 127.0.0.1 www.dontwatch.us
 127.0.0.1 www.eelsoup.net
-127.0.0.1 www.fingerslam.com
 127.0.0.1 www.fruitlauncher.com
 127.0.0.1 www.fuck.org
 127.0.0.1 www.funnelchair.com
 127.0.0.1 www.goatse.bz
-127.0.0.1 www.goatse.ru
 127.0.0.1 www.goatsegirl.org
+127.0.0.1 www.goatse.ru
 127.0.0.1 www.hai2u.com
 127.0.0.1 www.homewares.org
 127.0.0.1 www.howtotroll.org
@@ -424,7 +421,6 @@ mangadeep.com##script:has-text(ad block)
 127.0.0.1 www.junecleeland.com
 127.0.0.1 www.kids-in-sandbox.com
 127.0.0.1 www.kidsinsandbox.info
-127.0.0.1 www.k-k-k.com
 127.0.0.1 www.lemonparty.biz
 127.0.0.1 www.lemonparty.org
 127.0.0.1 www.lolhello.com
@@ -464,7 +460,6 @@ mangadeep.com##script:has-text(ad block)
 127.0.0.1 www.vomitgirl.org
 127.0.0.1 www.walkthedinosaur.com
 127.0.0.1 www.whipcrack.org
-127.0.0.1 www.whoomp.org
 127.0.0.1 www.wormgush.com
 127.0.0.1 www.xvideoslive.com
 127.0.0.1 www.y8.com
@@ -473,8 +468,15 @@ mangadeep.com##script:has-text(ad block)
 127.0.0.1 www.zentastic.com
 127.0.0.1 youaresogay.com
 127.0.0.1 zentastic.com
+127.0.0.1 goatse.cx       # More information on sites sucas 
+127.0.0.1 shafou.com
+127.0.0.1 www.shafou.com
+
+127.0.0.1 www.fingerslam.com
+127.0.0.1 www.k-k-k.com
+127.0.0.1 www.whoomp.org
 #</shock-sites>
-||paypal.com^*/api/log$badfilter
+
 
 
 
