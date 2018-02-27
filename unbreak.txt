@@ -14,3 +14,5 @@ mangadeep.com#@#.afs_ads
 @@/googleanalytics.js$domain=phantasytour.com
 !ublock filters + I think causes this
 ||paypal.com^*/api/log$badfilter
+!easyprivacy, adguardspyware... yada yada
+@@/googleanalytics.js$script,domain=phantasytour.com
