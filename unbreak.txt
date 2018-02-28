@@ -16,3 +16,6 @@ mangadeep.com#@#.afs_ads
 ||paypal.com^*/api/log$badfilter
 !easyprivacy, adguardspyware... yada yada
 @@/googleanalytics.js$script,domain=phantasytour.com
+!threatcrowd again
+||s0.wp.com^$badfilter
+||hubspot.com^$badfilter
