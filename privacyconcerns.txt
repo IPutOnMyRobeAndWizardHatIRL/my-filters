@@ -7,5 +7,5 @@
 
 
 ||disqus.com^$third-party
-||disquscdn.com^$domain~=disqus.com
+||disquscdn.com^$third-party,domain~=disqus.com
 ###disqus_thread
