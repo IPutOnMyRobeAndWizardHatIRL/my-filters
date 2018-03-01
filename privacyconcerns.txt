@@ -1,0 +1,10 @@
+[Adblock Plus 2.0]
+! Title: Jakky567's Privacy Concerns
+! Last Modified: 2018-02-26
+! Expires: 1 days
+! Author: Jakky567
+! Note: Privacy concerns.
+
+###disqus_thread
+disqus.com^$third-party
+disquscdn.com$domain~=disqus.com
