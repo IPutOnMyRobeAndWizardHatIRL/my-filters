@@ -6,5 +6,5 @@
 ! Note: Privacy concerns.
 
 ###disqus_thread
-disqus.com^$third-party
-disquscdn.com$domain~=disqus.com
+||disqus.com^$third-party
+||disquscdn.com^$domain~=disqus.com
