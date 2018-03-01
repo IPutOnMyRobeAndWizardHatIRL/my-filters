@@ -6,6 +6,6 @@
 ! Note: Privacy concerns.
 
 
-||disqus.com^$third-party
+||disqus.com^$third-party,important
 ||disquscdn.com^$important
 ###disqus_thread
