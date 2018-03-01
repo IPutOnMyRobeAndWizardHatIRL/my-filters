@@ -5,6 +5,7 @@
 ! Author: Jakky567
 ! Note: Privacy concerns.
 
-###disqus_thread
+
 ||disqus.com^$third-party
 ||disquscdn.com^$domain~=disqus.com
+###disqus_thread
