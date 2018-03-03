@@ -1,0 +1,12 @@
+
+! 3/3/2018, 9:56:26 AM http://vsco.co/andersonmkelly/media/5484dcd0045615105a8b4569?crlt.pid=camp.QLJsY5EpvB7w
+vsco.co##section:nth-of-type(1) > div > div
+
+! 3/3/2018, 9:56:37 AM http://vsco.co/andersonmkelly/media/5484dcd0045615105a8b4569?crlt.pid=camp.QLJsY5EpvB7w
+vsco.co##section:nth-of-type(1) > div
+
+! 3/3/2018, 9:56:49 AM http://vsco.co/andersonmkelly/media/5484dcd0045615105a8b4569?crlt.pid=camp.QLJsY5EpvB7w
+vsco.co##a[href^="https://vs.co/a/key_live_mhCkhb7S5c0FZLIxSXcUjmjgErfCwJjC"]:nth-of-type(2)
+
+! 3/3/2018, 9:57:02 AM http://vsco.co/andersonmkelly/media/5484dcd0045615105a8b4569?crlt.pid=camp.QLJsY5EpvB7w
+vsco.co##a[href^="https://vs.co/a/key_live_mhCkhb7S5c0FZLIxSXcUjmjgErfCwJjC"]:nth-of-type(1)
