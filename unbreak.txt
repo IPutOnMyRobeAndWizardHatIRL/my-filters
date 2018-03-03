@@ -20,3 +20,5 @@ mangadeep.com#@#.afs_ads
 ||s0.wp.com^$badfilter
 ||hubspot.com^$badfilter
 ||messenger.com^$badfilter
+!spies privacy
+||facebook.net^$badfilter
