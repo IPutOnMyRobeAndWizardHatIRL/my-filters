@@ -7,7 +7,8 @@
 
 bitlord.com/
 www.fanfiction.net###storytextp:style(user-select: auto !important;)
-
+cantorlytics.vsco.co
+/cantorlytics.js$script
 techmazza.com##script:inject(bab-defuser.js)
 ! 2/15/2018, 2:28:40 PM https://thepiratebay.org/torrent/6774735/The_Change-Up_(2011)_720p_BrRip_x264_-_750MB_-_YIFY
 
