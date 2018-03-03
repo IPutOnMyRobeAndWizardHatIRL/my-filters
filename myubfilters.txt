@@ -4513,6 +4513,8 @@ $websocket,domain=300mbfilms.co|a-o.ninja|ajplugins.com|dekoder.ws|fileone.tv|jk
 ###sharingfooter
 ###simplemodal-container
 ###simplemodal-overlay
+vsco.co##script:inject(addEventListener-defuser.js,contextmenu)
+instagram.com##._si7dy
 ###siteNotice
 ###subscription-navbar
 ###taboola-right-rail-thumbnails
