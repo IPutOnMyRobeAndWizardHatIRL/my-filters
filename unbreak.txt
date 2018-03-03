@@ -19,3 +19,4 @@ mangadeep.com#@#.afs_ads
 !threatcrowd again
 ||s0.wp.com^$badfilter
 ||hubspot.com^$badfilter
+||messenger.com^$badfilter
