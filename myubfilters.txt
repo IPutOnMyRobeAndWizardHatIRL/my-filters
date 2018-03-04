@@ -77,6 +77,10 @@ http://www.ictcmwellness.com
 http://www.mekoeureministries.com/d1/instructions/up
 http://www1.66xx99.com
 http://www15.omrtw.com
+
+vsco.co##section:if(a[href^="https://vs.co/a/key_live_"]:nth-of-type(2))
+
+
 http://www16.66xx99.com
 http://www23.omrtw.com
 http://www26.66xx99.com
