@@ -1783,6 +1783,9 @@ changepw.com##.top-ad
 changepw.com##.ypabox-container
 changepw.com##.adbox-bg
 
+! 3/4/2018, 11:33:16 PM instagram.com
+||www.instagram.com/stories/reel/seen$xmlhttprequest,domain=www.instagram.com
+
 ! real one is 4cdn.org
 ||4cdns.org$important
 ||8chan.pw$important
