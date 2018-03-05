@@ -56,6 +56,12 @@ www.instagram.com##._si7dy
 ! 2/15/2018, 5:52:12 PM https://liliputing.com/
 liliputing.com###text-391998733 > .widget-wrap > .textwidget > center
 
+! 3/4/2018, 10:01:56 PM https://www.instagram.com/
+instagram.com##script:inject(addEventListener-defuser.js,contextmenu)
+
+! 3/4/2018, 11:25:41 PM https://www.instagram.com/stories/blackjaguarwhitetiger/
+www.instagram.com##._o95x1
+
 ! 2/12/2018, 12:45:34 PM https://kickass.cd/blade-runner-2049-hdrip-xvid-ac3-evo-tt19466183.html
 kickass.cd##.chatButton
 
