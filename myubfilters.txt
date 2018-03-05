@@ -62,6 +62,11 @@ instagram.com##script:inject(addEventListener-defuser.js,contextmenu)
 ! 3/4/2018, 11:25:41 PM https://www.instagram.com/stories/blackjaguarwhitetiger/
 www.instagram.com##._o95x1
 
+
+
+! 3/5/2018, 12:18:03 AM https://www.instagram.com/
+www.instagram.com##._sajt6
+
 ! 2/12/2018, 12:45:34 PM https://kickass.cd/blade-runner-2049-hdrip-xvid-ac3-evo-tt19466183.html
 kickass.cd##.chatButton
 
