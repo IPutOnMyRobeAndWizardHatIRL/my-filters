@@ -128,11 +128,6 @@ altadefinizione.*##.sm_header.sm_nomobile:has(:scope > a[href*="/HD/play"])
 avseesee.com###getadiv
 avseesee.com##.ads
 
-# NSFW! https://www.reddit.com/r/camwhorestv/comments/7li9kr/anyone_else_having_problems_with_adblock_on/
-camwhores.tv##script:inject(nano-camwhores-tv.js)
-camwhores.tv##body > div:matches-css(z-index: 9999999)
-camwhores.tv##body > a[href^="//"]
-
 # https://www.reddit.com/r/uBlockOrigin/comments/7imqbx/firefox_quantum_working_antiadblockkiller/
 libgen.io##script:inject(setTimeout-defuser.js, ad blocking)
 
@@ -651,7 +646,7 @@ www.mangapanda.com##[href*="http://www.animemobile.com/"]
 .supertop_ad.
 .utag_
 .utils.ads.
-/(\W|_)(club|more|new)?testimonials?(bottom|carousel|middle|top)?[0-9]*(\W|_)/$~stylesheet
+!/(\W|_)(club|more|new)?testimonials?(bottom|carousel|middle|top)?[0-9]*(\W|_)/$~stylesheet
 /ad-betweenposts.
 /ad-board.
 /ad-data-
@@ -1126,8 +1121,8 @@ _subad5_
 &affiliate=
 &id_aff=
 &subaffiliate=
-/(\W|_)(commercial|logos?|mobile|partners?|share|thirsty)[0-9]*(\W|_)*affiliates?[0-9]*(\W|_)/$~stylesheet
-/(\W|_)affiliates?(\W|_)*(ads?|banners?|code|frame|icons?|id|impressions?|links?|marketing|partners?|program|promos?|tag|track(ers?|ing)?|widgets?)[0-9]*(\W|_)/$~stylesheet
+!/(\W|_)(commercial|logos?|mobile|partners?|share|thirsty)[0-9]*(\W|_)*affiliates?[0-9]*(\W|_)/$~stylesheet
+!/(\W|_)affiliates?(\W|_)*(ads?|banners?|code|frame|icons?|id|impressions?|links?|marketing|partners?|program|promos?|tag|track(ers?|ing)?|widgets?)[0-9]*(\W|_)/$~stylesheet
 /aff.php?
 /aff_banner_
 /aff_i?
@@ -1153,7 +1148,7 @@ _affiliate=
 !
 -amazon-badge.
 .amznslots=
-/(\W|_)(amazon|amzn)(\W|_)*(affiliates?|ads?)(\W|_)/$~stylesheet
+!/(\W|_)(amazon|amzn)(\W|_)*(affiliates?|ads?)(\W|_)/$~stylesheet
 /ad-amazon.
 ||amazon-adsystem.com^$third-party
 ||assoc-amazon.co.uk^$third-party
@@ -1172,11 +1167,11 @@ _affiliate=
 !
 &dfp=
 -googleafcads.
-/(\W|_)(ads?|api|jquery|js|plugins?)(\W|_)dfp(\W|_)/$~stylesheet
-/(\W|_)adsense(\W|_)*(manager|widget)?(\W|_)/$~stylesheet
-/(\W|_)dfp(\W|_)(gpt|init|js|leaderboard|manager|skyscraper)?(\W|_)/$~stylesheet
-/(\W|_)ga(\W|_)?(analytics|record|track(ers?|ing)?|urchin)(\W|_)/$~stylesheet
-/(\W|_)google(\W|_)*(ads?|adsense|adservices?|afd|analyticator|analytics?|dfp|remarketing)(\W|_)/$~stylesheet
+!/(\W|_)(ads?|api|jquery|js|plugins?)(\W|_)dfp(\W|_)/$~stylesheet
+!/(\W|_)adsense(\W|_)*(manager|widget)?(\W|_)/$~stylesheet
+!/(\W|_)dfp(\W|_)(gpt|init|js|leaderboard|manager|skyscraper)?(\W|_)/$~stylesheet
+!/(\W|_)ga(\W|_)?(analytics|record|track(ers?|ing)?|urchin)(\W|_)/$~stylesheet
+!/(\W|_)google(\W|_)*(ads?|adsense|adservices?|afd|analyticator|analytics?|dfp|remarketing)(\W|_)/$~stylesheet
 /ad_google_
 /ads_google_
 /adsbygoogle.
@@ -1231,9 +1226,9 @@ _omniturevarscomm.
 !-----------------------------------------------------------------------
 !
 -app-ad.
-/(\W|_)((app|apple|google|play|windows)[-_]?store|google[-_]?play|android|app|ios)(\W|_)*(badges?|promos?|promotions?)(\W|_)/$~stylesheet
-/(\W|_)(badges?|banners?|promos?|promotions?)(\W|_)*((app|google|play|windows)[-_]?store|google[-_]?play|android|ios|itunes)(\W|_)/$~stylesheet
-/(\W|_)get[-_.]?(adobe[-_.]?(flash|reader)|flash[-_.]?player|ios[-_.]?app)(\W|_)/$~stylesheet
+!/(\W|_)((app|apple|google|play|windows)[-_]?store|google[-_]?play|android|app|ios)(\W|_)*(badges?|promos?|promotions?)(\W|_)/$~stylesheet
+!/(\W|_)(badges?|banners?|promos?|promotions?)(\W|_)*((app|google|play|windows)[-_]?store|google[-_]?play|android|ios|itunes)(\W|_)/$~stylesheet
+!/(\W|_)get[-_.]?(adobe[-_.]?(flash|reader)|flash[-_.]?player|ios[-_.]?app)(\W|_)/$~stylesheet
 /androidappbadge.
 /app_store_mini_badge.
 /appstore-install-badges/*
@@ -1249,8 +1244,8 @@ _omniturevarscomm.
 ! [Ads - Sponsored]
 !-----------------------------------------------------------------------
 !
-/(\W|_)(blog|icon|site|story|thumbs?|weather)(\W|_)*sponsor(ed|s)?[0-9]*(\W|_)/$~stylesheet
-/(\W|_)sponsor(ed|s)?(\W|_)*(box|btns?|buttons?|content|headlines?|icons?|links?|logos?|page|partners?|posts?|sections?|site|tweets?|widget)[0-9]*(\W|_)/$~stylesheet
+!/(\W|_)(blog|icon|site|story|thumbs?|weather)(\W|_)*sponsor(ed|s)?[0-9]*(\W|_)/$~stylesheet
+!/(\W|_)sponsor(ed|s)?(\W|_)*(box|btns?|buttons?|content|headlines?|icons?|links?|logos?|page|partners?|posts?|sections?|site|tweets?|widget)[0-9]*(\W|_)/$~stylesheet
 /adsandvaluedsponsors/*
 /amssponsoredsearch/*
 /linksponsoredby.
@@ -1276,7 +1271,7 @@ _utm.gif?
 ! [Annoyances - Back to Top]
 !-----------------------------------------------------------------------
 !
-/(\W|_)[0-9]*(icon)?(back|btn|float|footer|go|icon|jump|return|scroll|ui|up)[-_.]*(2|to)[-_.]*top[0-9]*(\W|_)/$~stylesheet
+!/(\W|_)[0-9]*(icon)?(back|btn|float|footer|go|icon|jump|return|scroll|ui|up)[-_.]*(2|to)[-_.]*top[0-9]*(\W|_)/$~stylesheet
 /back_to_topup.
 /backtoptab.
 /backtoptop.
@@ -1291,14 +1286,14 @@ _utm.gif?
 ! [Annoyances - Cookies Disabled Warnings]
 !-----------------------------------------------------------------------
 !
-/(\W|_)cookies?(\W|_)*disabled(\W|_)/$~stylesheet
+!/(\W|_)cookies?(\W|_)*disabled(\W|_)/$~stylesheet
 /nocookieswarning_
 !
 !
 ! [Annoyances - SmootScrolling]
 !-----------------------------------------------------------------------
 !
-/(\W|_)(nice|smooth)(\W|_)*scroll(\.min)?\.js/$~stylesheet
+!/(\W|_)(nice|smooth)(\W|_)*scroll(\.min)?\.js/$~stylesheet
 /jquery.nicescroll.
 /jquery.scrollspeed.
 /jquery.smooth-scroll.
@@ -1310,7 +1305,7 @@ _utm.gif?
 ! [Other - AdChoices]
 !-----------------------------------------------------------------------
 !
-/(\W|_)ad(\W|_)*choices?(footer|ico|ico?n|logo)?[0-9]*(\W|_)/$~stylesheet
+!/(\W|_)ad(\W|_)*choices?(footer|ico|ico?n|logo)?[0-9]*(\W|_)/$~stylesheet
 /adchoicesblue.
 /adchoicesv4.
 !
@@ -1318,8 +1313,8 @@ _utm.gif?
 ! [Other - Cookies Policy]
 !-----------------------------------------------------------------------
 !
-/(\W|_)cookies?(\W|_)*(banners?|bar|choices?|compliance|complaint|consent|disclaimers?|law|notices?|notifications?|polic(ies|y)|preferences|regulations?|warning)[0-9]*(\W|_)/$~stylesheet
-/(\W|_)eu[-_]?cookie[-_]*(laws?)?[0-9]*(\W|_)/$~stylesheet
+!/(\W|_)cookies?(\W|_)*(banners?|bar|choices?|compliance|complaint|consent|disclaimers?|law|notices?|notifications?|polic(ies|y)|preferences|regulations?|warning)[0-9]*(\W|_)/$~stylesheet
+!/(\W|_)eu[-_]?cookie[-_]*(laws?)?[0-9]*(\W|_)/$~stylesheet
 /acceptcookie.
 /cookieconsentmodal-
 /cookielawinfo.
@@ -1336,8 +1331,24 @@ _utm.gif?
 ! [Other - Crypto Currency Mining]
 !-----------------------------------------------------------------------
 !
-/(\W|_)coin(\W|_)*hive[0-9]*(\W|_)/$script,~stylesheet
+!/(\W|_)coin(\W|_)*hive[0-9]*(\W|_)/$script,~stylesheet
 !
+
+! 3/5/2018, 12:25:09 AM http://vsco.co/
+vsco.co##svg
+
+! 3/5/2018, 12:25:17 AM http://vsco.co/
+vsco.co##.home-content-item
+
+! 3/5/2018, 12:25:24 AM http://vsco.co/
+vsco.co##.home-content-stream
+
+
+! 3/5/2018, 12:25:41 AM http://vsco.co/
+vsco.co##.home-sc-call-video
+
+! 3/5/2018, 12:26:23 AM http://vsco.co/
+vsco.co##.home-ctd-video
 
 ! [Ads - Trackers]
 !-----------------------------------------------------------------------
