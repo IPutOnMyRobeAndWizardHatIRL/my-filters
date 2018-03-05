@@ -235,6 +235,13 @@ wrzesnia.pl##img[src*="/ads_files/"]
 ! 2/12/2018, 6:49:38 PM http://1337x.to/
 1337x.to##.bitcoin
 
+
+
+! 3/4/2018, 11:39:06 PM https://www.instagram.com/
+www.instagram.com##._7thjo
+
+! 3/4/2018, 11:39:52 PM https://www.instagram.com/
+www.instagram.com##._j12ff
 bitlord.com/
 
 thepiratebay.*###details > div:nth-of-type(3) > div:nth-of-type(2) [href]:style(pointer-events: none !important; cursor: default !important;)
