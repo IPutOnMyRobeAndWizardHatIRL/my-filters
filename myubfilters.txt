@@ -63,6 +63,24 @@ instagram.com##script:inject(addEventListener-defuser.js,contextmenu)
 www.instagram.com##._o95x1
 
 
+1337x.*##script:inject(window.open-defuser.js)
+1337x.*##script:inject(setInterval-defuser.js, (), 500)
+1337x.*##script:inject(addEventListener-defuser.js, /^(click|mousedown|)/, popunder)
+1337x.*##script:inject(abort-on-property-write.js, Fingerprint2)
+1337x.*##.bitcoin-text
+1337x.*##.bitcoin
+x1337x.*##body > div:not(.wrapper)
+x1337x.*##script:inject(window.open-defuser.js)
+x1337x.*##script:inject(setInterval-defuser.js, (), 500)
+x1337x.*##script:inject(addEventListener-defuser.js, /^(click|mousedown|)/, popunder)
+x1337x.*##script:inject(abort-on-property-write.js, Fingerprint2)
+x1337x.*##.bitcoin-text
+x1337x.*##.bitcoin
+x1337x.*##body > div:not(.wrapper)
+||cdn.1337x.*/ip*.php
+||cdn.x1337x.*/ip*.php
+/\/1337x\.[A-Za-z]{2,}\/.*[a-f]{7,}/$script,domain=1337x.to,1337x.st,x1337x.ws,x1337x.eu
+
 
 ! 3/5/2018, 12:18:03 AM https://www.instagram.com/
 www.instagram.com##._sajt6
