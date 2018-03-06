@@ -231,10 +231,10 @@ wrzesnia.pl##img[src*="/ads_files/"]
 ||connect.facebook.net^*/fbevents.js$third-party
 
 ! 2/12/2018, 6:49:25 PM http://1337x.to/
-1337x.to##.bitcoin-text
+1337x.to,1337x.st,x1337x.ws,x1337x.eu##.bitcoin-text
 
 ! 2/12/2018, 6:49:38 PM http://1337x.to/
-1337x.to##.bitcoin
+1337x.to,1337x.st,x1337x.ws,x1337x.eu##.bitcoin
 
 
 
@@ -293,7 +293,7 @@ www.mangareader.net##.c3
 *rad.mob-api.net*
 imagebam.com##[href*="rad.mob-api.net"]
 imgbox.com##[href*="rad.mob-api.net"]
-1337x.to,1337x.st,x1337x.ws##[href*=".php"]
+1337x.to,1337x.st,x1337x.ws,x1337x.eu##[href*=".php"]
 forums*###cookieNotice
 creativecow.net/js/script*
 mangadeep.com##script:has-text(ad block)
