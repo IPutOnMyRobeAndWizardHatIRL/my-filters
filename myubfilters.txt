@@ -6200,7 +6200,7 @@ _youtube.$domain=solomid.net
 /ga.js
 /ga_social_tracking.js
 /gampad/ads
-/gen_204
+/gen_204?
 /generate_204
 /get-noapi-counts.php
 /getads
