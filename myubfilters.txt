@@ -173,6 +173,24 @@ html-online.com#@#.adBanner
 # https://github.com/jspenguin2017/uBlockProtector/issues/830
 elespanol.com###adblock_modal
 
+chyoa.com##.chyoa-adzone-1.chyoa-adzone
+
+
+chyoa.com##.chyoa-adzone-2.chyoa-adzone
+
+
+
+www.pornhub.com###androidAppBar
+
+
+www.pornhub.com##.removeAdLink.headerUpgradePremiumBtn
+
+
+www.bing.com###bnp_ttc_div
+
+ 
+www.bing.com###bnp_cont
+
 # NSFW! https://github.com/uBlockOrigin/uAssets/issues/642
 redtube.com###ab_banner
 
