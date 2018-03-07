@@ -21,6 +21,8 @@ mangadeep.com#@#.afs_ads
 
 ! 2/12/2018, 12:19:32 PM http://rutracker.org/forum/index.php
 ||rutrk.org*.gif$image
+! 3/6/2018, 7:47:44 PM https://www.google.com/search?num=50&hl=en&ei=wkOfWt-YA-G8ggfKqaUw&q=d3d3d3&oq=d3d3d3&gs_l=psy-ab.3..0l2j0i30k1l6j0i5i30k1l2.18147.19586.0.19807.6.6.0.0.0.0.142.779.0j6.6.0....0...1c.1.64.psy-ab..0.6.765...0i131k1.0.7NjA8uHo-m4
+google.*##.ab_button._Fmb:style(background-color: #d3d3d3 !important;)
 
 hubspot.com$third-party
 hubspot.com$inline-script
