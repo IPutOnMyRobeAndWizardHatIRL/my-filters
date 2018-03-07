@@ -707,6 +707,29 @@ liliputing.com##.entry.second-post
 /xmr.min.js$script
 /cryptonight.wasm$script
 
+reddit.com##.content:style(background-color: #D3D3D3 ! important;)
+reddit.com##body:style(background-color: #D3D3D3 ! important;)
+google.*##body:style(background-color: #D3D3D3 ! important;)
+
+! 3/6/2018, 7:12:22 PM https://www.google.com/
+google.*##.fbar:style(background-color: #D3D3D3 ! important;)
+
+! 3/6/2018, 7:13:35 PM https://www.google.com/search?num=50&source=hp&ei=gTyfWqixIMXAtQWumJ_YDw&q=spone&oq=spone&gs_l=psy-ab.3..0i10k1j0j0i10k1j0l2j0i10k1j0l2j0i10i46k1j46i10k1l2j0i10k1.7723.8435.0.8640.6.5.0.0.0.0.126.609.0j5.5.0....0...1c.1.64.psy-ab..1.5.609.0..0i131k1j0i131i46k1j46i131k1.0.-9rFRr5ayYw
+google.*###appbar:style(background-color: #D3D3D3 ! important;)
+
+! 3/6/2018, 7:14:25 PM https://www.google.com/search?num=50&source=hp&ei=gTyfWqixIMXAtQWumJ_YDw&q=spone&oq=spone&gs_l=psy-ab.3..0i10k1j0j0i10k1j0l2j0i10k1j0l2j0i10i46k1j46i10k1l2j0i10k1.7723.8435.0.8640.6.5.0.0.0.0.126.609.0j5.5.0....0...1c.1.64.psy-ab..1.5.609.0..0i131k1j0i131i46k1j46i131k1.0.-9rFRr5ayYw
+google.*###top_nav:style(background-color: #D3D3D3 ! important;)
+
+
+! 3/6/2018, 7:15:34 PM https://www.google.com/search?num=50&source=hp&ei=gTyfWqixIMXAtQWumJ_YDw&q=spone&oq=spone&gs_l=psy-ab.3..0i10k1j0j0i10k1j0l2j0i10k1j0l2j0i10i46k1j46i10k1l2j0i10k1.7723.8435.0.8640.6.5.0.0.0.0.126.609.0j5.5.0....0...1c.1.64.psy-ab..1.5.609.0..0i131k1j0i131i46k1j46i131k1.0.-9rFRr5ayYw
+google.*##.sfbgg(background-color: #D3D3D3 ! important;)
+
+! 3/6/2018, 7:32:08 PM https://www.google.com/search?num=50&source=hp&ei=gTyfWqixIMXAtQWumJ_YDw&q=spone&oq=spone&gs_l=psy-ab.3..0i10k1j0j0i10k1j0l2j0i10k1j0l2j0i10i46k1j46i10k1l2j0i10k1.7723.8435.0.8640.6.5.0.0.0.0.126.609.0j5.5.0....0...1c.1.64.psy-ab..1.5.609.0..0i131k1j0i131i46k1j46i131k1.0.-9rFRr5ayYw
+google.*###hdtbSum:style(background-color: #D3D3D3 ! important;)
+
+! 3/6/2018, 7:39:59 PM https://www.google.com/search?num=50&source=hp&ei=gTyfWqixIMXAtQWumJ_YDw&q=spone&oq=spone&gs_l=psy-ab.3..0i10k1j0j0i10k1j0l2j0i10k1j0l2j0i10i46k1j46i10k1l2j0i10k1.7723.8435.0.8640.6.5.0.0.0.0.126.609.0j5.5.0....0...1c.1.64.psy-ab..1.5.609.0..0i131k1j0i131i46k1j46i131k1.0.-9rFRr5ayYw
+google.*##.sfbgg:style(background-color: #D3D3D3 ! important;)
+
 ! 2/2/2018, 11:40:22 PM https://readms.net/
 readms.net###msa-blog-sq
 
