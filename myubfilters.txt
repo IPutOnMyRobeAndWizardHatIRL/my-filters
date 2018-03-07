@@ -35,7 +35,11 @@ hubspot.com$inline-script
 
 vsco.co##section:if(a[href^="https://vs.co/a/key_live_"]:nth-of-type(2))
 
+! 3/7/2018, 10:14:49 AM https://x1337x.ws/search/die/1/
+x1337x.*##.mgbox
 
+! 3/7/2018, 10:15:08 AM https://x1337x.ws/search/die/1/
+x1337x.*###M90304Composite83902
 
 ! 2/12/2018, 12:21:47 PM http://rutracker.org/forum/index.php
 ||rutrk.*/images/*.gif$image
