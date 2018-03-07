@@ -23,3 +23,5 @@ mangadeep.com#@#.afs_ads
 !spies privacy
 ||facebook.net^$badfilter
 @@/ga.js$domain=phantasytour.com
+||mgid.com^$script,redirect=noopjs,domain=1337x.to
+
