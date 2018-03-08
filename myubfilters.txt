@@ -6389,7 +6389,7 @@ _youtube.$domain=solomid.net
 /googletag.js
 /gpf_metrics
 /gpf_stats
-/gpt.js
+/gpt.js$domain~=thechive.com
 /gpt.min.js
 /gtm.js
 /ht.js
