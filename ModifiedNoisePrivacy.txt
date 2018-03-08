@@ -137,3 +137,5 @@ imgur.com##div#under-image
 ~nexusmods.com##.comment-thread
 ||disquscdn.com^$domain~=disqus.com
 ||disqus.com^$third-party
+share.js
+tags.js
