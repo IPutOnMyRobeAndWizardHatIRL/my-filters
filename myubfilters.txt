@@ -988,11 +988,6 @@ www.mangapanda.com##[href*="http://www.animemobile.com/"]
 /audiencemanager/*
 /audsci.
 /auxsquaread_
-/banner-casale-
-/banner.cgi
-/banner_frame.php?
-/banner_image.php?
-/banner_show.php?
 /bdindexad.
 /bestads.
 /bigbadviralads1.
@@ -1460,7 +1455,7 @@ _omniturevarscomm.
 ! [Ads - UTM]
 !-----------------------------------------------------------------------
 !
-/(\W|_)utm(\W|_)*(campaign|medium|name|source|term|tracking|xkey|xtime)(\W|_)/
+!/(\W|_)utm(\W|_)*(campaign|medium|name|source|term|tracking|xkey|xtime)(\W|_)/
 _utm.gif?
 !
 !
@@ -1573,11 +1568,6 @@ vsco.co##.home-ctd-video
 .count.json?
 .globalclicktracker.
 .iframetracker.
-/(\W|_)(ab|amp|brand|cnn|ebks|federated|hive|load|loader|nav|oas|post|site|snowplow|triggit|user|vip|web|www|ya|yell)(\W|_)analytics[0-9]*(\W|_)/$~stylesheet
-/(\W|_)(activity|analytics?|elq|impressions?|js|json|links?|pixels?|recommend(ed)?|referr?er|stats?|traffic|users?|visits?|web)(\W|_)*tracking[0-9]*(\W|_)/$~stylesheet
-/(\W|_)(cgi[-_]?bin|hits?|increment|pagevisit|pixels?|show|stats?|views?|visit)(\W|_)*count(ers?)?[0-9]*(\W|_)/$~stylesheet
-/(\W|_)click(\W|_)*(logging|metrics|streams?|track(ers?|ing)?)[0-9]*(\W|_)/$~stylesheet
-/(\W|_)tracking(\W|_)*(analytics?|banners?|enabled|min|pixels?|scripts?|server?|widgets?)[0-9]*(\W|_)/$~stylesheet
 /1x1.gif
 /1x1.jpeg
 /1x1.jpg
@@ -1618,15 +1608,11 @@ vsco.co##.home-ctd-video
 /count.json?
 /count.php?
 /count6.pl
-/count?
 /count_hit.
 /count_view.php?
 /counter.cgi
-/counter.js
 /counter.php?
-/counter/?
 /counter/views/*
-/counter?
 /counts.php?
 /ctrk.php?
 /cycounter?
@@ -1724,7 +1710,6 @@ vsco.co##.home-ctd-video
 /searchtrack.php?
 /site_stats/*
 /siteanalyze_
-/stat.php?
 /stats/?ref=
 /stats/collector.
 /stats/tracker.
