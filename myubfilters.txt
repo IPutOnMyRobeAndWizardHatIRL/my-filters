@@ -50,8 +50,6 @@ x1337x.*###M90304Composite83902
 geeksforgeeks.org##body:style(background-color: #d3d3d3 !important;)
 geeksforgeeks.org##.syntaxhighlighter:style(background-color: #d3d3d3 !important;)
 
-! 3/7/2018, 7:57:43 PM https://www.geeksforgeeks.org/multithreading-in-java/
-www.geeksforgeeks.org##.line:style(background-color: #d3d3d3 !important;)
 ! 2/12/2018, 12:30:48 PM http://rutracker.org/forum/index.php
 ||robinbob.*/images/*.png$image
 
