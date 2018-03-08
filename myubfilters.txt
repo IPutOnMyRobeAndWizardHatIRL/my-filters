@@ -6419,7 +6419,6 @@ _youtube.$domain=solomid.net
 /link.php
 /linkid.js
 /loadAds.js
-/log
 /log_interaction
 /maavaron
 /maavaron.js
@@ -6465,7 +6464,6 @@ _youtube.$domain=solomid.net
 /secondoffer.php
 /serve.js
 /serve.js.php
-/share.js
 /share.php
 /sharing.js
 /show_ads.js
@@ -6482,7 +6480,6 @@ _youtube.$domain=solomid.net
 /stripchat
 /suggestions/fetch
 /swdy.js
-/tags.js
 /track.gif
 /track.htm
 /track.html
