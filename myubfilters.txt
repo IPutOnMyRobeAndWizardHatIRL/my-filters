@@ -110,7 +110,20 @@ www.mangareader.net##.c3
 instagram.com##._si7dy
 /atrk.js
 /criteo.
+! 3/8/2018, 8:31:13 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.maxwidth.xcontrast:style(background-color: #d3d3d3 !important;)
 
+! 3/8/2018, 8:33:03 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net###content_parent:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:33:38 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.lc:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:33:51 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.lc-left:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:34:29 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.zmenu:style(background-color: #d3d3d3 !important;)
 ! ANTI-ADBLOCK
 ###abAlert
 ###js-abContainerMain
