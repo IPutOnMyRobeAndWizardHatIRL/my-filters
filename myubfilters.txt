@@ -71,6 +71,7 @@ instagram.com##script:inject(addEventListener-defuser.js,contextmenu)
 
 ! 3/4/2018, 11:25:41 PM https://www.instagram.com/stories/blackjaguarwhitetiger/
 www.instagram.com##._o95x1
+instagram.com##._mli86
 
 
 1337x.*##script:inject(window.open-defuser.js)
