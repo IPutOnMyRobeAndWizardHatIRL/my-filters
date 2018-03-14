@@ -40,7 +40,7 @@ google.*##.ab_button._Fmb:style(background-color: #d3d3d3 !important;)
 hubspot.com$third-party
 hubspot.com$inline-script
 
-/\/1337x\.to\/.*[a-f]{7,}/$script,domain=1337x.to|1337x.st|x1337x.eu|x1337x.ws,important
+/\/1337x\..*\/.*[a-f]{7,}/$script,domain=1337x.to|1337x.st|x1337x.eu|x1337x.ws,important
 
 ! 2/27/2018, 9:42:36 PM https://blog.hubspot.com/marketing/surf-internet-websites
 ||no-cache.hubspot.com/cta/*.png$image
