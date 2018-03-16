@@ -28,3 +28,15 @@ mangadeep.com#@#.afs_ads
 /\/1337x\..*\/.*[a-f]{7,}/$script,badfilter
 @@||bizx.info$third-party,websocket,domain=sourceforge.net
 @@/gpt.js$script,domain=thechive.com
+/wp-content/*/google.png$badfilter
+/wp-content/*twitter.png$badfilter
+/reddit.png$badfilter
+/wp-content/*facebook.png$badfilter
+/plugins/*google.png$badfilter
+/plugins/*facebook.png$badfilter
+/plugins/*twitter.png$badfilter
+/assets/*twitter.png$badfilter
+/assets/*facebook.png$badfilter
+/img/*/google.png$badfilter
+/img/*facebook.png$badfilter
+/img/*twitter.png$badfilter
