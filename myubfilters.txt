@@ -18,6 +18,13 @@ techmazza.com##script:inject(bab-defuser.js)
 /mangapanda\.com\/[A-Za-z0-9]{32}/[A-Za-z0-9]{8}-[A-Za-z0-9]{4}-[A-Za-z0-9]{4}-[A-Za-z0-9]{4}-[A-Za-z0-9]{12}\.jpg/$image,first-party,domain=mangapanda.com
 ||mgid.com^$script,redirect=noopjs,domain=1337x.to
 
+! 3/16/2018, 5:34:38 PM https://www.fanfiction.net/
+www.fanfiction.net##td:style(background-color: #d3d3d3 !important;)
+
+! 3/16/2018, 5:35:08 PM https://www.fanfiction.net/
+www.fanfiction.net##.tcat:style(background-color: #d3d3d3 !important;)
+
+
 thepiratebay.*##div:nth-of-type(4) > div:nth-of-type(2) [href]:style(color: #000; pointer-events: none !important; cursor: text !important; border-bottom: none !important; clear: both !important;)
 thepiratebay.*###details > div:nth-of-type(3) > div:nth-of-type(2) [href]:style(color: #000; pointer-events: none !important; cursor: text !important; border-bottom: none !important; clear: both !important;)
 
