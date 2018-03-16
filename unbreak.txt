@@ -26,3 +26,5 @@ mangadeep.com#@#.afs_ads
 ||mgid.com^$script,redirect=noopjs,domain=1337x.to
 /\/1337x\.to\/.*[a-f]{7,}/$script,badfilter
 /\/1337x\..*\/.*[a-f]{7,}/$script,badfilter
+@@||bizx.info$third-party,websocket,domain=sourceforge.net
+@@/gpt.js$script,domain=thechive.com
