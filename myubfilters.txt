@@ -6,6 +6,9 @@
 ! Author: Jakky567
 
 bitlord.com/
+! 3/16/2018, 5:36:59 PM https://www.fanfiction.net/account/settings.php
+www.fanfiction.net##.panel_normal:style(background-color: #d3d3d3 !important;)
+
 
 /ad/$script
 /ads/$script
