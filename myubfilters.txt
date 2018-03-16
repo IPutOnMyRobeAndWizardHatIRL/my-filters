@@ -375,6 +375,11 @@ mangadeep.com##script:has-text(ad block)
 /hotfix.js
 !working regex
 !/\/js\/script\d{15,}-\d.js/$script,first-party
+! 3/16/2018, 5:23:43 PM https://www.bing.com/
+www.bing.com###hc_opalinst
+
+! 3/16/2018, 5:24:23 PM https://www.bing.com/search?q=luffy&qs=n&sp=-1&pq=luffy&sc=5-5&sk=&cvid=A9CA4618E332409CB6723490A32B4494&first=9&FORM=PORE
+www.bing.com###opal_serpftr
 
 #<shock-sites>
 # For example, to block unpleasant pages, try:
