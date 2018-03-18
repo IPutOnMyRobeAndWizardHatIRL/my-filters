@@ -64,6 +64,21 @@ github.com##.experiment-repo-nav.readability-menu.instapaper_ignore.repohead.pag
 ! 3/18/2018, 5:08:16 PM https://github.com/collinbarrett/FilterLists
 github.com##.entry-content.markdown-body:style(background-color: #d3d3d3 !important;)
 
+! 3/18/2018, 5:06:30 PM https://github.com/collinbarrett/FilterLists
+github.com##body:style(background-color: #d3d3d3 !important;)
+
+! 3/18/2018, 5:07:29 PM https://github.com/collinbarrett/FilterLists
+github.com##.experiment-repo-nav.readability-menu.instapaper_ignore.repohead.pagehead:style(background-color: #d3d3d3 !important;)
+
+! 3/18/2018, 5:08:16 PM https://github.com/collinbarrett/FilterLists
+github.com##.entry-content.markdown-body:style(background-color: #d3d3d3 !important;)
+github.com##.file-header:style(background-color: #d3d3d3 !important;)
+
+! 3/18/2018, 5:12:47 PM https://github.com/jakky567/my-filters/blob/master/myubfilters.txt
+github.com##.commit-tease:style(background-color: #d3d3d3 !important;)
+
+! 3/18/2018, 5:12:54 PM https://github.com/jakky567/my-filters/blob/master/myubfilters.txt
+github.com##.commit-tease-contributors:style(background-color: #d3d3d3 !important;)
 
 
 /1337x\..*\/js\/[A-Za-z0-9]{20,}\.js/$script,domain=1337x.to|1337x.st|x1337x.eu|x1337x.ws,important
