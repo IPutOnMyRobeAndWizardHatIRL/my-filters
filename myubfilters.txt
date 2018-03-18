@@ -55,8 +55,8 @@ google.*##.ab_button._Fmb:style(background-color: #d3d3d3 !important;)
 hubspot.com$third-party
 hubspot.com$inline-script
 
-/\/1337x\..*\/js\/[A-Za-z]{21,}\.js/$script,domain=1337x.to|1337x.st|x1337x.eu|x1337x.ws,important
-/\/1337x\..*\/.*[a-f]{7,}/$script,domain=1337x.to|1337x.st|x1337x.eu|x1337x.ws,important
+/1337x\..*\/js\/[A-Za-z0-9]{20,}\.js/$script,domain=1337x.to|1337x.st|x1337x.eu|x1337x.ws,important
+/1337x\..*\/.*[a-f]{7,}/$script,domain=1337x.to|1337x.st|x1337x.eu|x1337x.ws,important
 
 ! 2/27/2018, 9:42:36 PM https://blog.hubspot.com/marketing/surf-internet-websites
 ||no-cache.hubspot.com/cta/*.png$image
@@ -118,6 +118,7 @@ x1337x.*##.bitcoin
 x1337x.*##body > div:not(.wrapper)
 ||cdn.1337x.*/ip*.php
 ||cdn.x1337x.*/ip*.php
+/1337x\..*\/.*[A-Za-z0-9]{20,}/$important,script,domain=1337x.to|1337x.st|x1337x.eu|x1337x.ws
 
 ! 3/16/2018, 5:32:39 PM https://www.google.com/search?q=mangastream&oq=mangastream&aqs=chrome..69i57j0l5.1635j0j4&sourceid=chrome&ie=UTF-8
 www.google.com##.ab_button:style(background-color: #d3d3d3 !important;)
