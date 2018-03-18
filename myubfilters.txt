@@ -8,7 +8,8 @@
 bitlord.com/
 ! 3/16/2018, 5:36:59 PM https://www.fanfiction.net/account/settings.php
 www.fanfiction.net##.panel_normal:style(background-color: #d3d3d3 !important;)
-
+! 3/18/2018, 12:32:41 AM https://www.google.com/search?q=youtube&oq=you&aqs=chrome.0.69i59j69i57j69i65l2j69i60l2.3245j0j4&sourceid=chrome&ie=UTF-8
+google.*##.VoEfsd:style(background-color: #d3d3d3 !important;)
 
 /ad$script
 /ads$script
