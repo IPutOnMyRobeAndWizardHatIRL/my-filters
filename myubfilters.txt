@@ -10,8 +10,8 @@ bitlord.com/
 www.fanfiction.net##.panel_normal:style(background-color: #d3d3d3 !important;)
 
 
-/ad/$script
-/ads/$script
+/ad$script
+/ads$script
 www.fanfiction.net###storytextp:style(user-select: auto !important;)
 cantorlytics.vsco.co
 /cantorlytics.js$script
