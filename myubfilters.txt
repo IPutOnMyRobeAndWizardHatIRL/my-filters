@@ -16,6 +16,8 @@ fastclick.net
 /media[0-9]{2}\.fastclick\.net/$domain=fastclick.net
 /ad$script
 /ads$script
+/beacon.js$script,third-party
+/beacon$script,third-party
 www.fanfiction.net###storytextp:style(user-select: auto !important;)
 cantorlytics.vsco.co
 /cantorlytics.js$script
