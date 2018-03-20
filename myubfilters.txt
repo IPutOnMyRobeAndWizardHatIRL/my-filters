@@ -426,7 +426,7 @@ www.bing.com###opal_serpftr
 
 #<shock-sites>
 # For example, to block unpleasant pages, try:
-127.0.0.1 goatse.cx       # More information on sites such as
+127.0.0.1 goatse.cx       # More information on sites such as 
 127.0.0.1 www.goatse.cx   # these can be found in this article
 127.0.0.1 oralse.cx       # en.wikipedia.org/wiki/List_of_shock_sites
 127.0.0.1 www.oralse.cx
@@ -436,6 +436,8 @@ www.bing.com###opal_serpftr
 127.0.0.1 www.oralse.ca
 127.0.0.1 goat.cx
 127.0.0.1 www.goat.cx
+127.0.0.1 shafou.com
+127.0.0.1 www.shafou.com
 
 127.0.0.1 1girl1pitcher.com
 127.0.0.1 1girl1pitcher.org
@@ -616,15 +618,7 @@ www.bing.com###opal_serpftr
 127.0.0.1 www.zentastic.com
 127.0.0.1 youaresogay.com
 127.0.0.1 zentastic.com
-127.0.0.1 goatse.cx       # More information on sites sucas 
-127.0.0.1 shafou.com
-127.0.0.1 www.shafou.com
-
-127.0.0.1 www.fingerslam.com
-127.0.0.1 www.k-k-k.com
-127.0.0.1 www.whoomp.org
 #</shock-sites>
-
 
 
 
