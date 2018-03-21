@@ -10,6 +10,11 @@ bitlord.com/
 www.fanfiction.net##.panel_normal:style(background-color: #d3d3d3 !important;)
 ! 3/18/2018, 12:32:41 AM https://www.google.com/search?q=youtube&oq=you&aqs=chrome.0.69i59j69i57j69i65l2j69i60l2.3245j0j4&sourceid=chrome&ie=UTF-8
 google.*##.VoEfsd:style(background-color: #d3d3d3 !important;)
+! 3/21/2018, 4:11:10 PM https://www.fanfiction.net/s/9672720/1/Harry-Potter-and-The-Heir-Of-Merlin-s-Promise-Phoenix
+www.fanfiction.net##.modal-body:style(background-color: #d3d3d3 !important;)
+
+! 3/21/2018, 4:11:41 PM https://www.fanfiction.net/s/9672720/1/Harry-Potter-and-The-Heir-Of-Merlin-s-Promise-Phoenix
+www.fanfiction.net##.modal-footer:style(background-color: #d3d3d3 !important;)
 
 fastclick.net
 
