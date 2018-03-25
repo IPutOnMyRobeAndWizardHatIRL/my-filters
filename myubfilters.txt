@@ -55,8 +55,6 @@ www.reddit.com##.flair-alert.flair
 ! 3/9/2018, 10:20:06 AM https://www.reddit.com/r/ImGoingToHellForThis/
 www.reddit.com##.flair-rainbowalert.flair
 
-! 3/9/2018, 10:20:25 AM https://www.reddit.com/r/ImGoingToHellForThis/
-www.reddit.com##.flair
 
 mangadeep.com#@#.afs_ads
 
