@@ -47,7 +47,7 @@ thepiratebay.*###details > div:nth-of-type(3) > div:nth-of-type(2) [href]:style(
 pirateproxy.sh##div:nth-of-type(4) > div:nth-of-type(2) > a:style(color: #000 !important; pointer-events: none !important; cursor: text !important; border-bottom: none !important; clear: both !important;)
 pirateproxy.sh###details > div:nth-of-type(3) > div:nth-of-type(2) > a:style(color: #000 !important; pointer-events: none !important; cursor: text !important; border-bottom: none !important; clear: both !important;)
 ! 3/9/2018, 10:19:34 AM https://www.reddit.com/r/ImGoingToHellForThis/
-www.reddit.com###header-bottom-right
+www.reddit.com###header-bottom-right::after
 
 ! 3/9/2018, 10:19:50 AM https://www.reddit.com/r/ImGoingToHellForThis/
 www.reddit.com##.flair-alert.flair
@@ -372,9 +372,6 @@ www.mangapanda.com###a37n1ciahfif4108677615
 
 ! 3/9/2018, 8:18:21 AM https://www.mangapanda.com/
 www.mangapanda.com###a37n1ciahfif6026831287
-
-! 3/9/2018, 10:19:34 AM https://www.reddit.com/r/ImGoingToHellForThis/
-www.reddit.com###header-bottom-right
 
 ! 3/9/2018, 10:19:50 AM https://www.reddit.com/r/ImGoingToHellForThis/
 www.reddit.com##.flair-alert.flair
