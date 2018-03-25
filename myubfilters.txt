@@ -1,11 +1,13 @@
 [Adblock Plus 2.0]
 ! Title: Jakky567's UBOfilters
-! Last Modified: 2018-03-09
+! Last Modified: 2018-03-25
 ! Expires: 1 days
 !
 ! Author: Jakky567
 
 bitlord.com/
+! 3/25/2018, 
+wikia.com##.ember-view.fandom-app-smart-banner
 ! 3/16/2018, 5:36:59 PM https://www.fanfiction.net/account/settings.php
 www.fanfiction.net##.panel_normal:style(background-color: #d3d3d3 !important;)
 ! 3/18/2018, 12:32:41 AM https://www.google.com/search?q=youtube&oq=you&aqs=chrome.0.69i59j69i57j69i65l2j69i60l2.3245j0j4&sourceid=chrome&ie=UTF-8
