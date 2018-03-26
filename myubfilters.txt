@@ -646,8 +646,7 @@ wrzesnia.pl##img[src*="/ads_files/"]
 
 ! Should bypass pirateproxy.net's popup mechanism
 ||*^$popup,domain=pirateproxy.net
-! block FB script which loads FB ads
-||connect.facebook.net^*/fbevents.js$third-party
+
 
 ! 2/12/2018, 6:49:25 PM http://1337x.to/
 1337x.to,1337x.st,x1337x.ws,x1337x.eu##.bitcoin-text
@@ -1409,39 +1408,6 @@ net24.montepio.pt#@#.pinButton
 www.sharelatex.com#@##shareButton
 
 
-!-----------------------------------------------------------
-!------------------------ Facebook -------------------------
-!-----------------------------------------------------------
-
-||www.messenger.com/ajax/bz
-||www.messenger.com/ajax/mercury/unread_threads
-||www.messenger.com/mercury/unseen_thread_ids
-||www.messenger.com/rtc/callability
-
-! Prevent 'seen' status in Messenger
-||www.facebook.com/ajax/mercury/change_read_status
-
-! Prevent 'seen' status in Group Posts
-||www.facebook.com/*notif_t=group_$document,subdocument,important
-||www.facebook.com/ajax/bz$important
-||www.facebook.com/ajax/notifications/mark_read$important
-
-! Prevent 'seen' status in Events
-! Extreme, blocks all event pageloads
-!||www.facebook.com/events/$document,subdocument,important
-! Notification-based, seen status can still be triggered by clicking on a link to the event
-||www.facebook.com/events/*notif_t=plan_user_invited$document,subdocument,important
-
-! Prevent 'is typing' status
-! Posts
-||www.facebook.com/ufi/typing
-! Messenger
-||www.facebook.com/ajax/messaging/typ
-! "Get Messenger on Your Phone" Sidebar Message
-www.facebook.com##._1wcc
-
-! "Keep the conversation going from your phone" Message at /messages
-www.facebook.com##._s15
 
 !-----------------------------------------------------------
 !------------------------ Linkedin -------------------------
