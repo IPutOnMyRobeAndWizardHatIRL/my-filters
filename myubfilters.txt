@@ -7,6 +7,7 @@
 
 ! 3/30/2018, 4:00:20 PM https://www.youtube.com/watch?v=DOzYT4lcXuM
 www.youtube.com##.ytd-popup-container.style-scope
+||vortex.hulu.com/^$xmlhttprequest,redirect=nooptext
 
 !-----------------------------------------------------------
 !------------------------ Facebook -------------------------
