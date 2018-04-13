@@ -41,4 +41,3 @@ mangadeep.com#@#.afs_ads
 /img/*/google.png$badfilter
 /img/*facebook.png$badfilter
 /img/*twitter.png$badfilter
-||vortex.hulu.com/*/events|$badfilter
