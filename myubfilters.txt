@@ -7,7 +7,11 @@
 
 ! 3/30/2018, 4:00:20 PM https://www.youtube.com/watch?v=DOzYT4lcXuM
 www.youtube.com##.ytd-popup-container.style-scope
-||vortex.hulu.com^$xmlhttprequest,redirect=nooptext
+
+! 4/12/2018, 2:59:59 PM hulu.com
+/hulu\.com\/.*client-metrics-sdk.*\.js/$script,domain=www.hulu.com,first-party
+
+
 
 !-----------------------------------------------------------
 !------------------------ Facebook -------------------------
