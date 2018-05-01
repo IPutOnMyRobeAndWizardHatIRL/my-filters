@@ -1177,8 +1177,7 @@ www.mangapanda.com##.c2
 www.mangapanda.com##[href*="http://www.animemobile.com/"]
 
 
-! 3/5/2018, 12:25:09 AM http://vsco.co/
-vsco.co##svg
+
 
 ! 3/5/2018, 12:25:17 AM http://vsco.co/
 vsco.co##.home-content-item
