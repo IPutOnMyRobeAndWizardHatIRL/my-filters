@@ -16,7 +16,8 @@ www.youtube.com##.ytd-popup-container.style-scope
 !-----------------------------------------------------------
 !------------------------ Facebook -------------------------
 !-----------------------------------------------------------
-
+! 5/29/2018, 6:08:07 PM https://www.nexusmods.com/skyrimspecialedition/search/
+www.nexusmods.com###donation_banner_wrapper
 ||www.messenger.com/ajax/bz
 ||www.messenger.com/ajax/mercury/unread_threads
 ||www.messenger.com/mercury/unseen_thread_ids
