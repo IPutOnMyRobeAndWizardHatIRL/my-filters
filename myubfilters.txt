@@ -697,7 +697,14 @@ wrzesnia.pl##img[src*="/ads_files/"]
 
 ! 2/12/2018, 6:49:38 PM http://1337x.to/
 1337x.to,1337x.st,x1337x.ws,x1337x.eu##.bitcoin
+! 6/22/2018, 8:27:57 AM https://tags.literotica.com/ffm/
+||secureimage.securedataimages.com^$image,third-party,domain=literotica.com
 
+
+literotica.com###dnumihoa
+
+! 6/22/2018, 8:28:23 AM https://tags.literotica.com/ffm/
+literotica.com##.AppComponent__info___3NApZ
 
 
 ! 3/4/2018, 11:39:06 PM https://www.instagram.com/
