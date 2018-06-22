@@ -145,6 +145,7 @@ github.com##.commit-tease-contributors:style(background-color: #d3d3d3 !importan
 
 ||moatads.com^$script,redirect=noopjs,domain=forbes.com
 
+literotica.com###qfhepsjl
 ||quantserve.com^
 $websocket,domain=300mbfilms.co|a-o.ninja|ajplugins.com|adfreetv.ch|akvideo.stream|dekoder.ws|estream.to|fileone.tv|gofile.io|hq-porns.com|jkanime.net|kinokrad.co|lewd.ninja|love-drama.pl|movie4k.is|oload.info|oload.tv|openload.co|powvideo.net|skyback.ru|streamango.com|streamcherry.com|szukajka.tv|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|vidfile.net|oload.info|oload.tv|openload.co|shrink-service.it|streamango.com|streamcherry.com|vidoza.net|tvad.me|vidup.me|lewd.ninja|love-drama.pl|alltube.tv
 $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
