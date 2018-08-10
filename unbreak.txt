@@ -4,7 +4,8 @@
 ! Expires: 1 days
 ! Author: Jakky567
 ! Note: fixes crap filters/anti-adblock measures
-
+!fixes mangareader problem, taken from adguard base 
+@@||mangapanda.net/sup/js/*.js$first-party
 ! threatcrowd has this, but it's just a bad filter
 ||cloudflare.com^$badfilter
 !privacy filters has this, bad filter
