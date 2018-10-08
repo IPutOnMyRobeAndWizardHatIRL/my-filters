@@ -2,7 +2,7 @@
 ! Title: Jakky567's UBOfilters
 ! Last Modified: 2018-03-30
 ! Expires: 1 days
-!
+! Comment:Bits and pieces for my personal use only. Generally gotten from around the web, i.e. Reddit and other filter lists. Occasional Fix done by me.
 ! Author: Jakky567
 
 !I like Lanik, but I actually use this one.
