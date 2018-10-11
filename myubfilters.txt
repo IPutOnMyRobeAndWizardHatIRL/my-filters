@@ -125,7 +125,7 @@ github.com##body:style(background-color: #d3d3d3 !important;)
 
 ! 3/18/2018, 5:07:29 PM https://github.com/collinbarrett/FilterLists
 github.com##.experiment-repo-nav.readability-menu.instapaper_ignore.repohead.pagehead:style(background-color: #d3d3d3 !important;)
-
+www.hulu.com##.countdown-rotor-container
 ! 3/18/2018, 5:08:16 PM https://github.com/collinbarrett/FilterLists
 github.com##.entry-content.markdown-body:style(background-color: #d3d3d3 !important;)
 github.com##.file-header:style(background-color: #d3d3d3 !important;)
