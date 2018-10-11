@@ -14,7 +14,8 @@ thepiratebay3.*^$third-party
 
 thepiratebay3.*##div:nth-of-type(4) > div:nth-of-type(2) [href]:style(color: #000 !important; pointer-events: none !important; cursor: text !important; border-bottom: none !important; clear: both !important;)
 thepiratebay3.*###details > div:nth-of-type(3) > div:nth-of-type(2) [href]:style(color: #000 !important; pointer-events: none !important; cursor: text !important; border-bottom: none !important; clear: both !important;)
-
+! 10/11/2018, 10:10:36 AM https://www.hulu.com/watch/21e913e1-0eaf-4f69-95d7-0510109fea5b
+www.hulu.com##.ad-top-bar
 !-----------------------------------------------------------
 !------------------------ Facebook -------------------------
 !-----------------------------------------------------------
