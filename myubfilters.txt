@@ -1460,7 +1460,9 @@ www.cloudflare.com##.eu-cookie-banner
 net24.montepio.pt#@#.pinButton
 www.sharelatex.com#@##shareButton
 
+||ads-v-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
 
+@@||moatads.com/*/moatwrapper.js$script,domain=hulu.com,third-party
 
 !-----------------------------------------------------------
 !------------------------ Linkedin -------------------------
