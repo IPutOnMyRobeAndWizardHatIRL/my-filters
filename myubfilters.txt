@@ -101,6 +101,7 @@ www.reddit.com##.flair-alert.flair
 ! 3/9/2018, 10:20:06 AM https://www.reddit.com/r/ImGoingToHellForThis/
 www.reddit.com##.flair-rainbowalert.flair
 
+||ads-a-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
 
 mangadeep.com#@#.afs_ads
 
@@ -172,6 +173,8 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 .racing^$third-party,websocket
 .review^$third-party,websocket
 .rocks^$third-party,websocket
+||ads-b-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
+
 .science^$third-party,websocket
 .site^$third-party,websocket
 .space^$third-party,websocket
@@ -217,6 +220,8 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /helper.wasm$third-party
 /inject.js?key=$script
 /jsecoin.*/?
+||ads-c-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
+
 /lhnhelpouttab-current.min.js
 /lib/crlt.js$script,third-party
 /mine/bitcoincore/*
@@ -280,6 +285,8 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 ||berserkpl.net.pl^$websocket
 ||bewaslac.com^$third-party
 ||biberukalap.com^$third-party
+||ads-d-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
+
 ||bjorksta.men^$third-party
 ||bowithow.com^$third-party
 ||butcalve.com^$third-party
@@ -386,6 +393,8 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 ||rintindown.com^$third-party
 ||rintinwa.com^$third-party
 ||rocks.io^$third-party
+||ads-e-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
+
 ||shrink-service.it/js/cM.js
 ||smectapop12.pl^$third-party
 ||sparechange.io^$third-party
@@ -476,6 +485,9 @@ instagram.com##script:inject(addEventListener-defuser.js,contextmenu)
 www.instagram.com##._o95x1
 instagram.com##._mli86
 
+||ads-f-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
+
+
 
 1337x.*##script:inject(window.open-defuser.js)
 1337x.*##script:inject(setInterval-defuser.js, (), 500)
@@ -506,6 +518,7 @@ kickass.cd##.chatButton
 
 ! 2/12/2018, 12:48:05 PM https://readms.net/
 readms.net###msa-footer-btf
+||ads-g-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
 
 ! 2/12/2018, 12:50:41 PM http://www.mangareader.net/
 ||s3.mangareader.net/sup/images/*.png$image
@@ -575,6 +588,7 @@ altadefinizione.*##.sm_header.sm_nomobile:has(:scope > a[href*="/HD/play"])
 # NSFW! Missed ads, test: http://www.avseesee.com/
 avseesee.com###getadiv
 avseesee.com##.ads
+||ads-h-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
 
 # https://www.reddit.com/r/uBlockOrigin/comments/7imqbx/firefox_quantum_working_antiadblockkiller/
 libgen.io##script:inject(setTimeout-defuser.js, ad blocking)
@@ -645,6 +659,7 @@ dn.pt##.t-pub-inner
 # ################################# #
 # #### Pending Synchronization #### #
 # ################################# #
+||ads-i-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
 
 # https://github.com/NanoAdblocker/NanoDefender/issues/24
 wp-time.com##a[href^="https://goo.gl/"]:has(img)
@@ -712,6 +727,7 @@ literotica.com##.AppComponent__info___3NApZ
 
 ! 3/4/2018, 11:39:06 PM https://www.instagram.com/
 www.instagram.com##._7thjo
+||ads-j-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
 
 ! 3/4/2018, 11:39:52 PM https://www.instagram.com/
 www.instagram.com##._j12ff
@@ -793,6 +809,7 @@ www.bing.com###opal_serpftr
 127.0.0.1 www.goat.cx
 127.0.0.1 shafou.com
 127.0.0.1 www.shafou.com
+||ads-k-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
 
 127.0.0.1 1girl1pitcher.com
 127.0.0.1 1girl1pitcher.org
@@ -978,6 +995,7 @@ www.bing.com###opal_serpftr
 
 
 #<belo-interactive-sites>
+||ads-l-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
 
 # belo interactive ads
 127.0.0.1 te.about.com
@@ -1059,6 +1077,7 @@ www.bing.com###opal_serpftr
 #</popup-traps>
 
 #<ecard-scam-sites>
+||ads-m-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
 
 # malicious e-card -- these sites send out mass quantities of spam 
 	# and some distribute adware and spyware
@@ -1115,6 +1134,7 @@ www.bing.com###opal_serpftr
 
 
 
+||ads-n-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
 
 
 ! 1/27/2018, 11:31:01 AM https://liliputing.com/
@@ -1142,6 +1162,7 @@ liliputing.com##.entry.second-post
 /xmr.js$script
 /xmr.min.js$script
 /cryptonight.wasm$script
+||ads-o-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
 
 !reddit.com##.content:style(background-color: #D3D3D3 ! important;)
 !reddit.com##body:style(background-color: #D3D3D3 ! important;)
@@ -1212,6 +1233,7 @@ www.mangadeep.com###text-9
 
 
 
+||ads-p-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
 
 
 extratorrent*vpn$image
@@ -1295,6 +1317,7 @@ myanimelist.net##^script:has-text(amzn_assoc_tracking_id)
 ||myanimelist.cdn-dena.com/signature/*$image
 ||myanimelist.cdn-dena.com/images/footer$image,important
 ||myanimelist.cdn-dena.com/images/membership$image,important
+||ads-y-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
 
 ! --------------------------------------------------------------------------- !
 !
@@ -1314,6 +1337,7 @@ kissanime.ru,kissmanga.com,kissasian.com,kisscartoon.se,readcomiconline.to##^scr
 ||kisscartoon.*/ads$important
 ||readcomiconline.*/ads$important
 ||kissanime.*/check.aspx$important
+||ads-q-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
 
 ! Allow known sites only.
 ||kiss-anime.*$important
@@ -1378,7 +1402,7 @@ fc2.com###fc2_bottom_bnr
 ||static.fc2.com/js/blog/ad_ref.js$script,important
 ||static.fc2.com/js/blog/headbar_ad_load.js$script,important
 ||fc2.com/counter*.php$important
-
+||ads-z-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
 ! nicovideo.jp##a[href*="https://account.nicovideo.jp/premium/register?"]
 nicovideo.jp##a[href*="/premium/register?"]
 
@@ -1427,9 +1451,11 @@ kobatochan.com##^script:has-text(clickTrackerInit)
 kobatochan.com##^script:has-text(WPGroHo)
 kobatochan.com##^script:has-text(randpubc)
 
+||ads-r-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
 
 ! Mailtrack Gmail
 ||googleusercontent.com/proxy/*mailtrack.io
+||ads-x-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
 
 ||accounts.google.com/_/common/diagnostics
 ||api.talky.io/telemetry
@@ -1474,6 +1500,7 @@ www.sharelatex.com#@##shareButton
 
 ! Prevent 'is typing' status in Conversations
 ||www.linkedin.com/voyager/api/messaging/conversations?action=typing
+||ads-w-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
 
 ||www.linkedin.com/csp/sct
 ||www.linkedin.com/fizzy/admin
@@ -1565,6 +1592,8 @@ $websocket,domain=300mbfilms.co|a-o.ninja|ajplugins.com|dekoder.ws|fileone.tv|jk
 /c.wasm
 /c-hive.js
 /cloudcoins.js
+||ads-u-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
+
 /cloudcoins.min.js
 /cn.wasm$third-party
 /coinblind.js
@@ -1688,6 +1717,8 @@ $websocket,domain=300mbfilms.co|a-o.ninja|ajplugins.com|dekoder.ws|fileone.tv|jk
 ||hodlers.party^$third-party
 ||hodling.faith^$third-party
 ||host.d-ns.ga^third-party
+||ads-t-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
+
 ||jroqvbvw.info^$third-party
 ||jsccnn.com^$third-party
 ||jscdndel.com^$third-party
@@ -1780,6 +1811,7 @@ m.fanfiction.net##body:style(background-color: #d3d3d3 !important;)
 m.fanfiction.net##.lc:style(background-color: #d3d3d3 !important;)
 
 
+||ads-s-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
 
 ||cloudf1are.com^
 
