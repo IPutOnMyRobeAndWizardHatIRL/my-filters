@@ -198,6 +198,15 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /browsermine.js
 /c.wasm
 /c-hive.js
+
+! 10/11/2018, 10:11:57 PM https://www.hulu.com/watch/b0bfeb09-64f7-450d-81af-01a1d4716bf7
+hulu.com##.ad-top-bar-container
+
+! 10/11/2018, 10:12:39 PM https://www.hulu.com/watch/b0bfeb09-64f7-450d-81af-01a1d4716bf7
+hulu.com##.ad-top-bar
+
+@@||oneplus.com^$generichide
+
 /cloudcoins.js
 /cloudcoins.min.js
 /cn.wasm$third-party
