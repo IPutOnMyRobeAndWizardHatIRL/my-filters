@@ -262,6 +262,10 @@ hulu.com##.ad-top-bar
 /xmr-monero.js
 ?proxy=ws://$script,websocket
 ?proxy=wss://$script,websocket
+||akamaihd.net/prerolls$media,domain=hulu.com,third-party,redirect=noopmp4-1s,important
+
+! 10/13/2018, 12:26:48 PM hulu.com
+||media.truex.com^$script,domain=www.hulu.com,redirect=noopjs,important
 
 ||1beb2a44.space^$third-party
 ||1q2w3.fun^$third-party
