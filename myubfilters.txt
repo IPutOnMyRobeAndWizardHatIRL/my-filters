@@ -1823,7 +1823,37 @@ m.fanfiction.net##body:style(background-color: #d3d3d3 !important;)
 
 ! 3/20/2018, 2:11:50 PM https://m.fanfiction.net/u/1318171/
 m.fanfiction.net##.lc:style(background-color: #d3d3d3 !important;)
+kissanime.ru##.divCloseBut
+kissanime.ru,kissmanga.com,kissasian.com,kisscartoon.se,readcomiconline.to##script:contains(DoAdsPosition)
 
+||kissanime.*/ads$important
+||kissmanga.*/ads$important
+||kissasian.*/ads$important
+||kisscartoon.*/ads$important
+||readcomiconline.*/ads$important
+||kissanime.*/check.aspx$important
+
+! Allow known sites only.
+||kiss-anime.*$important
+||kissanime.*$important,domain=~kissanime.ru|~forum.kissanime.com
+||kissmanga.*$important,domain=~kissmanga.com
+||kissasian.*$important,domain=~kissasian.com
+||kisscartoon.*$important,domain=~kisscartoon.se
+||readcomiconline.*$important,domain=~readcomiconline.to
+
+! plain list of fake sites (phishing site)
+||kissanime.io$important
+||kissanime.ro$important
+||kissanime.pro$important
+||kiss-anime.me$important
+||kisscartoon.so$important
+||kissasian.xyz$important
+||kissmanga.us$important
+||kissmanga.io$important
+||kissmanga.ru$important
+||kissmanga.ro$important
+||kissmanga.pro$important
+||anime8.*$important
 
 ||ads-s-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
 
