@@ -824,6 +824,285 @@ www.bing.com###opal_serpftr
 127.0.0.1 shafou.com
 127.0.0.1 www.shafou.com
 ||ads-k-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
+bitlord.com/
+
+thepiratebay.*###details > div:nth-of-type(3) > div:nth-of-type(2) [href]:style(pointer-events: none !important; cursor: default !important;)
+
+! 2/12/2018, 12:19:32 PM http://rutracker.org/forum/index.php
+||rutrk.org*.gif$image
+
+! 2/12/2018, 12:21:47 PM http://rutracker.org/forum/index.php
+||rutrk.*/images/*.gif$image
+
+
+! 2/12/2018, 12:30:48 PM http://rutracker.org/forum/index.php
+||robinbob.*/images/*.png$image
+
+! 2/12/2018, 12:31:18 PM http://rutracker.org/forum/index.php
+||rublacklist.*/images/*.png$image
+
+! 2/12/2018, 12:38:29 PM https://liliputing.com/2018/02/deals-day-2-12-2018.html
+liliputing.com##.orangebordered
+
+! 2/12/2018, 12:38:47 PM https://liliputing.com/2018/02/deals-day-2-12-2018.html
+liliputing.com###text-391998738 > .widget-wrap > .textwidget > center > .adsbygoogle
+
+liliputing.com###text-391998738 > .widget-wrap > .textwidget > center
+
+! 2/12/2018, 12:45:34 PM https://kickass.cd/blade-runner-2049-hdrip-xvid-ac3-evo-tt19466183.html
+kickass.cd##.chatButton
+
+! 2/12/2018, 12:48:05 PM https://readms.net/
+readms.net###msa-footer-btf
+
+! 2/12/2018, 12:50:41 PM http://www.mangareader.net/
+||s3.mangareader.net/sup/images/*.png$image
+
+! 2/12/2018, 12:50:52 PM http://www.mangareader.net/
+www.mangareader.net##.c3
+
+||rublacklist.net/images/rutracker_
+||rublacklist.net/media/*vpn.
+||rublacklist.net/media/banner_
+
+||rublacklist.net/images/rutracker_image.png
+||rublacklist.net/media/banner_
+||rublacklist.net^$domain=kinozal.tv
+
+!@@||http://www.citationmachine.net/$generichide
+
+techmazza.com##script:inject(bab-defuser.js)
+
+vsco.co##script:inject(addEventListener-defuser.js,contextmenu)
+
+
+1337x.*##script:inject(window.open-defuser.js)
+1337x.*##script:inject(setInterval-defuser.js, (), 500)
+1337x.*##script:inject(addEventListener-defuser.js, /^(click|mousedown|)/, popunder)
+1337x.*##script:inject(abort-on-property-write.js, Fingerprint2)
+1337x.*##.bitcoin-text
+1337x.*##.bitcoin
+x1337x.*##body > div:not(.wrapper)
+x1337x.*##script:inject(window.open-defuser.js)
+x1337x.*##script:inject(setInterval-defuser.js, (), 500)
+x1337x.*##script:inject(addEventListener-defuser.js, /^(click|mousedown|)/, popunder)
+x1337x.*##script:inject(abort-on-property-write.js, Fingerprint2)
+x1337x.*##.bitcoin-text
+x1337x.*##.bitcoin
+x1337x.*##body > div:not(.wrapper)
+||cdn.1337x.*/ip*.php
+||cdn.x1337x.*/ip*.php
+
+!||g.doubleclick.net/gampad/ads?gdfp_req=1&^$script,redirect=noopjs,domain=forbes.com
+instagram.com##._mli86
+
+
+
+! 3/8/2018, 8:31:13 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.maxwidth.xcontrast:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:33:03 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net###content_parent:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:33:38 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.lc:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:33:51 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.lc-left:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:34:29 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.zmenu:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:46:42 PM https://www.fanfiction.net/book/Harry-Potter/
+
+fanfiction.net##body:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:49:06 PM https://www.fanfiction.net/
+www.fanfiction.net##td! 3/8/2018, 8:31:13 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.maxwidth.xcontrast:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:33:03 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net###content_parent:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:33:38 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.lc:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:33:51 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.lc-left:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:34:29 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.zmenu:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:46:42 PM https://www.fanfiction.net/book/Harry-Potter/
+
+fanfiction.net##body:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:49:17 PM https://www.fanfiction.net/
+www.fanfiction.net##.tcat! 3/8/2018, 8:31:13 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.maxwidth.xcontrast:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:33:03 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net###content_parent:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:33:38 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.lc:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:33:51 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.lc-left:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:34:29 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.zmenu:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:46:42 PM https://www.fanfiction.net/book/Harry-Potter/
+
+fanfiction.net##body:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:50:39 PM https://www.fanfiction.net/
+www.fanfiction.net##tr! 3/8/2018, 8:31:13 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.maxwidth.xcontrast:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:33:03 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net###content_parent:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:33:38 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.lc:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:33:51 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.lc-left:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:34:29 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.zmenu:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:46:42 PM https://www.fanfiction.net/book/Harry-Potter/
+
+fanfiction.net##body:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:50:52 PM https://www.fanfiction.net/
+www.fanfiction.net###content_wrapper_inner! 3/8/2018, 8:31:13 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.maxwidth.xcontrast:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:33:03 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net###content_parent:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:33:38 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.lc:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:33:51 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.lc-left:style(background-color: #d3d3d3 !important;)
+
+pirateproxy.sh##div:nth-of-type(4) > div:nth-of-type(2) > a:style(color: #000 !important; pointer-events: none !important; cursor: text !important; border-bottom: none !important; clear: both !important;)
+pirateproxy.sh###details > div:nth-of-type(3) > div:nth-of-type(2) > a:style(color: #000 !important; pointer-events: none !important; cursor: text !important; border-bottom: none !important; clear: both !important;)
+
+/\/1337x\..*\/.*[A-Za-z0-9]{20,}/$important,script,domain=1337x.to|1337x.st|x1337x.eu|x1337x.ws
+@@/angular-cookies-$domain=payments.amazon.com
+
+! 3/18/2018, 12:32:41 AM https://www.google.com/search?q=youtube&oq=you&aqs=chrome.0.69i59j69i57j69i65l2j69i60l2.3245j0j4&sourceid=chrome&ie=UTF-8
+google.*##.VoEfsd:style(background-color: #d3d3d3 !important;)
+
+! 3/18/2018, 5:06:30 PM https://github.com/collinbarrett/FilterLists
+github.com##body:style(background-color: #d3d3d3 !important;)
+
+! 3/18/2018, 5:07:29 PM https://github.com/collinbarrett/FilterLists
+github.com##.experiment-repo-nav.readability-menu.instapaper_ignore.repohead.pagehead:style(background-color: #d3d3d3 !important;)
+
+! 3/18/2018, 5:08:16 PM https://github.com/collinbarrett/FilterLists
+github.com##.entry-content.markdown-body:style(background-color: #d3d3d3 !important;)
+github.com##.file-header:style(background-color: #d3d3d3 !important;)
+
+! 3/18/2018, 5:12:47 PM https://github.com/jakky567/my-filters/blob/master/myubfilters.txt
+github.com##.commit-tease:style(background-color: #d3d3d3 !important;)
+
+! 3/18/2018, 5:12:54 PM https://github.com/jakky567/my-filters/blob/master/myubfilters.txt
+github.com##.commit-tease-contributors:style(background-color: #d3d3d3 !important;)
+
+! 3/26/2018, 8:48:25 PM http://emmates.proboards.com/thread/624
+emmates.proboards.com###ovdphmrdpmmhbxp-overlay
+
+
+! 3/30/2018, 5:48:31 PM https://www.viz.com/shonenjump/chapter/dragon-ball-super-chapter-32/6562?read=1
+www.viz.com###metamodal-chapter-ad
+
+! 5/29/2018, 6:08:07 PM https://www.nexusmods.com/skyrimspecialedition/search/
+www.nexusmods.com###donation_banner_wrapper
+
+#@#iframe[src*="facebook.com"]
+
+sandisk.com#@##consent_blackbar
+
+
+@@||moatads.com/*/moatwrapper.js$script,domain=hulu.com,third-party
+
+
+! 10/10/2018, 10:54:22 PM https://www.hulu.com/watch/af547272-a212-4c19-b835-5442769e1c0f
+www.hulu.com##.countdown-rotor-container
+
+||ads-a-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
+||ads-b-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
+||ads-c-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
+||ads-d-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
+||ads-e-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
+||ads-f-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
+||ads-g-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
+||ads-h-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
+||ads-i-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
+||ads-j-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
+||ads-k-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
+||ads-l-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
+||ads-m-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
+||ads-n-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
+||ads-o-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
+||ads-p-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
+||ads-q-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
+||ads-r-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
+||ads-s-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
+||ads-t-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
+||ads-u-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
+||ads-v-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
+||ads-w-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
+||ads-x-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
+||ads-y-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
+||ads-z-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
+
+! 10/11/2018, 10:09:07 AM https://www.hulu.com/watch/21e913e1-0eaf-4f69-95d7-0510109fea5b
+www.hulu.com##.ad-top-bar-text.ad-label
+
+! 10/11/2018, 10:09:25 AM https://www.hulu.com/watch/21e913e1-0eaf-4f69-95d7-0510109fea5b
+www.hulu.com##.visit-ad.ad-top-bar-text
+
+! 10/11/2018, 10:10:36 AM https://www.hulu.com/watch/21e913e1-0eaf-4f69-95d7-0510109fea5b
+www.hulu.com##.ad-top-bar
+
+kissanime.ru##.divCloseBut
+kissanime.ru,kissmanga.com,kissasian.com,kisscartoon.se,readcomiconline.to##script:contains(DoAdsPosition)
+
+||kissanime.*/ads$important
+||kissmanga.*/ads$important
+||kissasian.*/ads$important
+||kisscartoon.*/ads$important
+||readcomiconline.*/ads$important
+||kissanime.*/check.aspx$important
+
+! Allow known sites only.
+||kiss-anime.*$important
+||kissanime.*$important,domain=~kissanime.ru|~forum.kissanime.com
+||kissmanga.*$important,domain=~kissmanga.com
+||kissasian.*$important,domain=~kissasian.com
+||kisscartoon.*$important,domain=~kisscartoon.se
+||readcomiconline.*$important,domain=~readcomiconline.to
+
+! plain list of fake sites (phishing site)
+||kissanime.io$important
+||kissanime.ro$important
+||kissanime.pro$important
+||kiss-anime.me$important
+||kisscartoon.so$important
+||kissasian.xyz$important
+||kissmanga.us$important
+||kissmanga.io$important
+||kissmanga.ru$important
+||kissmanga.ro$important
+||kissmanga.pro$important
+||anime8.*$important
 
 127.0.0.1 1girl1pitcher.com
 127.0.0.1 1girl1pitcher.org
