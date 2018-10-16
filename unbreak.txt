@@ -42,6 +42,7 @@ mangadeep.com#@#.afs_ads
 /img/*/google.png$badfilter
 /img/*facebook.png$badfilter
 /img/*twitter.png$badfilter
+||phonearena.com^$badfilter
 
 !fanboy cookie monster (hahahaha!)
 sandisk.com#@##consent_blackbar
