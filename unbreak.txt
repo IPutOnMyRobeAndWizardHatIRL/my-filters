@@ -20,6 +20,8 @@ mangadeep.com#@#.afs_ads
 !threatcrowd again
 ||s0.wp.com^$badfilter
 ||hubspot.com^$badfilter
+@@||oneplus.com^$generichide
+
 @@||g.doubleclick.net/gampad/ads?gdfp_req=1&$script,domain=forbes.com,badfilter
 ||messenger.com^$badfilter
 !spies privacy
