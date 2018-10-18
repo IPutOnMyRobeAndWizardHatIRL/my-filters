@@ -12,6 +12,7 @@
 
 thepiratebay3.*^$third-party
 ||www.phonearena.com^$inline-script,domain=www.phonearena.com
+||assetshuluimcom-a.akamaihd.net/*.mp3$media,domain=hulu.com,redirect=noopmp3-0.1s,third-party,important
 
 
 ! 10/17/2018, 8:54:39 PM hulu.com
