@@ -8,6 +8,7 @@
 @@||mangareader.net/sup/js/*.js$first-party
 ! threatcrowd has this, but it's just a bad filter
 ||cloudflare.com^$badfilter
+@@||raw.githubusercontent.com
 !privacy filters has this, bad filter
 ||imgur.com/b$badfilter
 !anti-adblock measure, I believe this is in easylist
