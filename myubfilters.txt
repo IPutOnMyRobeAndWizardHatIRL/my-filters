@@ -58,7 +58,8 @@ www.facebook.com##._1wcc
 ! "Keep the conversation going from your phone" Message at /messages
 www.facebook.com##._s15
 
-
+! 10/17/2018, 10:21:00 PM hulu.com
+||assetshuluimcom-a.akamaihd.net/*.mp3$media,domain=hulu.com,redirect=noopmp3-0.1s,third-party,important
 bitlord.com/
 ! 3/25/2018, 
 wikia.com##.ember-view.fandom-app-smart-banner
