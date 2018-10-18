@@ -10,6 +10,10 @@
 ||cloudflare.com^$badfilter
 @@||raw.githubusercontent.com
 !privacy filters has this, bad filter
+.net/ad/$badfilter
+.net/ad/$image,badfilter
+.net/ad/$media,badfilter
+.net/ad/$domain~=hulu.com
 ||imgur.com/b$badfilter
 !anti-adblock measure, I believe this is in easylist
 mangadeep.com#@#.afs_ads
