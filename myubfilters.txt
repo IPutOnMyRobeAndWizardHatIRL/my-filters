@@ -143,6 +143,24 @@ github.com##.file-header:style(background-color: #d3d3d3 !important;)
 ! 3/18/2018, 5:12:47 PM https://github.com/jakky567/my-filters/blob/master/myubfilters.txt
 github.com##.commit-tease:style(background-color: #d3d3d3 !important;)
 
+
+! 10/18/2018, 12:21:29 AM https://www.instagram.com/
+www.instagram.com##._9AhH0
+
+
+! 10/18/2018, 12:22:17 AM https://www.instagram.com/
+www.instagram.com##.oujXn
+
+! 10/18/2018, 12:23:07 AM https://www.instagram.com/
+www.instagram.com##.QvAa1
+
+! 10/18/2018, 12:23:47 AM https://www.instagram.com/stories/_emmyclarke/
+www.instagram.com##.B20bj
+
+
+! 10/18/2018, 12:24:08 AM https://www.instagram.com/stories/_emmyclarke/
+www.instagram.com##.z6Odz
+
 ! 3/18/2018, 5:12:54 PM https://github.com/jakky567/my-filters/blob/master/myubfilters.txt
 github.com##.commit-tease-contributors:style(background-color: #d3d3d3 !important;)
 
