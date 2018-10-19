@@ -2646,7 +2646,7 @@ cointelegraph.com##iframe[src*="/img/banners/"]
 ||m80fg.com$important
 ||alxsite.com$important
 ||alxsite.com$important,popup
-||ravenjs.com^$important
+||ravenjs.com^$important,domain~=jaiminisbox.com,script
 ||pagefair.*$script,important
 ||mixpanel.com$important
 ||mxpnl.com$important
@@ -2655,7 +2655,7 @@ cointelegraph.com##iframe[src*="/img/banners/"]
 ||gaiaonline.com$important
 ||gaiaonline.com$important,popup
 ||cnzz.com$important
-||taboola.com$important
+||taboola.com$important,third-party
 ||axeso5.com$important
 ||mooncklick.com$important
 ||mooncklick.com$important,popup
