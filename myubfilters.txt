@@ -184,6 +184,10 @@ literotica.com###qfhepsjl
 $websocket,domain=300mbfilms.co|a-o.ninja|ajplugins.com|adfreetv.ch|akvideo.stream|dekoder.ws|estream.to|fileone.tv|gofile.io|hq-porns.com|jkanime.net|kinokrad.co|lewd.ninja|love-drama.pl|movie4k.is|oload.info|oload.tv|openload.co|powvideo.net|skyback.ru|streamango.com|streamcherry.com|szukajka.tv|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|vidfile.net|oload.info|oload.tv|openload.co|shrink-service.it|streamango.com|streamcherry.com|vidoza.net|tvad.me|vidup.me|lewd.ninja|love-drama.pl|alltube.tv
 $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 .accountant^$third-party,websocket
+
+hulu.com##+js(nano-setInterval-booster.js, , ,0.02)
+! 10/22/2018, 1:17:17 PM https://www.hulu.com/watch/aee3cf54-589c-4b94-875b-c66bc7109a9b
+www.hulu.com##.ad-container
 .bid^$third-party,websocket
 .cf^$third-party,websocket
 .club^$third-party,websocket
