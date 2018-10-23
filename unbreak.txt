@@ -26,7 +26,8 @@ mangadeep.com#@#.afs_ads
 ||s0.wp.com^$badfilter
 ||hubspot.com^$badfilter
 @@||oneplus.com^$generichide
-
+@@/favicon.ico$badfilter
+@@||disqus.com/embed.js?_=1457540*$scriptbadfilter
 @@||g.doubleclick.net/gampad/ads?gdfp_req=1&$script,domain=forbes.com,badfilter
 ||messenger.com^$badfilter
 !spies privacy
