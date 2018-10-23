@@ -20,7 +20,11 @@ www.reddit.com##.dHfIeC.e0lqz0-0
 
 ! 10/22/2018, 12:53:05 PM https://www.reddit.com/r/hardcoreaww/comments/9q3892/suitable_friending_ship/
 www.reddit.com##.dHfIeC
+||play.hulu.com/sauron/v1/views/*/delete$other,domain=hulu.com
+||hulu.com/*/errorpage.js$script,domain=www.hulu.com
 
+! 10/23/2018, 11:26:30 AM hulu.com
+||play.hulu.com/sauron/v1/views/*/update$xmlhttprequest,domain=www.hulu.com
 ! 10/22/2018, 12:54:03 PM https://www.reddit.com/r/hardcoreaww/comments/9q2ol8/sleepy_boi/
 www.reddit.com##.e0lqz0-0
 thepiratebay3.*##div:nth-of-type(4) > div:nth-of-type(2) [href]:style(color: #000 !important; pointer-events: none !important; cursor: text !important; border-bottom: none !important; clear: both !important;)
