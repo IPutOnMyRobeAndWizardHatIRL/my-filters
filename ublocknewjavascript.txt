@@ -11,8 +11,10 @@
 # enableloop
 enableloop.js application/javascript
 (function() { 
-    var x = document.querySelector("video.y-yJ5.OFkrO");
-    x.pause();
-    x.loop = true;
-    x.load();
+    var v = document.querySelector("video.y-yJ5.OFkrO");
+    # "y-yJ5\  OFkrO\ "
+    v.pause();
+    v.controls = true;
+    v.loop = true;
+    v.load();
 })(); 
