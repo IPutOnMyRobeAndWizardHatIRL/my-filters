@@ -1,0 +1,7 @@
+enableloop.js application/javascript
+
+(function enableloop() { 
+    var x = document.getElementById("y-yJ5  OFkrO");
+	x.loop = true;
+    x.load();
+}) 
