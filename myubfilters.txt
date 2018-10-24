@@ -44,7 +44,7 @@ www.nexusmods.com###donation_banner_wrapper
 
 ! Prevent 'seen' status in Messenger
 ||www.facebook.com/ajax/mercury/change_read_status
-
+instagram.com##+js(setInterval-defuser.js)
 ! Prevent 'seen' status in Group Posts
 ||www.facebook.com/*notif_t=group_$document,subdocument,important
 ||www.facebook.com/ajax/bz$important
