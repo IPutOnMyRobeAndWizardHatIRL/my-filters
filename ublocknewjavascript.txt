@@ -11,12 +11,13 @@
 # enableloop
 enableloop.js application/javascript
 (function() { 
+    var handled = new WeakSet();
     var x = document.querySelector("video");
     # x.loop = true; y-yJ5.OFkrO
     if ( x === null ) { return; }
     if ( handled.has(x) ) { return; }
         handled.add(x);
-        v.pause();
-        v.loop = true;
+        x.pause();
+        x.loop = true;
     x.load();
 })(); 
