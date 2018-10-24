@@ -11,7 +11,7 @@
 # enableloop
 enableloop.js application/javascript
 (function() { 
-    var x = document.getElementById("y-yJ5  OFkrO");
+    var x = document.getElementById(".OFkrO.y-yJ5");
     x.loop = true;
     x.load();
 })(); 
