@@ -15,6 +15,7 @@ enableloop.js application/javascript
         var v = document.querySelector("video.y-yJ5.OFkrO");
         v.pause();
         v.loop = true;
+        v.play();
         v.load();
     });
 })(); 
