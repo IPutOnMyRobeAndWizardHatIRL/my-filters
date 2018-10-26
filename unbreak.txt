@@ -8,6 +8,7 @@
 @@||mangareader.net/sup/js/*.js$first-party
 ! threatcrowd has this, but it's just a bad filter
 ||cloudflare.com^$badfilter
+youtube.com#@#div[class*=ytp-ce-]
 @@||raw.githubusercontent.com
 !privacy filters has this, bad filter
 .net/ad/$badfilter
