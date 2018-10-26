@@ -11,7 +11,7 @@
 # enableloop
 enableloop.js application/javascript
 (function() { 
-    document.addEventListener('load', function() {
+    window.addEventListener('load', function() {
         var v = document.querySelector("video.y-yJ5.OFkrO");
         v.pause();
         v.loop = true;
