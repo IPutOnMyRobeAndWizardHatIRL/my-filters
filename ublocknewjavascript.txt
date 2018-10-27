@@ -7,15 +7,27 @@
 #
 # If the encoding is absent, the data will be converted to base64, and the
 # encoding will be set to `;base64`.
-
 # enableloop
 enableloop.js application/javascript
 (function() { 
-    window.addEventListener('load', function() {
+    
+// Select the node that will be observed for mutations
+var targetNode = document.querySelector("video.y-yJ5.OFkrO");
+
+// Options for the observer (which mutations to observe)
+var config = { attributes: true, childList: true, subtree: true };    
+    
+    var callback = window.addEventListener('load', function() {
         var v = document.querySelector("video.y-yJ5.OFkrO");
         v.pause();
         v.loop = true;
         v.load();
         v.play();
     });
+    // Create an observer instance linked to the callback function
+var observer = new MutationObserver(callback);
+
+// Start observing the target node for configured mutations
+observer.observe(targetNode, config);
 })(); 
+
