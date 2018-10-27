@@ -121,6 +121,9 @@ www.reddit.com##.flair-rainbowalert.flair
 
 ||ads-a-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
 
+!gwarser https://www.reddit.com/r/uBlockOrigin/comments/9r4sof/help_with_custom_scriptlet/
+instagram.com##+js(addEventListener-defuser.js, ended)
+
 mangadeep.com#@#.afs_ads
 
 ! 2/12/2018, 12:19:32 PM http://rutracker.org/forum/index.php
