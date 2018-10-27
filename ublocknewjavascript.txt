@@ -12,7 +12,7 @@ enableloop.js application/javascript
 (function() { 
     
 // Select the node that will be observed for mutations
-var targetNode = window;
+var targetNode = document.body;
 
 // Options for the observer (which mutations to observe)
 var config = { attributes: true, childList: true, subtree: true };    
