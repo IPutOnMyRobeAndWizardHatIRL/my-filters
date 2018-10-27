@@ -17,13 +17,14 @@ var targetNode = document;
 // Options for the observer (which mutations to observe)
 var config = { attributes: true, childList: true, subtree: true };    
     
-    var callback = window.addEventListener('load', function() {
+    var callback = function() { window.addEventListener('load', function() {
         var v = document.querySelector("video.y-yJ5.OFkrO");
         v.pause();
         v.loop = true;
         v.load();
         v.play();
     });
+    }
     // Create an observer instance linked to the callback function
 var observer = new MutationObserver(callback);
 
