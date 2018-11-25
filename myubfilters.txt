@@ -2646,17 +2646,13 @@ cointelegraph.com##iframe[src*="/img/banners/"]
 ||advertising.com$important,third-party
 ||adnxs.com$important,third-party
 ||ziffdavis.com$important,third-party
-||zdbb.net$important,third-party
 ||zergnet.com$important,third-party
-||imrworldwide.com$important,third-party
 ||sharethrough.com$important,third-party
 ||openx.net$important,third-party
 ||truste.com$important,third-party
 ||trustx.org$important,third-party
 ||digitru.st$important,third-party
 ||tyxo.com$important,third-party
-||outbrain.com$important,third-party
-||rackcdn.com$important,third-party
 ||content.ad$important,third-party
 ||grabo.bg$important,third-party
 ||profitshare.bg$important,third-party
