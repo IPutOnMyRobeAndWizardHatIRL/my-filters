@@ -123,6 +123,8 @@ www.reddit.com##.flair-rainbowalert.flair
 
 !gwarser https://www.reddit.com/r/uBlockOrigin/comments/9r4sof/help_with_custom_scriptlet/
 instagram.com##+js(addEventListener-defuser.js, ended)
+emuparadise.me##+js(emudllinks.js)
+emuparadise.*##+js(emudllinks.js)
 
 mangadeep.com#@#.afs_ads
 
