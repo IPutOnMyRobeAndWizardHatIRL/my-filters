@@ -10,11 +10,9 @@
 # enableloop
 emudllinks.js application/javascript
 (function() {
-  'use strict';
-  var buster = function() {
+  window.addEventListener('load', function() {
   var p = document.URL.split("/")[3];
   var u = "http://50.7.92.186/happyxhJ1ACmlTrxJQpol71nBc/";
-  
   if (p == "Sega_Dreamcast_ISOs") {
     let downs = document.querySelectorAll("p > a[title^=Download]");
     for (let i = 0; i < downs.length; i++) {
@@ -22,20 +20,17 @@ emudllinks.js application/javascript
     }
   }
   else if (p == "roms") {
-	let a = document.getElementsByClassName('snF');
-	var b;
-	for (let i = 0; i < a.length; i++) {
-	   b = a.item(i).getElementsByTagName('a').item(1);
+    let a = document.getElementsByClassName('snF');
+    var b;
+    for (let i = 0; i < a.length; i++) {
+       b = a.item(i).getElementsByTagName('a').item(1);
        b.href = u + "may/120/" + $.trim(document.getElementsByClassName('snifDir').item(0).getElementsByTagName('a').item(2).text.slice(0,-5))
-	   + "/" + $.trim(b.text);
+       + "/" + $.trim(b.text);
     }
   }
   else {
     const id = document.URL.split('/')[5];
     $('.download-link').children()[0].href = `/roms/get-download.php?gid=${id}&test=true`;
   }
-while(!document.querySelector(".download-link")) {
-  setTimeout(buster, 100);
-}
-};
+  })
 })();
