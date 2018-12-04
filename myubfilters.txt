@@ -14,6 +14,14 @@
 thepiratebay3.*^$third-party
 ||www.phonearena.com^$inline-script,domain=www.phonearena.com
 ||assetshuluimcom-a.akamaihd.net/*.mp3$media,domain=hulu.com,redirect=noopmp3-0.1s,third-party,important
+! 11/27/2018, 1:23:12 PM https://liliputing.com/2018/11/daily-deals-11-27-2018.html
+liliputing.com##.textwidget
+
+! 12/3/2018, 8:10:41 PM https://liliputing.com/2018/12/daily-deals-12-03-2018.html
+liliputing.com##.ezoic-ad
+
+! 12/3/2018, 8:13:45 PM https://liliputing.com/2018/12/report-microsoft-is-working-on-a-dual-screen-device-code-named-centaurus.html
+liliputing.com###featured-page-3
 
 ! 10/22/2018, 12:51:39 PM https://www.reddit.com/r/hardcoreaww/comments/9q2ol8/sleepy_boi/
 www.reddit.com##.dHfIeC.e0lqz0-0
