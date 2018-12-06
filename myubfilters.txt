@@ -63,7 +63,7 @@ instagram.com##+js(setInterval-defuser.js)
 !||www.facebook.com/events/$document,subdocument,important
 ! Notification-based, seen status can still be triggered by clicking on a link to the event
 ||www.facebook.com/events/*notif_t=plan_user_invited$document,subdocument,important
-
+vsco.co##section:if(a[href^="https://vs.co/a/key_live_"]:nth-of-type(2))
 ! Prevent 'is typing' status
 ! Posts
 ||www.facebook.com/ufi/typing
