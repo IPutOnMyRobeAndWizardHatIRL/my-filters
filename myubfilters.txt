@@ -923,7 +923,9 @@ www.mangareader.net##.c3
 !@@||http://www.citationmachine.net/$generichide
 
 techmazza.com##script:inject(bab-defuser.js)
-
+! it seems they've added invisible layers with the stupid ad.
+! 12/5/2018, 8:53:39 PM https://vsco.co/mikkamish/images/1
+vsco.co##.css-1j5xwbw
 vsco.co##script:inject(addEventListener-defuser.js,contextmenu)
 
 
