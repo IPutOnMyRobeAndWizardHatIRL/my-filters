@@ -9,6 +9,8 @@
 1337x.to##[href^="/dirdownl"]
 ! 12/26/2018, 1:48:28 AM https://1337x.to/torrent/1381260/One-Punch-Man-Road-to-Hero-OVA-1-720p-English-Subbed-ARRG-Lucifer22/
 1337x.to##[href^="/stredir"]
+www.myfitnesspal.com##.mfp-modal-disable-overlay
+www.myfitnesspal.com##.mfp-modal-overlay
 
 #@#iframe[src*="facebook.com"] 
 ! 4/12/2018, 2:59:59 PM hulu.com
