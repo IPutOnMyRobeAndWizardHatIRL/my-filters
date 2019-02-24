@@ -1826,7 +1826,6 @@ kobatochan.com##^script:has-text(randpubc)
 ||console.cloud.google.com/m/csilog
 ||google.com/*/logImpressions
 ||google.com/*/viewerimpressions
-||www.amazon.com/ah/ajax/record-impressions
 ||www.booking.com/js_tracking
 ||www.dropbox.com/log_js_sw_data
 ||www.dropbox.com/log/ux_analytics
@@ -2447,16 +2446,6 @@ wordpress.com###wordads-preview-parent
 ||analytics.slashdotmedia.com$important
 ||slashdotmedia.com/www/delivery/lg.php$important
 
-||fls-na.amazon.ca^$important
-||amazon-adsystem.com$important
-||amazon.ca/gp/uedata?$important
-||appshell-trk.s3.amazonaws.com^$important
-||ssl-images-amazon.com/images/G/01/ads/advertising/*$script,important
-||beyond-branding.com^$important,third-party
-||surveygizmobeacon.s3.amazonaws.com$important
-||s3.amazonaws.com/*/secure.js$script,important
-||amazonaws.com/703a80648f8f74c6a637ac48fc23d00ba8dc4bb12ead3d0075872b2d623fe7$important
-||amazonaws.com/6f271238cde78a5adc1fc74fba471f3edc035aeab4a2b5c6a168682ae324f14$important
 
 msn.com##.paddle
 tampermonkey.net###curtain
