@@ -24,7 +24,7 @@ thepiratebay3.*^$third-party
 liliputing.com##.textwidget
 ! 10/21/2018, 1:50:26 PM https://thepiratebay.rocks/torrent/11773986/Scarface+(1983)+BDrip+x265+ENG-ITA+Aac+subs
 thepiratebay.*##div.download:nth-of-type(1) > [href^="http"]
-
+arstechnica.com##.ad_crown.ad
 thepiratebay.*###details > div:nth-of-type(3) > div:nth-of-type(2) [href]:style(pointer-events: none !important; cursor: default !important;)
 
 ! 10/21/2018, 1:50:54 PM https://thepiratebay.rocks/torrent/11773986/Scarface+(1983)+BDrip+x265+ENG-ITA+Aac+subs
