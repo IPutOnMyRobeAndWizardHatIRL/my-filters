@@ -14,6 +14,7 @@ www.myfitnesspal.com##.mfp-modal-overlay
 ! 4/3/2019 btdb.eu
 ||cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js$xmlhttprequest,domain=btdb.eu
 ||cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js$xmlhttprequest,domain=btdb.eu,redirect=noopjs
+||mediausamns-a.akamaihd.net/*.mp4$media,third-party,domain=sonycrackle.com
 
 #@#iframe[src*="facebook.com"] 
 ! 4/12/2018, 2:59:59 PM hulu.com
