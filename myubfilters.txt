@@ -24,6 +24,7 @@ www.myfitnesspal.com##.mfp-modal-overlay
 thepiratebay3.*^$third-party
 ||www.phonearena.com^$inline-script,domain=www.phonearena.com
 ||assetshuluimcom-a.akamaihd.net/*.mp3$media,domain=hulu.com,redirect=noopmp3-0.1s,third-party,important
+||assetshuluimcom-a.akamaihd.net/prerolls/*.mp4$media,domain=hulu.com,redirect=noopmp3-0.1s,third-party,important
 ! 11/27/2018, 1:23:12 PM https://liliputing.com/2018/11/daily-deals-11-27-2018.html
 liliputing.com##.textwidget
 ! 10/21/2018, 1:50:26 PM https://thepiratebay.rocks/torrent/11773986/Scarface+(1983)+BDrip+x265+ENG-ITA+Aac+subs
