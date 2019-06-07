@@ -42,7 +42,11 @@ liliputing.com##.ezoic-ad
 
 ! 12/3/2018, 8:13:45 PM https://liliputing.com/2018/12/report-microsoft-is-working-on-a-dual-screen-device-code-named-centaurus.html
 liliputing.com###featured-page-3
+hulu.com##.countdown-rotor-container
+hulu.com##.countdown-rotor
 
+hulu.com##.ad-countdown
+hulu.com##.ad-top-bar
 ! 10/22/2018, 12:51:39 PM https://www.reddit.com/r/hardcoreaww/comments/9q2ol8/sleepy_boi/
 www.reddit.com##.dHfIeC.e0lqz0-0
 
