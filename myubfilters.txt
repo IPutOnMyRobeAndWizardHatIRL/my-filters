@@ -884,20 +884,7 @@ www.bing.com###hc_opalinst
 ! 3/16/2018, 5:24:23 PM https://www.bing.com/search?q=luffy&qs=n&sp=-1&pq=luffy&sc=5-5&sk=&cvid=A9CA4618E332409CB6723490A32B4494&first=9&FORM=PORE
 www.bing.com###opal_serpftr
 
-#<shock-sites>
-# For example, to block unpleasant pages, try:
-127.0.0.1 goatse.cx       # More information on sites such as 
-127.0.0.1 www.goatse.cx   # these can be found in this article
-127.0.0.1 oralse.cx       # en.wikipedia.org/wiki/List_of_shock_sites
-127.0.0.1 www.oralse.cx
-127.0.0.1 goatse.ca
-127.0.0.1 www.goatse.ca
-127.0.0.1 oralse.ca
-127.0.0.1 www.oralse.ca
-127.0.0.1 goat.cx
-127.0.0.1 www.goat.cx
-127.0.0.1 shafou.com
-127.0.0.1 www.shafou.com
+
 ||ads-k-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
 bitlord.com/
 
@@ -952,7 +939,6 @@ techmazza.com##script:inject(bab-defuser.js)
 vsco.co##.css-1j5xwbw
 vsco.co##script:inject(addEventListener-defuser.js,contextmenu)
 
-
 1337x.*##script:inject(window.open-defuser.js)
 1337x.*##script:inject(setInterval-defuser.js, (), 500)
 1337x.*##script:inject(addEventListener-defuser.js, /^(click|mousedown|)/, popunder)
@@ -972,8 +958,6 @@ x1337x.*##body > div:not(.wrapper)
 
 !||g.doubleclick.net/gampad/ads?gdfp_req=1&^$script,redirect=noopjs,domain=forbes.com
 instagram.com##._mli86
-
-
 
 ! 3/8/2018, 8:31:13 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
 www.fanfiction.net##.maxwidth.xcontrast:style(background-color: #d3d3d3 !important;)
@@ -1095,7 +1079,6 @@ github.com##.commit-tease-contributors:style(background-color: #d3d3d3 !importan
 ! 3/26/2018, 8:48:25 PM http://emmates.proboards.com/thread/624
 emmates.proboards.com###ovdphmrdpmmhbxp-overlay
 
-
 ! 3/30/2018, 5:48:31 PM https://www.viz.com/shonenjump/chapter/dragon-ball-super-chapter-32/6562?read=1
 www.viz.com###metamodal-chapter-ad
 
@@ -1106,9 +1089,7 @@ www.nexusmods.com###donation_banner_wrapper
 
 sandisk.com#@##consent_blackbar
 
-
 @@||moatads.com/*/moatwrapper.js$script,domain=hulu.com,third-party
-
 
 ! 10/10/2018, 10:54:22 PM https://www.hulu.com/watch/af547272-a212-4c19-b835-5442769e1c0f
 www.hulu.com##.countdown-rotor-container
@@ -1149,354 +1130,11 @@ www.hulu.com##.visit-ad.ad-top-bar-text
 ! 10/11/2018, 10:10:36 AM https://www.hulu.com/watch/21e913e1-0eaf-4f69-95d7-0510109fea5b
 www.hulu.com##.ad-top-bar
 
-kissanime.ru##.divCloseBut
-kissanime.ru,kissmanga.com,kissasian.com,kisscartoon.se,readcomiconline.to##script:contains(DoAdsPosition)
-
-||kissanime.*/ads$important
-||kissmanga.*/ads$important
-||kissasian.*/ads$important
-||kisscartoon.*/ads$important
-||readcomiconline.*/ads$important
-||kissanime.*/check.aspx$important
-
-! Allow known sites only.
-||kiss-anime.*$important
-||kissanime.*$important,domain=~kissanime.ru|~forum.kissanime.com
-||kissmanga.*$important,domain=~kissmanga.com
-||kissasian.*$important,domain=~kissasian.com
-||kisscartoon.*$important,domain=~kisscartoon.se
-||readcomiconline.*$important,domain=~readcomiconline.to
-
-! plain list of fake sites (phishing site)
-||kissanime.io$important
-||kissanime.ro$important
-||kissanime.pro$important
-||kiss-anime.me$important
-||kisscartoon.so$important
-||kissasian.xyz$important
-||kissmanga.us$important
-||kissmanga.io$important
-||kissmanga.ru$important
-||kissmanga.ro$important
-||kissmanga.pro$important
-||anime8.*$important
-
-127.0.0.1 1girl1pitcher.com
-127.0.0.1 1girl1pitcher.org
-127.0.0.1 1guy1cock.com
-127.0.0.1 1man1jar.org
-127.0.0.1 1man2needles.com
-127.0.0.1 1priest1nun.com
-127.0.0.1 1priest1nun.net
-127.0.0.1 2girls1cup.cc
-127.0.0.1 2girls1cup.com
-127.0.0.1 2girls1cup-free.com
-127.0.0.1 2girls1cup.nl
-127.0.0.1 2girls1cup.ws
-127.0.0.1 2girls1finger.com
-127.0.0.1 2girls1finger.org
-127.0.0.1 2guys1stump.org
-127.0.0.1 3guys1hammer.ws
-127.0.0.1 4girlsfingerpaint.com
-127.0.0.1 4girlsfingerpaint.org
-127.0.0.1 bagslap.com
-127.0.0.1 ballsack.org
-127.0.0.1 bestshockers.com
-127.0.0.1 bluewaffle.biz
-127.0.0.1 bottleguy.com
-127.0.0.1 bowlgirl.com
-127.0.0.1 cadaver.org
-127.0.0.1 clownsong.com
-127.0.0.1 copyright-reform.info
-127.0.0.1 cshacks.partycat.us
-127.0.0.1 cyberscat.com
-127.0.0.1 dadparty.com
-127.0.0.1 detroithardcore.com
-127.0.0.1 donotwatch.org
-127.0.0.1 dontwatch.us
-127.0.0.1 eelsoup.net
-127.0.0.1 fruitlauncher.com
-127.0.0.1 fuck.org
-127.0.0.1 funnelchair.com
-127.0.0.1 goatse.bz
-127.0.0.1 goatsegirl.org
-127.0.0.1 goatse.ru
-127.0.0.1 hai2u.com
-127.0.0.1 homewares.org
-127.0.0.1 howtotroll.org
-127.0.0.1 japscat.org
-127.0.0.1 jarsquatter.com
-127.0.0.1 jiztini.com
-127.0.0.1 junecleeland.com
-127.0.0.1 kids-in-sandbox.com
-127.0.0.1 kidsinsandbox.info
-127.0.0.1 lemonparty.biz
-127.0.0.1 lemonparty.org
-127.0.0.1 lolhello.com
-127.0.0.1 lolshock.com
-127.0.0.1 loltrain.com
-127.0.0.1 meatspin.biz
-127.0.0.1 meatspin.com
-127.0.0.1 merryholidays.org
-127.0.0.1 milkfountain.com
-127.0.0.1 mudfall.com
-127.0.0.1 mudmonster.org
-127.0.0.1 nimp.org
-127.0.0.1 nobrain.dk
-127.0.0.1 nutabuse.com
-127.0.0.1 octopusgirl.com
-127.0.0.1 on.nimp.org
-127.0.0.1 painolympics.info
-127.0.0.1 painolympics.org
-127.0.0.1 phonejapan.com
-127.0.0.1 pressurespot.com
-127.0.0.1 prolapseman.com
-127.0.0.1 scrollbelow.com
-127.0.0.1 selfpwn.org
-127.0.0.1 sexitnow.com
-127.0.0.1 sourmath.com
-127.0.0.1 strawpoii.me
-127.0.0.1 suckdude.com
-127.0.0.1 thatsjustgay.com
-127.0.0.1 thatsphucked.com
-127.0.0.1 thehomo.org
-127.0.0.1 themacuser.org
-127.0.0.1 thepounder.com
-127.0.0.1 tubgirl.me
-127.0.0.1 tubgirl.org
-127.0.0.1 turdgasm.com
-127.0.0.1 vomitgirl.org
-127.0.0.1 walkthedinosaur.com
-127.0.0.1 whipcrack.org
-127.0.0.1 wormgush.com
-127.0.0.1 www.1girl1pitcher.org
-127.0.0.1 www.1guy1cock.com
-127.0.0.1 www.1man1jar.org
-127.0.0.1 www.1man2needles.com
-127.0.0.1 www.1priest1nun.com
-127.0.0.1 www.1priest1nun.net
-127.0.0.1 www.2girls1cup.cc
-127.0.0.1 www.2girls1cup-free.com
-127.0.0.1 www.2girls1cup.nl
-127.0.0.1 www.2girls1cup.ws
-127.0.0.1 www.2girls1finger.org
-127.0.0.1 www.2guys1stump.org
-127.0.0.1 www.3guys1hammer.ws
-127.0.0.1 www.4girlsfingerpaint.org
-127.0.0.1 www.bagslap.com
-127.0.0.1 www.ballsack.org
-127.0.0.1 www.bestshockers.com
-127.0.0.1 www.bluewaffle.biz
-127.0.0.1 www.bottleguy.com
-127.0.0.1 www.bowlgirl.com
-127.0.0.1 www.cadaver.org
-127.0.0.1 www.clownsong.com
-127.0.0.1 www.copyright-reform.info
-127.0.0.1 www.cshacks.partycat.us
-127.0.0.1 www.cyberscat.com
-127.0.0.1 www.dadparty.com
-127.0.0.1 www.detroithardcore.com
-127.0.0.1 www.donotwatch.org
-127.0.0.1 www.dontwatch.us
-127.0.0.1 www.eelsoup.net
-127.0.0.1 www.fruitlauncher.com
-127.0.0.1 www.fuck.org
-127.0.0.1 www.funnelchair.com
-127.0.0.1 www.goatse.bz
-127.0.0.1 www.goatsegirl.org
-127.0.0.1 www.goatse.ru
-127.0.0.1 www.hai2u.com
-127.0.0.1 www.homewares.org
-127.0.0.1 www.howtotroll.org
-127.0.0.1 www.japscat.org
-127.0.0.1 www.jiztini.com
-127.0.0.1 www.junecleeland.com
-127.0.0.1 www.kids-in-sandbox.com
-127.0.0.1 www.kidsinsandbox.info
-127.0.0.1 www.lemonparty.biz
-127.0.0.1 www.lemonparty.org
-127.0.0.1 www.lolhello.com
-127.0.0.1 www.lolshock.com
-127.0.0.1 www.loltrain.com
-127.0.0.1 www.meatspin.biz
-127.0.0.1 www.meatspin.com
-127.0.0.1 www.merryholidays.org
-127.0.0.1 www.milkfountain.com
-127.0.0.1 www.mudfall.com
-127.0.0.1 www.mudmonster.org
-127.0.0.1 www.nimp.org
-127.0.0.1 www.nobrain.dk
-127.0.0.1 www.nutabuse.com
-127.0.0.1 www.octopusgirl.com
-127.0.0.1 www.on.nimp.org
-127.0.0.1 www.painolympics.info
-127.0.0.1 www.painolympics.org
-127.0.0.1 www.phonejapan.com
-127.0.0.1 www.pressurespot.com
-127.0.0.1 www.prolapseman.com
-127.0.0.1 www.punishtube.com
-127.0.0.1 www.scrollbelow.com
-127.0.0.1 www.selfpwn.org
-127.0.0.1 www.sourmath.com
-127.0.0.1 www.strawpoii.me
-127.0.0.1 www.suckdude.com
-127.0.0.1 www.thatsjustgay.com
-127.0.0.1 www.thatsphucked.com
-127.0.0.1 www.theexgirlfriends.com
-127.0.0.1 www.thehomo.org
-127.0.0.1 www.themacuser.org
-127.0.0.1 www.thepounder.com
-127.0.0.1 www.tubgirl.me
-127.0.0.1 www.tubgirl.org
-127.0.0.1 www.turdgasm.com
-127.0.0.1 www.vomitgirl.org
-127.0.0.1 www.walkthedinosaur.com
-127.0.0.1 www.whipcrack.org
-127.0.0.1 www.wormgush.com
-127.0.0.1 www.xvideoslive.com
-127.0.0.1 www.y8.com
-127.0.0.1 www.youaresogay.com
-127.0.0.1 www.ypmate.com
-127.0.0.1 www.zentastic.com
-127.0.0.1 youaresogay.com
-127.0.0.1 zentastic.com
-#</shock-sites>
 
 
 
 #<belo-interactive-sites>
 ||ads-l-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
-
-# belo interactive ads
-127.0.0.1 te.about.com
-127.0.0.1 te.adlandpro.com
-127.0.0.1 te.advance.net
-127.0.0.1 te.ap.org
-127.0.0.1 te.astrology.com
-127.0.0.1 te.audiencematch.net
-127.0.0.1 te.belointeractive.com
-127.0.0.1 te.boston.com
-127.0.0.1 te.businessweek.com
-127.0.0.1 te.chicagotribune.com
-127.0.0.1 te.chron.com
-127.0.0.1 te.cleveland.net
-127.0.0.1 te.ctnow.com
-127.0.0.1 te.dailycamera.com
-127.0.0.1 te.dailypress.com
-127.0.0.1 te.dentonrc.com
-127.0.0.1 te.greenwichtime.com
-127.0.0.1 te.idg.com
-127.0.0.1 te.infoworld.com
-127.0.0.1 te.ivillage.com
-127.0.0.1 te.journalnow.com
-127.0.0.1 te.latimes.com
-127.0.0.1 te.mcall.com
-127.0.0.1 te.mgnetwork.com
-127.0.0.1 te.mysanantonio.com
-127.0.0.1 te.newsday.com
-127.0.0.1 te.nytdigital.com
-127.0.0.1 te.orlandosentinel.com
-127.0.0.1 te.scripps.com
-127.0.0.1 te.scrippsnetworksprivacy.com
-127.0.0.1 te.scrippsnewspapersprivacy.com
-127.0.0.1 te.sfgate.com
-127.0.0.1 te.signonsandiego.com
-127.0.0.1 te.stamfordadvocate.com
-127.0.0.1 te.sun-sentinel.com
-127.0.0.1 te.sunspot.net
-127.0.0.1 te.suntimes.com
-127.0.0.1 te.tbo.com
-127.0.0.1 te.thestar.ca
-127.0.0.1 te.thestar.com
-127.0.0.1 te.trb.com
-127.0.0.1 te.versiontracker.com
-127.0.0.1 te.wsls.com
-#</belo-interactive-sites>
-
-#<popup-traps>
-
-# popup traps -- sites that bounce you around or won't let you leave
-127.0.0.1 24hwebsex.com
-127.0.0.1 adultfriendfinder.com
-127.0.0.1 all-tgp.org
-127.0.0.1 fioe.info
-127.0.0.1 incestland.com
-127.0.0.1 lesview.com
-127.0.0.1 searchforit.com
-127.0.0.1 www.asiansforu.com
-127.0.0.1 www.bangbuddy.com
-127.0.0.1 www.datanotary.com
-127.0.0.1 www.entercasino.com
-127.0.0.1 www.incestdot.com
-127.0.0.1 www.incestgold.com
-127.0.0.1 www.justhookup.com
-127.0.0.1 www.mangayhentai.com
-127.0.0.1 www.myluvcrush.ca
-127.0.0.1 www.ourfuckbook.com
-127.0.0.1 www.realincestvideos.com
-127.0.0.1 www.searchforit.com
-127.0.0.1 www.searchv.com
-127.0.0.1 www.secretosx.com
-127.0.0.1 www.seductiveamateurs.com	
-127.0.0.1 www.smsmovies.net
-127.0.0.1 www.wowjs.1www.cn
-127.0.0.1 www.xxxnations.com
-127.0.0.1 www.xxxnightly.com
-127.0.0.1 www.xxxtoolbar.com
-127.0.0.1 www.yourfuckbook.com
-#</popup-traps>
-
-#<ecard-scam-sites>
-||ads-m-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
-
-# malicious e-card -- these sites send out mass quantities of spam 
-	# and some distribute adware and spyware
-127.0.0.1 123greetings.com	# contains one link to distributor of adware or spyware
-127.0.0.1 2000greetings.com
-127.0.0.1 celebwelove.com
-127.0.0.1 ecard4all.com
-127.0.0.1 eforu.com
-127.0.0.1 freewebcards.com
-127.0.0.1 fukkad.com
-127.0.0.1 fun-e-cards.com
-127.0.0.1 funnyreign.com	# heavy spam (Site Advisor received 1075 e-mails/week)
-127.0.0.1 funsilly.com
-127.0.0.1 myfuncards.com
-127.0.0.1 www.cool-downloads.com
-127.0.0.1 www.cool-downloads.net
-127.0.0.1 www.friend-card.com
-127.0.0.1 www.friend-cards.com
-127.0.0.1 www.friend-cards.net
-127.0.0.1 www.friend-greeting.com
-127.0.0.1 www.friend-greetings.com
-127.0.0.1 www.friendgreetings.com
-127.0.0.1 www.friend-greetings.net
-127.0.0.1 www.friendgreetings.net
-127.0.0.1 www.laugh-mail.com
-127.0.0.1 www.laugh-mail.net
-#</ecard-scam-sites>
-
-#<IVW-sites>
-
-# European network of tracking sites
-127.0.0.1 1und1.ivwbox.de
-127.0.0.1 bild.ivwbox.de
-127.0.0.1 faz.ivwbox.de
-127.0.0.1 kicker.ivwbox.de
-127.0.0.1 netzmarkt.ivwbox.de
-127.0.0.1 ntv.ivwbox.de
-127.0.0.1 onvis.ivwbox.de
-127.0.0.1 spiegel.ivwbox.de
-127.0.0.1 www.ivwbox.de
-#</IVW-sites>
-
-/us\.[A-Za-z&&[^I]]{1}[1]{1}\.yimg\.com/$domain=yimg.com
-
-127.0.0.1 eur.a1.yimg.com
-127.0.0.1 in.yimg.com
-127.0.0.1 sg.yimg.com
-127.0.0.1 uk.i1.yimg.com
-
 
 
 
@@ -1538,45 +1176,21 @@ liliputing.com##.entry.second-post
 !reddit.com##body:style(background-color: #D3D3D3 ! important;)
 google.*##body:style(background-color: #D3D3D3 ! important;)
 
-! 3/6/2018, 7:12:22 PM https://www.google.com/
 google.*##.fbar:style(background-color: #D3D3D3 ! important;)
 
-! 3/6/2018, 7:13:35 PM https://www.google.com/search?num=50&source=hp&ei=gTyfWqixIMXAtQWumJ_YDw&q=spone&oq=spone&gs_l=psy-ab.3..0i10k1j0j0i10k1j0l2j0i10k1j0l2j0i10i46k1j46i10k1l2j0i10k1.7723.8435.0.8640.6.5.0.0.0.0.126.609.0j5.5.0....0...1c.1.64.psy-ab..1.5.609.0..0i131k1j0i131i46k1j46i131k1.0.-9rFRr5ayYw
+
 google.*###appbar:style(background-color: #D3D3D3 ! important;)
 
-! 3/6/2018, 7:14:25 PM https://www.google.com/search?num=50&source=hp&ei=gTyfWqixIMXAtQWumJ_YDw&q=spone&oq=spone&gs_l=psy-ab.3..0i10k1j0j0i10k1j0l2j0i10k1j0l2j0i10i46k1j46i10k1l2j0i10k1.7723.8435.0.8640.6.5.0.0.0.0.126.609.0j5.5.0....0...1c.1.64.psy-ab..1.5.609.0..0i131k1j0i131i46k1j46i131k1.0.-9rFRr5ayYw
+
 google.*###top_nav:style(background-color: #D3D3D3 ! important;)
 
 
-! 3/6/2018, 7:15:34 PM https://www.google.com/search?num=50&source=hp&ei=gTyfWqixIMXAtQWumJ_YDw&q=spone&oq=spone&gs_l=psy-ab.3..0i10k1j0j0i10k1j0l2j0i10k1j0l2j0i10i46k1j46i10k1l2j0i10k1.7723.8435.0.8640.6.5.0.0.0.0.126.609.0j5.5.0....0...1c.1.64.psy-ab..1.5.609.0..0i131k1j0i131i46k1j46i131k1.0.-9rFRr5ayYw
 google.*##.sfbgg(background-color: #D3D3D3 ! important;)
 
-! 3/6/2018, 7:32:08 PM https://www.google.com/search?num=50&source=hp&ei=gTyfWqixIMXAtQWumJ_YDw&q=spone&oq=spone&gs_l=psy-ab.3..0i10k1j0j0i10k1j0l2j0i10k1j0l2j0i10i46k1j46i10k1l2j0i10k1.7723.8435.0.8640.6.5.0.0.0.0.126.609.0j5.5.0....0...1c.1.64.psy-ab..1.5.609.0..0i131k1j0i131i46k1j46i131k1.0.-9rFRr5ayYw
 google.*###hdtbSum:style(background-color: #D3D3D3 ! important;)
 
-! 3/6/2018, 7:39:59 PM https://www.google.com/search?num=50&source=hp&ei=gTyfWqixIMXAtQWumJ_YDw&q=spone&oq=spone&gs_l=psy-ab.3..0i10k1j0j0i10k1j0l2j0i10k1j0l2j0i10i46k1j46i10k1l2j0i10k1.7723.8435.0.8640.6.5.0.0.0.0.126.609.0j5.5.0....0...1c.1.64.psy-ab..1.5.609.0..0i131k1j0i131i46k1j46i131k1.0.-9rFRr5ayYw
 google.*##.sfbgg:style(background-color: #D3D3D3 ! important;)
 
-! 2/2/2018, 11:40:22 PM https://readms.net/
-readms.net###msa-blog-sq
-
-! 2/2/2018, 11:41:01 PM https://readms.net/
-readms.net###msa-header-atf
-
-! 2/2/2018, 11:52:54 PM http://www.mangapanda.com/
-!www.mangapanda.com##.c2
-
-! 2/2/2018, 11:58:00 PM http://www.mangapanda.com/
-||s5.mangapanda.com/sup/images/dark.*.png$image
-
-! 2/2/2018, 11:58:15 PM http://www.mangapanda.com/
-www.mangapanda.com##.c2
-
-! 2/3/2018, 12:05:35 AM http://www.mangapanda.com/
-||www.animemobile.com/img/mangaMobile.png$image
-
-! 2/3/2018, 12:06:12 AM http://www.mangapanda.com/
-www.mangapanda.com##[href*="http://www.animemobile.com/"]
 
 
 
@@ -1595,231 +1209,25 @@ vsco.co##.home-sc-call-video
 vsco.co##.home-ctd-video
 
 
-! 2/5/2018, 10:42:37 AM http://www.mangadeep.com/
-www.mangadeep.com###text-16
-
-! 2/5/2018, 10:42:52 AM http://www.mangadeep.com/
-www.mangadeep.com###text-9
-
-
-
 ||ads-p-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
 
 
-extratorrent*vpn$image
 
-! 2/5/2018, 2:17:44 PM https://extratorrent.cd/search/?search=george+lopez&new=1&x=0&y=0
-||extratorrent.*/images/other/*$image
 
-! 2/5/2018, 2:18:04 PM https://extratorrent.cd/search/?search=george+lopez&new=1&x=0&y=0
-extratorrent.*##.warn
-
-##.tzbtn
-
-! 2/5/2018, 2:18:21 PM https://extratorrent.cd/search/?search=george+lopez&new=1&x=0&y=0
-extratorrent.*##.warnIp
-
-! 2/5/2018, 2:18:29 PM https://extratorrent.cd/search/?search=george+lopez&new=1&x=0&y=0
-extratorrent.*##.wrn_txt
-
-! 2/5/2018, 2:18:39 PM https://extratorrent.cd/search/?search=george+lopez&new=1&x=0&y=0
-extratorrent.*##.wrn_txt2
-
-! 2/5/2018, 2:18:51 PM https://extratorrent.cd/search/?search=george+lopez&new=1&x=0&y=0
-extratorrent.*##.wrn_txt3
-
-! 2/5/2018, 2:19:00 PM https://extratorrent.cd/search/?search=george+lopez&new=1&x=0&y=0
-extratorrent.*##table:nth-of-type(2)
 
 chyoa.com/*/*.php?mg=*
 
 ! 3/4/2018, 11:33:16 PM instagram.com
 ||www.instagram.com/stories/reel/seen$xmlhttprequest,domain=www.instagram.com
 
-! real one is 4cdn.org
-||4cdns.org$important
-||8chan.pw$important
 
-@@||krautchan.net^$image,first-party
-
-
-
-! ---------------------------------------
-
-
-readms.net###reader-sky
-bato.to###register_notice
-novelupdates.com##.ad_336
-mangastream.com##.paypal
-mangastream.com##.bitcoin
-mangastream.com###reader-sky
-mangashost.net##.clearfix.ads
-mangashost.net##script:inject(bab-defuser.js)
-||mangashost.net/b3o.js$script,first-party
-
-
-
-! --------------------------------MAL filters-------------------------------- !
-!
-! Nice ad placeholders you have there! 
-! It'd be a shame if someone hides them.
-! Note: disable service-worker.
-
-@@||myanimelist.net$generichide
-myanimelist.net##._unit
-myanimelist.net##.mauto
-myanimelist.net##.right_top_ad
-myanimelist.net##.left_bottom_ad
-myanimelist.net##.btn-mal-service
-myanimelist.net##.js-share-button-popup
-myanimelist.net##.footer-link-icon-block
-myanimelist.net##.banner-header-anime-straming
-
-myanimelist.net##^script:has-text(googletag)
-myanimelist.net##^script:has-text(targetFrameId)
-myanimelist.net##^script:has-text(amzn_assoc_tracking_id)
-
-||myanimelist.net/log/bot_filter.php
-||myanimelist.net/static/logging.html$important
-||myanimelist.net/manga_translation*$important
-||myanimelist.net/service-worker.js$important
-||myanimelist.net/images/stream_banner/*$image
-||myanimelist.cdn-dena.com/signature/*$image
-||myanimelist.cdn-dena.com/images/footer$image,important
-||myanimelist.cdn-dena.com/images/membership$image,important
 ||ads-y-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
 
-! --------------------------------------------------------------------------- !
-!
-! Block fake Kiss sites. https://redd.it/5jtzj9
-! Not that I support the originals, but the fakes are probably more malicious
-! wittheir ads and malware.
-! last checked: 2017-02-12
 
-kissanime.*##script:inject(noeval.js)
-kissanime.ru##.divCloseBut
-kissanime.ru,kissmanga.com,kissasian.com,kisscartoon.se,readcomiconline.to##^script:has-text(DoAdsPosition)
-
-||ad.kissanime.*$important
-||kissanime.*/ads$important
-||kissmanga.*/ads$important
-||kissasian.*/ads$important
-||kisscartoon.*/ads$important
-||readcomiconline.*/ads$important
-||kissanime.*/check.aspx$important
 ||ads-q-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
 
-! Allow known sites only.
-||kiss-anime.*$important
-||kissanime.*$important,domain=~kissanime.ru|~forum.kissanime.com
-||kissmanga.*$important,domain=~kissmanga.com
-||kissasian.*$important,domain=~kissasian.com
-||kisscartoon.*$important,domain=~kisscartoon.se
-||readcomiconline.*$important,domain=~readcomiconline.to
-
-! plain list of fake sites (phishing site)
-||kissanime.io$important
-||kissanime.ro$important
-||kissanime.pro$important
-||kiss-anime.me$important
-||kisscartoon.so$important
-||kissasian.xyz$important
-||kissmanga.us$important
-||kissmanga.io$important
-||kissmanga.ru$important
-||kissmanga.ro$important
-||kissmanga.pro$important
-
-||kisshentai.net/Error$script
-||kisshentai.net/Content/script/swfobject.js$script
-||kisshentai.net/Content/js/c-hive.js
-
-chan.sankakucomplex.com,idol.sankakucomplex.com###headerlogo
-chan.sankakucomplex.com,idol.sankakucomplex.com###headerthumbs
-chan.sankakucomplex.com,idol.sankakucomplex.com##cloudflare-app
-sankakucomplex.com##script:has-text(pagespeed)
-sankakucomplex.com##script:inject(bab-defuser.js)
-
-||amazonaws.com$important,domain=sankakucomplex.com
-||cstats.sankakucomplex.com$important
-||sankakucomplex.com/*/afr.php$important
-||sankakucomplex.com/x/piwik.js$important
-||sankakucomplex.com/x/piwik.php$important
-||sankakucomplex.com/javascripts/ls.12.js$important
-||sankakucomplex.com/javascripts/ps.js$important
-||sankakucomplex.com/ngx_pagespeed_beacon$important
-||img.sankakucomplex.com/tn/$image,domain=chan.sankakucomplex.com|idol.sankakucomplex.com
-
-! possible fake/scam/phishing site "danbooru.idanbooru.com"
-||idanbooru.com$important
-
-danbooru.donmai.us###upgrade-account-notice
-danbooru.com##script:has-text(errorBeacon)
-
-||konachan.net$subdocument,important
-||isshiki.donmai.us$third-party
-||isshiki.donmai.us/hits$important
-
-hitomi.la##.hitomi-vertical
-hitomi.la##.hitomi-horizontal
-||hitomi.la/hitomi.js$important
-||hitomi.la/hitomi-horizontal.js$important
-||hitomi.la/hitomi-vertical.js$important
-
-! fc2 site banners
-fc2.com###fc2_bottom_bnr
-||static.fc2.com/js/blog/headbar_ad_rotate.js$script,important
-||static.fc2.com/js/blog/ad_ref.js$script,important
-||static.fc2.com/js/blog/headbar_ad_load.js$script,important
-||fc2.com/counter*.php$important
 ||ads-z-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
-! nicovideo.jp##a[href*="https://account.nicovideo.jp/premium/register?"]
-nicovideo.jp##a[href*="/premium/register?"]
 
-muchohentai.com###__eq2281__
-||muchohentai.com/*/gapro.js$script
-muchohentai.com##script:inject(noeval.js)
-
-
-||nhentai.net^$popup
-||nhentai.net/api/_/popunder?$important
-||nhentai.net/api/_/popunder?$important,popup
-
-
-@@||baka-tsuki.org^$generichide
-@@||baka-tsuki.org$image,first-party
-! Owned by an advertisement company :D
-||nyaatorrents.info$important
-
-@@||nrvnqsr.com^$generichide
-@@||tsundora.com^$generichide
-
-pantsu.cat###cookie-warning
-||imgur.com^$domain=tsumino.com,important
-||tsumino.com/static/*.gif$image
-
-||anime8.*$important
-||anilinkz.*/count.php$important
-||9anime.is/clear.gif$important,redirect=1x1-transparent.gif
-! --------------------------------------------------------------------------- !
-
-kobatochan.com###supplementary
-kobatochan.com###mobile-header-left-nav
-kobatochan.com##.jetpack-image-container
-kobatochan.com##.widget:if(.widget-title:has-text(AdBanner))
-gravitytales.com##.widget:if(.widget-title:has-text(Advert))
-
-! https://github.com/gorhill/uBlock/issues/2354
-kobatochan.com##script:inject(bab-defuser.js)
-kobatochan.com##script:inject(abort-on-property-write.js, KillAdBlock)
-
-kobatochan.com##^script:has-text(KillAdBlock)
-kobatochan.com##^script:has-text(logHuman)
-kobatochan.com##^script:has-text(_stq)
-kobatochan.com##^script:has-text(_gaq)
-kobatochan.com##^script:has-text(clickTrackerInit)
-kobatochan.com##^script:has-text(WPGroHo)
-kobatochan.com##^script:has-text(randpubc)
 
 ||ads-r-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
 
@@ -1827,33 +1235,13 @@ kobatochan.com##^script:has-text(randpubc)
 ||googleusercontent.com/proxy/*mailtrack.io
 ||ads-x-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
 
-||accounts.google.com/_/common/diagnostics
-||api.talky.io/telemetry
-||beacons*.gvt*.com/domainreliability
-||chrome.google.com/webstore/ajax/eventlog
-||cloud.digitalocean.com/frontend-metrics/
-||console.cloud.google.com/m/csilog
-||google.com/*/logImpressions
-||google.com/*/viewerimpressions
-||www.booking.com/js_tracking
-||www.dropbox.com/log_js_sw_data
-||www.dropbox.com/log/ux_analytics
-||www.instagram.com/ajax/bz
 
-arstechnica.com###sponsored-recommendations
-feedly.com##.primary.pro.small
-feedly.com##.selectorNewMarker
-feedly.com##.widget-related-feeds.widget
-thehackernews.com##a[onclick^=_gaq]
-thenextweb.com##.deals
-www.cloudflare.com##.eu-cookie-banner
+
 
 !-----------------------------------------------------------
 !-------------------- Fixes/Workarounds --------------------
 !-----------------------------------------------------------
-@@||googleusercontent.com/proxy/*/linkedin.png^
-net24.montepio.pt#@#.pinButton
-www.sharelatex.com#@##shareButton
+
 
 ||ads-v-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
 
@@ -2159,17 +1547,6 @@ $websocket,domain=300mbfilms.co|a-o.ninja|ajplugins.com|dekoder.ws|fileone.tv|jk
 !
 
 
-cnet.com##.entered.dock.inviewElement
-cnet.com##.fb_digioh-overlay-fixed.fb_digioh-overlay
-cnet.com##.type-.b1x1.i11.item
-cnet.com##.type-.b1x1.i16.item
-cnet.com##.type-.b1x1.i29.item
-cnet.com##.type-.b1x1.i3.item
-cnet.com##.type-.b1x1.i37.item
-cnet.com##.type-.b1x1.i42.item
-gizmodo.com##.js_ad-dynamic.show-for-large-up.ad-wide.video-page-ad
-gizmodo.com##.notransform.ad-non-sticky.leftrailmodule.sidebar-module
-
 thepiratebay.*^$third-party
 ##.site-message--android.site-message--banner.js-site-message.site-message
 ! 3/20/2018, 2:11:18 PM https://m.fanfiction.net/u/1318171/
@@ -2177,37 +1554,7 @@ m.fanfiction.net##body:style(background-color: #d3d3d3 !important;)
 
 ! 3/20/2018, 2:11:50 PM https://m.fanfiction.net/u/1318171/
 m.fanfiction.net##.lc:style(background-color: #d3d3d3 !important;)
-kissanime.ru##.divCloseBut
-kissanime.ru,kissmanga.com,kissasian.com,kisscartoon.se,readcomiconline.to##script:contains(DoAdsPosition)
 
-||kissanime.*/ads$important
-||kissmanga.*/ads$important
-||kissasian.*/ads$important
-||kisscartoon.*/ads$important
-||readcomiconline.*/ads$important
-||kissanime.*/check.aspx$important
-
-! Allow known sites only.
-||kiss-anime.*$important
-||kissanime.*$important,domain=~kissanime.ru|~forum.kissanime.com
-||kissmanga.*$important,domain=~kissmanga.com
-||kissasian.*$important,domain=~kissasian.com
-||kisscartoon.*$important,domain=~kisscartoon.se
-||readcomiconline.*$important,domain=~readcomiconline.to
-
-! plain list of fake sites (phishing site)
-||kissanime.io$important
-||kissanime.ro$important
-||kissanime.pro$important
-||kiss-anime.me$important
-||kisscartoon.so$important
-||kissasian.xyz$important
-||kissmanga.us$important
-||kissmanga.io$important
-||kissmanga.ru$important
-||kissmanga.ro$important
-||kissmanga.pro$important
-||anime8.*$important
 
 ||ads-s-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
 
@@ -2218,303 +1565,7 @@ kissanime.ru,kissmanga.com,kissasian.com,kisscartoon.se,readcomiconline.to##scri
 ||c1oudf1are.com^
 
 
-! Curse logs your IP
-||curse.com^$important
-||cursecdn.com$important
 
-mediafire.com#@##shareMenu
-mediafire.com#@#.ico30share
-||mediafire.com/*.swf$important
-||mediafire.com$object,important
-||mediafire.com/templates/linkto$important
-dropbox.com###shared-link-immediate-signup-modal
-
-||kiwifarms.net/proxy.php$important
-||analytics.slashdotmedia.com$important
-||slashdotmedia.com/www/delivery/lg.php$important
-
-||myanimelist.net/log/bot_filter.php
-||myanimelist.net/static/logging.html$important
-||myanimelist.net/manga_translation*$important
-||myanimelist.net/service-worker.js$important
-||myanimelist.net/images/stream_banner/*$image
-||myanimelist.cdn-dena.com/signature/*$image
-||myanimelist.cdn-dena.com/images/footer$image,important
-||myanimelist.cdn-dena.com/images/membership$image,important
-
-fc2.com###fc2_bottom_bnr
-||fc2.com/counter*.php$important
-||static.fc2.com/js/blog/ad_ref.js$script,important
-||static.fc2.com/js/blog/headbar_ad_load.js$script,important
-||static.fc2.com/js/blog/headbar_ad_rotate.js$script,important
-
-! nicovideo.jp##a[href*="https://account.nicovideo.jp/premium/register?"]
-nicovideo.jp##a[href*="/premium/register?"]
-
-muchohentai.com###__eq2281__
-||muchohentai.com/*/gapro.js$script
-muchohentai.com##script:inject(noeval.js)
-
-!nhentai.net##^script:has-text(show_popunders)
-!nhentai.net##script:inject(abort-on-property-write.js, show_popunders)
-||nhentai.net^$popup
-||nhentai.net/api/_/popunder?$important
-||nhentai.net/api/_/popunder?$important,popup
-||nhentai.net/api/inventory$xmlhttprequest,important
-
-@@||hentaihaven.org$generichide
-hentaihaven.org##^script:has-text(Pukka)
-hentaihaven.org##^script:has-text(BetterJsPop)
-! honeypots used to detect blockers
-@@||hentaihaven.org/basement/js/adshow.js$script,first-party
-
-! unblocking baka-tsuki's logo and image (fragment filter issue)
-@@||baka-tsuki.org^$generichide
-@@||baka-tsuki.org$image,first-party
-! Owned by an advertisement company :D
-||nyaatorrents.info$important
-
-@@||nrvnqsr.com^$generichide
-@@||tsundora.com^$generichide
-
-pantsu.cat###cookie-warning
-||imgur.com^$domain=tsumino.com,important
-||tsumino.com/static/*.gif$image
-
-||anime8.*$important
-||anilinkz.*/count.php$important
-||9anime.is/clear.gif$important,redirect=1x1-transparent.gif
-
-mangashost.net##.clearfix.ads
-mangashost.net##script:inject(bab-defuser.js)
-||mangashost.net/b3o.js$script,first-party
-
-@@||pixiv.net^$generichide
-@@||pawoo.net^$generichide
-pixiv.net#@#.bookmark-container
-pixiv.net##.ad-footer
-pixiv.net##.adsbygoogle
-pixiv.net##.share-button
-pixiv.net##.ads-top-info
-! /pre-login.min.js$script,domain=pixiv.net
-@@||accounts.pixiv.net$popup,domain=pawoo.net
-
-chan.sankakucomplex.com,idol.sankakucomplex.com###headerlogo
-chan.sankakucomplex.com,idol.sankakucomplex.com###headerthumbs
-chan.sankakucomplex.com,idol.sankakucomplex.com##cloudflare-app
-sankakucomplex.com##^script:has-text(pagespeed)
-sankakucomplex.com##script:inject(bab-defuser.js)
-
-||amazonaws.com$important,domain=sankakucomplex.com
-||cstats.sankakucomplex.com$important
-||sankakucomplex.com/*/afr.php$important
-||sankakucomplex.com/x/piwik.js$important
-||sankakucomplex.com/x/piwik.php$important
-||sankakucomplex.com/javascripts/ps.js$important
-||sankakucomplex.com/javascripts/ls.12.js$important
-||sankakucomplex.com/ngx_pagespeed_beacon$important
-||img.sankakucomplex.com/tn/$image,domain=chan.sankakucomplex.com|idol.sankakucomplex.com
-
-! possible fake/scam/phishing site "danbooru.idanbooru.com"
-||idanbooru.com$important
-
-danbooru.donmai.us###upgrade-account-notice
-danbooru.com##^script:has-text(errorBeacon)
-
-||konachan.net$subdocument,important
-||isshiki.donmai.us$third-party
-||isshiki.donmai.us/hits$important
-
-hitomi.la##.hitomi-vertical
-hitomi.la##.hitomi-horizontal
-||hitomi.la/hitomi.js$important
-||hitomi.la/hitomi-vertical.js$important
-||hitomi.la/hitomi-horizontal.js$important
-
-||mirrorcreator.com/images/MBTAnimateddownloadbutton.gif$image
-
-||typekit.net
-||p.typekit.net$important
-
-! https://github.com/uBlockOrigin/uAssets/issues/262
-||watchers.to/code15.html$important
-watchers.to##^script:has-text(ppu_main)
-watchers.to##^script:has-text(ActiveXObject)
-watchers.to##^script:has-text(beginMainCheckerAB)
-watchers.to##[onclick*="mainWidget_globalTm"]
-
-||mp3juices.cc/img$important
-||mp3juices.cc/pa/h/a.html$subdocument
-||mp3juices.cc/tt/d/d.html$subdocument
-mp3juices.cc##iframe[src="tt/r/t/d.html"]
-
-@@||crunchyroll.com^$generichide
-||crunchyroll.com$important,third-party
-||crunchyroll.com/versioned_assets/js/tracking/ga_initial_visit.$script,first-party,important
-
-||rightstufanime.com$important,popup
-||rightstufanime.com$important,third-party
-||otakumode.com/widget$important,third-party
-
-animenewsnetwork.com,animenewsnetwork.cc##.iab
-animenewsnetwork.com,animenewsnetwork.cc##a[href*="4nn.cx"]
-animenewsnetwork.com,animenewsnetwork.cc##a[href*="4NN.cx"]
-animenewsnetwork.com,animenewsnetwork.cc##a[href*="click.php"]
-animenewsnetwork.com,animenewsnetwork.cc##a[href*="rightstufanime.com"]
-||animenewsnetwork.cc/images/s/$image
-||animenewsnetwork.com/images/s/$image
-||animenewsnetwork.cc/logger.pageperf$important
-||animenewsnetwork.com/logger.pageperf$important
-
-! covers the page with inline ads
-||animenewsnetwork.cc/assets/576e7c3ec9e51cb2d0164b9a051933ce9475a029.js$important
-||animenewsnetwork.com/assets/576e7c3ec9e51cb2d0164b9a051933ce9475a029.js$important
-||animenewsnetwork.cc/assets/98f7e2a620fc57b8c95794a88666d69ff3dc045c.css$stylesheet,important
-||animenewsnetwork.com/assets/98f7e2a620fc57b8c95794a88666d69ff3dc045c.css$stylesheet,important
-
-way2earning.com##a[href*="poptm.com"]
-way2earning.com##a[href*="adoverlay.net"]
-||way2earning.com/xmlrpc.php$important
-
-||c.msn.com$important
-||c.bing.com$important
-||otf.msn.com$important
-||bat.bing.com/bat.js$script,important
-||s.yimg.com/wi/ytc.js$script,important
-||dictionary.com/proxy$important
-||yahoo.com$third-party,important
-
-||openload.co$object,important
-||ora.tv$subdocument,important
-||ooyala.com$subdocument,important
-
-wired.com##.hide-med
-dailymail.co.uk##.has-button-share-facebook
-||dailymail.co.uk/weather.html?$important
-||dailymail.co.uk/static/mol-adverts/$important
-||dailymail.co.uk/abe/esi/control/display_ads.js$script,important
-||fng-ads.fox.com$important
-||fox.com$important,third-party
-||newsvine.com$important,third-party
-||nbcuni.com$important
-||tpfeed.cbc.ca$xmlhttprequest,important
-||gamer-network.net$important,third-party
-||fonts.staticworld.net/dli6mbh.js$important
-||nvcdn.nbcnews.com/_elliott/jenga?widgets=newsletter$important
-
-howtogeek.com###floating-sidebar-area
-||howtogeek.com/*/blank.gif$important
-||reviewgeek.com$important,third-party
-||cdn.arstechnica.net/*ads.*.js$script,first-party
-
-nzherald.co.nz##.onscreen.site-logo-wrapper
-cbslocal.com##.adhesive-on.anvato.video-wrapper
-
-independent.co.uk##.inline-block-left
-washingtonpost.com##.top-sharebar-wrapper
-||targeting.washpost.nile.works$important
-||recommendation-hybrid.wpdigital.net$important
-||recommendation-newsletter.wpdigital.net$important
-
-! site has hard anti-adb
-businessinsider.com,businessinsider.jp##^script:has-text(setAdblockerCookie)
-businessinsider.com,businessinsider.jp##script:inject(abort-on-property-read.js, stop)
-||businessinsider.jp$inline-script
-||businessinsider.com$inline-script
-||businessinsider.jp/asset/common/app/popular_posts.js$script,first-party
-
-techcrunch.com##.ad-cluster-container
-techcrunch.com##.popped.section.toaster
-||aolcdn.com^$domain=techcrunch.com,important
-
-||thedailybeast.com/rtl$xmlhttprequest,important
-||api-prod.thedailybeast.com^$xmlhttprequest,important
-||thedailybeast.com/progressive-scroll$xmlhttprequest,important
-
-haydenjames.io##.sw-click-to-tweet
-haydenjames.io##a[href*="https://haydenjames.io/linkout/"]
-
-wordpress.com##.wpcnt
-wordpress.com##.wpmrec.wpa
-wordpress.com###wordads-preview-parent
-||pixel.wp.com$important
-||wordpress.com/pinghub/*$important
-||wordpress.com/pinghub/*$websocket
-
-||widgets.wp.com/likes/$third-party,badfilter
-||widgets.wp.com/likes/$third-party,domain=~wordpress.com
-
-||unid.go.com$important
-||go.com/*/DisneyID.js$important
-||go.com$important,third-party,domain=~abclocal.com|~6abc.com|~7online.com|~abc.go.com|~abc11.com|~abc13.com|~abc30.com|~abc7.com|~abc7chicago.com|~abc7news.com|~ahctv.com
-! Curse logs your IP
-||curse.com^$important
-||cursecdn.com$important
-||kiwifarms.net/proxy.php$important
-||analytics.slashdotmedia.com$important
-||slashdotmedia.com/www/delivery/lg.php$important
-
-
-msn.com##.paddle
-tampermonkey.net###curtain
-dengeki.com##.global-loading
-safelinkconverter.com##.l-preloader
-
-0calc.com##.altad
-jolinfile.com###bd74
-strawpoll.me##.featured
-4shared.com##.space-3260
-ezgif.com##.social-button
-netrunner.com##.preloader
-4shared.com##.d1AdsWrapper
-ghacks.net###cookie-notice
-microsoft.com##.dlc_mwftop
-medium.com##.js-stickyFooter
-willshouse.com##.adsbygoogle
-bloomberg.com##bb-mini-player
-answers.yahoo.com###yset-upsell-div
-secure.politico.com##.story-related
-
-imgur.com##.social-icon
-||p.imgur.com$important
-||sen.imgur.com$important
-||s.imgur.com$important,third-party
-||i.imgur.com/*.jpg$inline-script,important
-||i.imgur.com/*.png$inline-script,important
-||i.imgur.com/*.gif|$inline-script,important
-||imgur.com/min/runSlots.js$script,important
-||imgur.com/min/advertising.js$script,important
-
-||csp.flickr.com$important
-||flickr.com/beacon*$important
-tinypic.com##^script:has-text(renderAd)
-tinypic.com##^script:has-text(SWFObject)
-tinypic.com##^script:has-text(PopSettings)
-tinypic.com##^script:has-text(ClientProfilingLog)
-
-||blockchfain.info^$important
-||bitprimus.com^$important
-||btcaddress.net^$important
-||bitaddrcss.org^$important
-||bitaddress.co^$important
-||bitaddress.live^$important
-||ibittreix.com$important
-||electurm.org^$important
-||coinafult.com^$important
-||shiapeshift.*
-||shiapeshift.io^$important
-||shiapeshift.in^$important
-||shapeshifth.*
-||shapeshifth.io^$important
-||lucksupply.club^$important
-
-cointelegraph.com###popup-wagga
-cointelegraph.com##.modal-backdrop
-cointelegraph.com##iframe[src*="/Hashing24_"]
-cointelegraph.com##iframe[src*="/img/banners/"]
-||cointelegraph.com/embed$important
-||cointelegraph.com/storage/uploads/view$image
-||cointelegraph.com/assets/js/script.js$important
 
 /miner*.js$script
 /miner-ui.js$script
