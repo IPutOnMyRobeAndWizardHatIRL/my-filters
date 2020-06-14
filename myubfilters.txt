@@ -1564,7 +1564,7 @@ m.fanfiction.net##.lc:style(background-color: #d3d3d3 !important;)
 
 ||c1oudf1are.com^
 
-
+mikemorttl.com##script:inject(addEventListener-defuser.js,contextmenu)
 
 
 /miner*.js$script
