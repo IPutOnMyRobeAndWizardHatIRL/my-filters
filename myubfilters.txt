@@ -158,6 +158,9 @@ instagram.com##+js(addEventListener-defuser.js, ended)
 emuparadise.me##+js(emudllinks.js)
 emuparadise.*##+js(emudllinks.js)
 
+m.emuparadise.me##+js(emudllinks.js)
+m.emuparadise.*##+js(emudllinks.js)
+
 mangadeep.com#@#.afs_ads
 
 ! 2/12/2018, 12:19:32 PM http://rutracker.org/forum/index.php
