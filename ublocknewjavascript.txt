@@ -843,7 +843,7 @@ if (imgHref.includes('twitter.com')) {
         observer.observe(document.body, observeConfig);
     }
 }
-}
+})();
 
 dash4x.png image/png;base64
 iVBORw0KGgoAAAANSUhEUgAAAJ0AAAA1CAIAAADUC34CAAAAAXNSR0IArs4c6QAA
