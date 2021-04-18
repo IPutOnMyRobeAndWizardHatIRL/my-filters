@@ -795,56 +795,6 @@ alt-logger.js application/javascript
 	}.bind(window);
 })();
 
-# twitter image
-tweet.js application/javascript
-(function() {
-let imgHref = window.location.href;
- 
-if (imgHref.match(/https:\/\/pbs\.twimg\.com\/media\/([a-zA-Z0-9\-\_]+)(\?format=|.)(jpg|jpeg|png)/) && !imgHref.includes('?name=orig')) {
-  	if (imgHref.indexOf('?format=') > 0) {
-      	imgHref = imgHref.replace('?format=', '.');
-    }
-    if (imgHref.match(/\&name=(\w+)/)) {
-        imgHref = imgHref.replace(/\&name=(\w+)/g, '?name=orig');
-    } else {
-        imgHref = `${imgHref}?name=orig`;
-    }
-    window.location.replace(imgHref);
-}
-if (imgHref.includes('twitter.com')) {
-    console.log('View Twitter Origin Images 0.0.6 start up.');
-    let rootmatch = document.evaluate("//div[@id='react-root']", document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null);
-    let rootnode = rootmatch.singleNodeValue;
- 
-    if (rootnode) {
-        let imgSet;
-        var callback = function (mutationsList, observer) {
-            for (let mutation of mutationsList) {
-                if (mutation.target.className.includes("css-1dbjc4n")) {
-                    imgSet = mutation.target.getElementsByTagName('img');
-                    let i;
-                    for (i = 0; i < imgSet.length; i++) {
-                        let imgSrc = imgSet[i].src;
-                        if (imgSrc.includes("https://pbs.twimg.com/media/") && !imgSrc.match(/name=orig/)) {
-                            // console.log(`replace ${imgSrc}`);
-                            imgSet[i].src = imgSrc.replace('?format=','.').replace(/&name=(\w+)/g,'?name=orig');
-                        }
-                    }
-                }
-            }
-        };
-        const observeConfig = {
-            attributes: true,
-            childList: true,
-            subtree: true
-        };
-        const observer = new MutationObserver(callback);
- 
-        observer.observe(document.body, observeConfig);
-    }
-}
-})();
-
 dash4x.png image/png;base64
 iVBORw0KGgoAAAANSUhEUgAAAJ0AAAA1CAIAAADUC34CAAAAAXNSR0IArs4c6QAA
 AARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAATGSURBVHhe7Zu7
