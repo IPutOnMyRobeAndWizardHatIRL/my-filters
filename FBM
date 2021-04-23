@@ -1,0 +1,20 @@
+[Adblock Plus 2.0]
+! Title: Jakky567's FB filters
+! Last Modified: 2021-04-23
+! Expires: 1 days
+! Comment:Bits and pieces for my personal use only. Generally gotten from around the web, i.e. Reddit and other filter lists. Occasional Fix done by me.
+! Author: Jakky567
+! Former ABP
+||facebook.com/ajax/mercury/change_read_status.php$xmlhttprequest
+! Reddit https://www.reddit.com/r/uBlockOrigin/comments/kfkjx8/filter_rule_block_seen_from_facebook/
+||facebook.com/ajax/mercury/change_read_status.php$xhr,important
+||facebook.com/ajax/mercury/delivery_receipts.php$xhr,important
+||messenger.com/ajax/mercury/change_read_status.php$xhr,important
+||messenger.com/ajax/mercury/delivery_receipts.php$xhr,important
+! Facebook Messaging Privacy Aware (is typing, seen message)
+||facebook.com/*/change_read_status.php$important
+||facebook.com/*/mark_seen.php$important
+||facebook.com/*/typ.php$important
+||messenger.com/*/change_read_status.php$important
+||messenger.com/*/mark_seen.php$important
+||messenger.com/*/typ.php$important
