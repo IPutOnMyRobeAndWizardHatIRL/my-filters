@@ -114,21 +114,12 @@ www.fanfiction.net##.modal-body:style(background-color: #d3d3d3 !important;)
 ! 3/21/2018, 4:11:41 PM https://www.fanfiction.net/s/9672720/1/Harry-Potter-and-The-Heir-Of-Merlin-s-Promise-Phoenix
 www.fanfiction.net##.modal-footer:style(background-color: #d3d3d3 !important;)
 
-fastclick.net
-
-/media[0-9]{2}\.fastclick\.net/$domain=fastclick.net
-/ad$script
-/ads$script
-/beacon.js$script,third-party
-/beacon$script,third-party
-www.fanfiction.net###storytextp:style(user-select: auto !important;)
 cantorlytics.vsco.co
 /cantorlytics.js$script
 techmazza.com##script:inject(bab-defuser.js)
 ! 2/15/2018, 2:28:40 PM https://thepiratebay.org/torrent/6774735/The_Change-Up_(2011)_720p_BrRip_x264_-_750MB_-_YIFY
 ! 3/9/2018, 10:52:56 AM https://www.mangapanda.com/
 /mangapanda\.com\/[A-Za-z0-9]{32}/[A-Za-z0-9]{8}-[A-Za-z0-9]{4}-[A-Za-z0-9]{4}-[A-Za-z0-9]{4}-[A-Za-z0-9]{12}\.jpg/$image,first-party,domain=mangapanda.com
-||mgid.com^$script,redirect=noopjs,domain=1337x.to
 
 ! 3/16/2018, 5:34:38 PM https://www.fanfiction.net/
 www.fanfiction.net##td:style(background-color: #d3d3d3 !important;)
