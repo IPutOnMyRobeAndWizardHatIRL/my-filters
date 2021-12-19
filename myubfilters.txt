@@ -1158,25 +1158,6 @@ liliputing.com##.entry.second-post
 
 !reddit.com##.content:style(background-color: #D3D3D3 ! important;)
 !reddit.com##body:style(background-color: #D3D3D3 ! important;)
-google.*##body:style(background-color: #D3D3D3 ! important;)
-
-google.*##.fbar:style(background-color: #D3D3D3 ! important;)
-
-
-google.*###appbar:style(background-color: #D3D3D3 ! important;)
-
-
-google.*###top_nav:style(background-color: #D3D3D3 ! important;)
-
-
-google.*##.sfbgg(background-color: #D3D3D3 ! important;)
-
-google.*###hdtbSum:style(background-color: #D3D3D3 ! important;)
-
-google.*##.sfbgg:style(background-color: #D3D3D3 ! important;)
-
-
-
 
 
 ! 3/5/2018, 12:25:17 AM http://vsco.co/
