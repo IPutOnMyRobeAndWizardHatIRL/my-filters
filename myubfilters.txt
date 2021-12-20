@@ -104,13 +104,7 @@ www.facebook.com##._s15
 bitlord.com/
 ! 3/25/2018, 
 wikia.com##.ember-view.fandom-app-smart-banner
-! 3/16/2018, 5:36:59 PM https://www.fanfiction.net/account/settings.php
-www.fanfiction.net##.panel_normal:style(background-color: #d3d3d3 !important;)
-! 3/21/2018, 4:11:10 PM https://www.fanfiction.net/s/9672720/1/Harry-Potter-and-The-Heir-Of-Merlin-s-Promise-Phoenix
-www.fanfiction.net##.modal-body:style(background-color: #d3d3d3 !important;)
 
-! 3/21/2018, 4:11:41 PM https://www.fanfiction.net/s/9672720/1/Harry-Potter-and-The-Heir-Of-Merlin-s-Promise-Phoenix
-www.fanfiction.net##.modal-footer:style(background-color: #d3d3d3 !important;)
 
 cantorlytics.vsco.co
 /cantorlytics.js$script
@@ -119,11 +113,7 @@ techmazza.com##script:inject(bab-defuser.js)
 ! 3/9/2018, 10:52:56 AM https://www.mangapanda.com/
 /mangapanda\.com\/[A-Za-z0-9]{32}/[A-Za-z0-9]{8}-[A-Za-z0-9]{4}-[A-Za-z0-9]{4}-[A-Za-z0-9]{4}-[A-Za-z0-9]{12}\.jpg/$image,first-party,domain=mangapanda.com
 
-! 3/16/2018, 5:34:38 PM https://www.fanfiction.net/
-www.fanfiction.net##td:style(background-color: #d3d3d3 !important;)
 
-! 3/16/2018, 5:35:08 PM https://www.fanfiction.net/
-www.fanfiction.net##.tcat:style(background-color: #d3d3d3 !important;)
 vsco.co##section:if(a[href^="https://vs.co/a/key_live_"])
 
 thepiratebay.*##div:nth-of-type(4) > div:nth-of-type(2) [href]:style(color: #000; pointer-events: none !important; cursor: text !important; border-bottom: none !important; clear: both !important;)
@@ -605,20 +595,6 @@ www.mangareader.net##.c3
 instagram.com##._si7dy
 /atrk.js
 /criteo.
-! 3/8/2018, 8:31:13 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
-www.fanfiction.net##.maxwidth.xcontrast:style(background-color: #d3d3d3 !important;)
-
-! 3/8/2018, 8:33:03 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
-www.fanfiction.net###content_parent:style(background-color: #d3d3d3 !important;)
-
-! 3/8/2018, 8:33:38 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
-www.fanfiction.net##.lc:style(background-color: #d3d3d3 !important;)
-
-! 3/8/2018, 8:33:51 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
-www.fanfiction.net##.lc-left:style(background-color: #d3d3d3 !important;)
-
-! 3/8/2018, 8:34:29 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
-www.fanfiction.net##.zmenu:style(background-color: #d3d3d3 !important;)
 
 
 ! 2/15/2018, 12:09:57 PM https://www.limetorrents.cc/search/all/blackfish/
@@ -946,97 +922,9 @@ x1337x.*##body > div:not(.wrapper)
 !||g.doubleclick.net/gampad/ads?gdfp_req=1&^$script,redirect=noopjs,domain=forbes.com
 instagram.com##._mli86
 
-! 3/8/2018, 8:31:13 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
-www.fanfiction.net##.maxwidth.xcontrast:style(background-color: #d3d3d3 !important;)
 
-! 3/8/2018, 8:33:03 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
-www.fanfiction.net###content_parent:style(background-color: #d3d3d3 !important;)
 
-! 3/8/2018, 8:33:38 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
-www.fanfiction.net##.lc:style(background-color: #d3d3d3 !important;)
 
-! 3/8/2018, 8:33:51 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
-www.fanfiction.net##.lc-left:style(background-color: #d3d3d3 !important;)
-
-! 3/8/2018, 8:34:29 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
-www.fanfiction.net##.zmenu:style(background-color: #d3d3d3 !important;)
-
-! 3/8/2018, 8:46:42 PM https://www.fanfiction.net/book/Harry-Potter/
-
-fanfiction.net##body:style(background-color: #d3d3d3 !important;)
-
-! 3/8/2018, 8:49:06 PM https://www.fanfiction.net/
-www.fanfiction.net##td! 3/8/2018, 8:31:13 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
-www.fanfiction.net##.maxwidth.xcontrast:style(background-color: #d3d3d3 !important;)
-
-! 3/8/2018, 8:33:03 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
-www.fanfiction.net###content_parent:style(background-color: #d3d3d3 !important;)
-
-! 3/8/2018, 8:33:38 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
-www.fanfiction.net##.lc:style(background-color: #d3d3d3 !important;)
-
-! 3/8/2018, 8:33:51 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
-www.fanfiction.net##.lc-left:style(background-color: #d3d3d3 !important;)
-
-! 3/8/2018, 8:34:29 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
-www.fanfiction.net##.zmenu:style(background-color: #d3d3d3 !important;)
-
-! 3/8/2018, 8:46:42 PM https://www.fanfiction.net/book/Harry-Potter/
-
-fanfiction.net##body:style(background-color: #d3d3d3 !important;)
-
-! 3/8/2018, 8:49:17 PM https://www.fanfiction.net/
-www.fanfiction.net##.tcat! 3/8/2018, 8:31:13 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
-www.fanfiction.net##.maxwidth.xcontrast:style(background-color: #d3d3d3 !important;)
-
-! 3/8/2018, 8:33:03 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
-www.fanfiction.net###content_parent:style(background-color: #d3d3d3 !important;)
-
-! 3/8/2018, 8:33:38 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
-www.fanfiction.net##.lc:style(background-color: #d3d3d3 !important;)
-
-! 3/8/2018, 8:33:51 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
-www.fanfiction.net##.lc-left:style(background-color: #d3d3d3 !important;)
-
-! 3/8/2018, 8:34:29 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
-www.fanfiction.net##.zmenu:style(background-color: #d3d3d3 !important;)
-
-! 3/8/2018, 8:46:42 PM https://www.fanfiction.net/book/Harry-Potter/
-
-fanfiction.net##body:style(background-color: #d3d3d3 !important;)
-
-! 3/8/2018, 8:50:39 PM https://www.fanfiction.net/
-www.fanfiction.net##tr! 3/8/2018, 8:31:13 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
-www.fanfiction.net##.maxwidth.xcontrast:style(background-color: #d3d3d3 !important;)
-
-! 3/8/2018, 8:33:03 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
-www.fanfiction.net###content_parent:style(background-color: #d3d3d3 !important;)
-
-! 3/8/2018, 8:33:38 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
-www.fanfiction.net##.lc:style(background-color: #d3d3d3 !important;)
-
-! 3/8/2018, 8:33:51 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
-www.fanfiction.net##.lc-left:style(background-color: #d3d3d3 !important;)
-
-! 3/8/2018, 8:34:29 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
-www.fanfiction.net##.zmenu:style(background-color: #d3d3d3 !important;)
-
-! 3/8/2018, 8:46:42 PM https://www.fanfiction.net/book/Harry-Potter/
-
-fanfiction.net##body:style(background-color: #d3d3d3 !important;)
-
-! 3/8/2018, 8:50:52 PM https://www.fanfiction.net/
-www.fanfiction.net###content_wrapper_inner! 3/8/2018, 8:31:13 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
-www.fanfiction.net##.maxwidth.xcontrast:style(background-color: #d3d3d3 !important;)
-
-! 3/8/2018, 8:33:03 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
-www.fanfiction.net###content_parent:style(background-color: #d3d3d3 !important;)
-
-! 3/8/2018, 8:33:38 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
-www.fanfiction.net##.lc:style(background-color: #d3d3d3 !important;)
-
-! 3/8/2018, 8:33:51 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
-www.fanfiction.net##.lc-left:style(background-color: #d3d3d3 !important;)
 
 pirateproxy.sh##div:nth-of-type(4) > div:nth-of-type(2) > a:style(color: #000 !important; pointer-events: none !important; cursor: text !important; border-bottom: none !important; clear: both !important;)
 pirateproxy.sh###details > div:nth-of-type(3) > div:nth-of-type(2) > a:style(color: #000 !important; pointer-events: none !important; cursor: text !important; border-bottom: none !important; clear: both !important;)
@@ -1513,13 +1401,6 @@ $websocket,domain=300mbfilms.co|a-o.ninja|ajplugins.com|dekoder.ws|fileone.tv|jk
 
 
 thepiratebay.*^$third-party
-##.site-message--android.site-message--banner.js-site-message.site-message
-! 3/20/2018, 2:11:18 PM https://m.fanfiction.net/u/1318171/
-m.fanfiction.net##body:style(background-color: #d3d3d3 !important;)
-
-! 3/20/2018, 2:11:50 PM https://m.fanfiction.net/u/1318171/
-m.fanfiction.net##.lc:style(background-color: #d3d3d3 !important;)
-
 
 ||ads-s-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
 
