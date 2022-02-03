@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Jakky567's UBOfilters
+! Title: IPutOnMyRobeAndWizardHatIRL's UBOfilters
 ! Last Modified: 2019-04-3
 ! Expires: 1 days
 ! Comment:Bits and pieces for my personal use only. Generally gotten from around the web, i.e. Reddit and other filter lists. Occasional Fix done by me.
