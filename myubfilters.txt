@@ -82,6 +82,17 @@ instagram.com##+js(setInterval-defuser.js)
 ||www.facebook.com/ajax/bz$important
 ||www.facebook.com/ajax/notifications/mark_read$important
 
+www.instagram.com##.yiMZG.TxciK.D8xaz.O1flK.i0EQd._4EzTm.YBx95.rBNOH.Igw0E.qF0y9
+
+! 2022-02-03 https://www.instagram.com
+www.instagram.com##.fXIG0
+www.instagram.com##.PyenC
+
+! 2022-02-14 https://www.humblebundle.com
+www.humblebundle.com##.description:style(user-select: text !important; -webkit-user-select: text !important;)
+
+
+
 ! Prevent 'seen' status in Events
 ! Extreme, blocks all event pageloads
 !||www.facebook.com/events/$document,subdocument,important
