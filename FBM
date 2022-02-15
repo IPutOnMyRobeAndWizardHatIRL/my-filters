@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Jakky567's FB filters
+! Title: IPutOnMyRobeAndWizardHatIRL's FB filters
 ! Last Modified: 2021-04-23
 ! Expires: 1 days
 ! Comment:Bits and pieces for my personal use only. Generally gotten from around the web, i.e. Reddit and other filter lists. Occasional Fix done by me.
@@ -18,3 +18,12 @@
 ||messenger.com/*/change_read_status.php$important
 ||messenger.com/*/mark_seen.php$important
 ||messenger.com/*/typ.php$important
+
+! Prevent 'seen' status in Messenger
+||www.facebook.com/ajax/mercury/change_read_status
+instagram.com##+js(setInterval-defuser.js)
+! Prevent 'seen' status in Group Posts
+||www.facebook.com/*notif_t=group_$document,subdocument,important
+||www.facebook.com/ajax/bz$important
+||www.facebook.com/ajax/notifications/mark_read$important
+
