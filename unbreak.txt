@@ -1,59 +1,14 @@
 [Adblock Plus 2.0]
 ! Title: IPutOnMyRobeAndWizardHatIRL's Unbreak
-! Last Modified: 2018-08-10
+! Last Modified: 2022-02-15
 ! Expires: 1 days
-! Author: Jakky567
+! Author: IPutOnMyRobeAndWizardHatIRL
 ! Note: fixes crap filters/anti-adblock measures
-!fixes mangareader problem, taken from adguard base 
-@@||mangareader.net/sup/js/*.js$first-party
+
 ! threatcrowd has this, but it's just a bad filter
-||cloudflare.com^$badfilter
+!||cloudflare.com^$badfilter
 youtube.com#@#div[class*=ytp-ce-]
-@@||raw.githubusercontent.com
-!privacy filters has this, bad filter
-.net/ad/$badfilter
-.net/ad/$image,badfilter
-.net/ad/$media,badfilter
-.net/ad/$domain~=hulu.com
-||imgur.com/b$badfilter
+
+
 arstechnica.com#@#a[href^="https://www.amazon."][href*="tag="]
 !anti-adblock measure, I believe this is in easylist
-mangadeep.com#@#.afs_ads
-@@/googleanalytics.js$domain=phantasytour.com
-!ublock filters + I think causes this
-||paypal.com^*/api/log$badfilter
-!easyprivacy, adguardspyware... yada yada
-@@/googleanalytics.js$script,domain=phantasytour.com
-!threatcrowd again
-||s0.wp.com^$badfilter
-||hubspot.com^$badfilter
-@@||oneplus.com^$generichide
-@@/favicon.ico$badfilter
-@@||disqus.com/embed.js?_=1457540*$scriptbadfilter
-@@||g.doubleclick.net/gampad/ads?gdfp_req=1&$script,domain=forbes.com,badfilter
-||messenger.com^$badfilter
-!spies privacy
-||facebook.net^$badfilter
-@@/ga.js$domain=phantasytour.com
-||mgid.com^$script,redirect=noopjs,domain=1337x.to
-/\/1337x\.to\/.*[a-f]{7,}/$script,badfilter
-/\/1337x\..*\/.*[a-f]{7,}/$script,badfilter
-@@||bizx.info$third-party,websocket,domain=sourceforge.net
-@@/gpt.js$script,domain=thechive.com
-/wp-content/*/google.png$badfilter
-/wp-content/*twitter.png$badfilter
-/reddit.png$badfilter
-/wp-content/*facebook.png$badfilter
-/plugins/*google.png$badfilter
-/plugins/*facebook.png$badfilter
-/plugins/*twitter.png$badfilter
-/assets/*twitter.png$badfilter
-/assets/*facebook.png$badfilter
-/img/*/google.png$badfilter
-/img/*facebook.png$badfilter
-/img/*twitter.png$badfilter
-||phonearena.com^$badfilter
-
-!fanboy cookie monster (hahahaha!)
-sandisk.com#@##consent_blackbar
-csmonitor.com#@#.cookies
