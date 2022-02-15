@@ -1,14 +1,18 @@
 [Adblock Plus 2.0]
 ! Title: IPutOnMyRobeAndWizardHatIRL's UBOfilters
-! Last Modified: 2019-04-3
+! Last Modified: 2022-02-15
 ! Expires: 1 days
 ! Comment:Bits and pieces for my personal use only. Generally gotten from around the web, i.e. Reddit and other filter lists. Occasional Fix done by me.
-! Author: Jakky567
+! Author: IPutOnMyRobeAndWizardHatIRL
 ! 12/26/2018, 1:47:58 AM https://1337x.to/torrent/1381260/One-Punch-Man-Road-to-Hero-OVA-1-720p-English-Subbed-ARRG-Lucifer22/
+
+! 1337x.to
 1337x.to##[href^="/vpnd"]
 1337x.to##[href^="/dirdownl"]
 ! 12/26/2018, 1:48:28 AM https://1337x.to/torrent/1381260/One-Punch-Man-Road-to-Hero-OVA-1-720p-English-Subbed-ARRG-Lucifer22/
 1337x.to##[href^="/stredir"]
+1337x.to##[href^="/vpn1dl"]
+
 www.myfitnesspal.com##.mfp-modal-disable-overlay
 www.myfitnesspal.com##.mfp-modal-overlay
 ! 4/3/2019 btdb.eu
@@ -63,6 +67,8 @@ thepiratebay3.*##div:nth-of-type(4) > div:nth-of-type(2) [href]:style(color: #00
 thepiratebay3.*###details > div:nth-of-type(3) > div:nth-of-type(2) [href]:style(color: #000 !important; pointer-events: none !important; cursor: text !important; border-bottom: none !important; clear: both !important;)
 ! 10/11/2018, 10:10:36 AM https://www.hulu.com/watch/21e913e1-0eaf-4f69-95d7-0510109fea5b
 www.hulu.com##.ad-top-bar
+
+
 !-----------------------------------------------------------
 !------------------------ Facebook -------------------------
 !-----------------------------------------------------------
@@ -73,14 +79,6 @@ www.nexusmods.com###donation_banner_wrapper
 ||www.messenger.com/mercury/unseen_thread_ids
 ||www.messenger.com/rtc/callability
 ||phonearena.com^$third-party
-
-! Prevent 'seen' status in Messenger
-||www.facebook.com/ajax/mercury/change_read_status
-instagram.com##+js(setInterval-defuser.js)
-! Prevent 'seen' status in Group Posts
-||www.facebook.com/*notif_t=group_$document,subdocument,important
-||www.facebook.com/ajax/bz$important
-||www.facebook.com/ajax/notifications/mark_read$important
 
 www.instagram.com##.yiMZG.TxciK.D8xaz.O1flK.i0EQd._4EzTm.YBx95.rBNOH.Igw0E.qF0y9
 
