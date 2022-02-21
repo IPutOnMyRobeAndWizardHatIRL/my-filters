@@ -156,28 +156,8 @@ mangadeep.com#@#.afs_ads
 
 hubspot.com$third-party
 hubspot.com$inline-script
-! 3/18/2018, 5:06:30 PM https://github.com/collinbarrett/FilterLists
-github.com##body:style(background-color: #d3d3d3 !important;)
 
-! 3/18/2018, 5:07:29 PM https://github.com/collinbarrett/FilterLists
-github.com##.experiment-repo-nav.readability-menu.instapaper_ignore.repohead.pagehead:style(background-color: #d3d3d3 !important;)
-
-! 3/18/2018, 5:08:16 PM https://github.com/collinbarrett/FilterLists
-github.com##.entry-content.markdown-body:style(background-color: #d3d3d3 !important;)
-
-! 3/18/2018, 5:06:30 PM https://github.com/collinbarrett/FilterLists
-github.com##body:style(background-color: #d3d3d3 !important;)
-
-! 3/18/2018, 5:07:29 PM https://github.com/collinbarrett/FilterLists
-github.com##.experiment-repo-nav.readability-menu.instapaper_ignore.repohead.pagehead:style(background-color: #d3d3d3 !important;)
 www.hulu.com##.countdown-rotor-container
-! 3/18/2018, 5:08:16 PM https://github.com/collinbarrett/FilterLists
-github.com##.entry-content.markdown-body:style(background-color: #d3d3d3 !important;)
-github.com##.file-header:style(background-color: #d3d3d3 !important;)
-
-! 3/18/2018, 5:12:47 PM https://github.com/jakky567/my-filters/blob/master/myubfilters.txt
-github.com##.commit-tease:style(background-color: #d3d3d3 !important;)
-
 
 ! 10/18/2018, 12:21:29 AM https://www.instagram.com/
 www.instagram.com##._9AhH0
@@ -198,9 +178,6 @@ www.instagram.com##.PyenC
 
 ! 10/18/2018, 12:24:08 AM https://www.instagram.com/stories/_emmyclarke/
 www.instagram.com##.z6Odz
-
-! 3/18/2018, 5:12:54 PM https://github.com/jakky567/my-filters/blob/master/myubfilters.txt
-github.com##.commit-tease-contributors:style(background-color: #d3d3d3 !important;)
 
 ! 3/7/2018, 1:42:46 PM forbes.com
 ||securepubads.g.doubleclick.net/gpt/pubads_impl_183.js?v=185$script,domain=www.forbes.com
@@ -942,23 +919,7 @@ pirateproxy.sh##div:nth-of-type(4) > div:nth-of-type(2) > a:style(color: #000 !i
 pirateproxy.sh###details > div:nth-of-type(3) > div:nth-of-type(2) > a:style(color: #000 !important; pointer-events: none !important; cursor: text !important; border-bottom: none !important; clear: both !important;)
 
 /\/1337x\..*\/.*[A-Za-z0-9]{20,}/$important,script,domain=1337x.to|1337x.st|x1337x.eu|x1337x.ws
-@@/angular-cookies-$domain=payments.amazon.com
 
-! 3/18/2018, 5:06:30 PM https://github.com/collinbarrett/FilterLists
-github.com##body:style(background-color: #d3d3d3 !important;)
-
-! 3/18/2018, 5:07:29 PM https://github.com/collinbarrett/FilterLists
-github.com##.experiment-repo-nav.readability-menu.instapaper_ignore.repohead.pagehead:style(background-color: #d3d3d3 !important;)
-
-! 3/18/2018, 5:08:16 PM https://github.com/collinbarrett/FilterLists
-github.com##.entry-content.markdown-body:style(background-color: #d3d3d3 !important;)
-github.com##.file-header:style(background-color: #d3d3d3 !important;)
-
-! 3/18/2018, 5:12:47 PM https://github.com/jakky567/my-filters/blob/master/myubfilters.txt
-github.com##.commit-tease:style(background-color: #d3d3d3 !important;)
-
-! 3/18/2018, 5:12:54 PM https://github.com/jakky567/my-filters/blob/master/myubfilters.txt
-github.com##.commit-tease-contributors:style(background-color: #d3d3d3 !important;)
 
 ! 3/26/2018, 8:48:25 PM http://emmates.proboards.com/thread/624
 emmates.proboards.com###ovdphmrdpmmhbxp-overlay
@@ -969,7 +930,7 @@ www.viz.com###metamodal-chapter-ad
 ! 5/29/2018, 6:08:07 PM https://www.nexusmods.com/skyrimspecialedition/search/
 www.nexusmods.com###donation_banner_wrapper
 
-#@#iframe[src*="facebook.com"]
+
 
 sandisk.com#@##consent_blackbar
 
@@ -1035,7 +996,6 @@ liliputing.com##.entry.first-post
 ! 1/27/2018, 11:31:16 AM https://liliputing.com/
 liliputing.com##.entry.second-post
 
-@@||bizx.info$third-party,websocket,domain=sourceforge.net
 
 /miner*.js$script
 /coinhive*.js$important
@@ -1111,30 +1071,6 @@ chyoa.com/*/*.php?mg=*
 ||ads-v-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
 
 @@||moatads.com/*/moatwrapper.js$script,domain=hulu.com,third-party
-
-!-----------------------------------------------------------
-!------------------------ Linkedin -------------------------
-!-----------------------------------------------------------
-! Prevent 'seen' status in Conversations
-||www.linkedin.com/voyager/api/messaging/badge?action=markAllItemsAsSeen
-||www.linkedin.com/voyager/api/messaging/conversations/
-@@||www.linkedin.com/voyager/api/messaging/conversations/*/events
-
-! Prevent 'is typing' status in Conversations
-||www.linkedin.com/voyager/api/messaging/conversations?action=typing
-||ads-w-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
-
-||www.linkedin.com/csp/sct
-||www.linkedin.com/fizzy/admin
-||www.linkedin.com/li/track
-||www.linkedin.com/lite/contentsecurity
-||www.linkedin.com/lite/rum-track
-||www.linkedin.com/lite/ua/error
-||www.linkedin.com/mob/tracking
-||www.linkedin.com/psettings/tracking
-||www.linkedin.com/voyager/api/legoWidgetActionEvents
-||www.linkedin.com/voyager/api/legoWidgetImpressionEvents
-||www.linkedin.com/voyager/api/mux
 
 
 [Adblock Plus 2.0]
