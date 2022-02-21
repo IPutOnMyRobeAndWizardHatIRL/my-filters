@@ -9,6 +9,8 @@
 !||cloudflare.com^$badfilter
 youtube.com#@#div[class*=ytp-ce-]
 
+@@/angular-cookies-$domain=payments.amazon.com
+#@#iframe[src*="facebook.com"]
 
 arstechnica.com#@#a[href^="https://www.amazon."][href*="tag="]
 !anti-adblock measure, I believe this is in easylist
