@@ -27,3 +27,27 @@ instagram.com##+js(setInterval-defuser.js)
 ||www.facebook.com/ajax/bz$important
 ||www.facebook.com/ajax/notifications/mark_read$important
 
+!-----------------------------------------------------------
+!------------------------ Linkedin -------------------------
+!-----------------------------------------------------------
+! Prevent 'seen' status in Conversations
+||www.linkedin.com/voyager/api/messaging/badge?action=markAllItemsAsSeen
+||www.linkedin.com/voyager/api/messaging/conversations/
+@@||www.linkedin.com/voyager/api/messaging/conversations/*/events
+
+! Prevent 'is typing' status in Conversations
+||www.linkedin.com/voyager/api/messaging/conversations?action=typing
+||ads-w-darwin.hulustream.com/published/*.mp4$media,redirect=noopmp4-1s,domain=hulu.com,third-party
+
+||www.linkedin.com/csp/sct
+||www.linkedin.com/fizzy/admin
+||www.linkedin.com/li/track
+||www.linkedin.com/lite/contentsecurity
+||www.linkedin.com/lite/rum-track
+||www.linkedin.com/lite/ua/error
+||www.linkedin.com/mob/tracking
+||www.linkedin.com/psettings/tracking
+||www.linkedin.com/voyager/api/legoWidgetActionEvents
+||www.linkedin.com/voyager/api/legoWidgetImpressionEvents
+||www.linkedin.com/voyager/api/mux
+
