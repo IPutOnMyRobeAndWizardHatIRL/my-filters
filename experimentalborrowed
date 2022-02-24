@@ -31,3 +31,42 @@ www.facebook.com##._1wcc
 
 ! "Keep the conversation going from your phone" Message at /messages
 www.facebook.com##._s15
+/1337x\..*\/js\/[A-Za-z0-9]{20,}\.js/$script,domain=1337x.to|1337x.st|x1337x.eu|x1337x.ws,important
+/1337x\..*\/.*[a-f]{7,}/$script,domain=1337x.to|1337x.st|x1337x.eu|x1337x.ws,important
+
+1337x.*##script:inject(window.open-defuser.js)
+1337x.*##script:inject(setInterval-defuser.js, (), 500)
+1337x.*##script:inject(addEventListener-defuser.js, /^(click|mousedown|)/, popunder)
+1337x.*##script:inject(abort-on-property-write.js, Fingerprint2)
+1337x.*##.bitcoin-text
+1337x.*##.bitcoin
+x1337x.*##body > div:not(.wrapper)
+x1337x.*##script:inject(window.open-defuser.js)
+x1337x.*##script:inject(setInterval-defuser.js, (), 500)
+x1337x.*##script:inject(addEventListener-defuser.js, /^(click|mousedown|)/, popunder)
+x1337x.*##script:inject(abort-on-property-write.js, Fingerprint2)
+x1337x.*##.bitcoin-text
+x1337x.*##.bitcoin
+x1337x.*##body > div:not(.wrapper)
+||cdn.1337x.*/ip*.php
+||cdn.x1337x.*/ip*.php
+/1337x\..*\/.*[A-Za-z0-9]{20,}/$important,script,domain=1337x.to|1337x.st|x1337x.eu|x1337x.ws
+
+! 2/12/2018, 6:49:25 PM http://1337x.to/
+1337x.to,1337x.st,x1337x.ws,x1337x.eu##.bitcoin-text
+
+! 2/12/2018, 6:49:38 PM http://1337x.to/
+1337x.to,1337x.st,x1337x.ws,x1337x.eu##.bitcoin
+
+1337x.to,1337x.st,x1337x.ws,x1337x.eu##[href*=".php"]
+
+/\/1337x\..*\/.*[A-Za-z0-9]{20,}/$important,script,domain=1337x.to|1337x.st|x1337x.eu|x1337x.ws
+
+! 12/26/2018, 1:47:58 AM https://1337x.to/torrent/1381260/One-Punch-Man-Road-to-Hero-OVA-1-720p-English-Subbed-ARRG-Lucifer22/
+
+! 1337x.to
+1337x.to##[href^="/vpnd"]
+1337x.to##[href^="/dirdownl"]
+! 12/26/2018, 1:48:28 AM https://1337x.to/torrent/1381260/One-Punch-Man-Road-to-Hero-OVA-1-720p-English-Subbed-ARRG-Lucifer22/
+1337x.to##[href^="/stredir"]
+1337x.to##[href^="/vpn1dl"]
