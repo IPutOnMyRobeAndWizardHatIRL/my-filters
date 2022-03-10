@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: IPutOnMyRobeAndWizardHatIRL's UBOfilters
-! Last Modified: 2022-02-15
+! Last Modified: 2022-03-09
 ! Expires: 1 days
 ! Comment:Bits and pieces for my personal use only. Generally gotten from around the web, i.e. Reddit and other filter lists. Occasional Fix done by me.
 ! Author: IPutOnMyRobeAndWizardHatIRL
@@ -1383,6 +1383,8 @@ mikemorttl.com##script:inject(addEventListener-defuser.js,contextmenu)
 ||rocks.io$important,third-party
 ||adminer.com$important,third-party
 
+||torrindex.net/images/ads/$important,image
+||torrindex.net/images/epv/300.png$important,image
 
 thepiratebay.org###d > [href^="http://www.xiloy.site/zkopeg/rltfh"]
 thepiratebay.org###d2 > [href^="http://www.xiloy.site/zkopeg/rltfh"]
