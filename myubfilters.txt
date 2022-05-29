@@ -499,12 +499,6 @@ www.reddit.com##.flair
 ||hubspot.net*close.gif$image
 
 
-! 3/7/2018, 10:14:49 AM https://x1337x.ws/search/die/1/
-x1337x.*##.mgbox
-
-! 3/7/2018, 10:15:08 AM https://x1337x.ws/search/die/1/
-x1337x.*###M90304Composite83902
-
 ! 2/12/2018, 12:21:47 PM http://rutracker.org/forum/index.php
 ||rutrk.*/images/*.gif$image
 
@@ -856,22 +850,8 @@ techmazza.com##script:inject(bab-defuser.js)
 vsco.co##.css-1j5xwbw
 vsco.co##script:inject(addEventListener-defuser.js,contextmenu)
 
-1337x.*##script:inject(window.open-defuser.js)
-1337x.*##script:inject(setInterval-defuser.js, (), 500)
-1337x.*##script:inject(addEventListener-defuser.js, /^(click|mousedown|)/, popunder)
-1337x.*##script:inject(abort-on-property-write.js, Fingerprint2)
-1337x.*##.bitcoin-text
-1337x.*##.bitcoin
-x1337x.*##body > div:not(.wrapper)
-x1337x.*##script:inject(window.open-defuser.js)
-x1337x.*##script:inject(setInterval-defuser.js, (), 500)
-x1337x.*##script:inject(addEventListener-defuser.js, /^(click|mousedown|)/, popunder)
-x1337x.*##script:inject(abort-on-property-write.js, Fingerprint2)
-x1337x.*##.bitcoin-text
-x1337x.*##.bitcoin
-x1337x.*##body > div:not(.wrapper)
-||cdn.1337x.*/ip*.php
-||cdn.x1337x.*/ip*.php
+
+1337x.*##ul > li:has-text(Play now (Stream))
 
 !||g.doubleclick.net/gampad/ads?gdfp_req=1&^$script,redirect=noopjs,domain=forbes.com
 instagram.com##._mli86
