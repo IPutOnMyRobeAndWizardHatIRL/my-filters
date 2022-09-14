@@ -1,0 +1,135 @@
+[Adblock Plus 2.0]
+! Title: IPutOnMyRobeAndWizardHatIRL's UBO Style Filters
+! Last Modified: 2022-09-13
+! Expires: 1 days
+! Comment:Bits and pieces for my personal use only. Generally gotten from around the web, i.e. Reddit and other filter lists. Occasional Fix done by me.
+! Author: IPutOnMyRobeAndWizardHatIRL
+
+
+
+www.fanfiction.net##.panel_normal:style(background-color: #d3d3d3 !important;)
+! 3/21/2018, 4:11:10 PM https://www.fanfiction.net/s/9672720/1/Harry-Potter-and-The-Heir-Of-Merlin-s-Promise-Phoenix
+www.fanfiction.net##.modal-body:style(background-color: #d3d3d3 !important;)
+
+! 3/21/2018, 4:11:41 PM https://www.fanfiction.net/s/9672720/1/Harry-Potter-and-The-Heir-Of-Merlin-s-Promise-Phoenix
+www.fanfiction.net##.modal-footer:style(background-color: #d3d3d3 !important;)
+
+! 3/16/2018, 5:34:38 PM https://www.fanfiction.net/
+www.fanfiction.net##td:style(background-color: #d3d3d3 !important;)
+
+
+! 3/16/2018, 5:35:08 PM https://www.fanfiction.net/
+www.fanfiction.net##.tcat:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:31:13 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.maxwidth.xcontrast:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:33:03 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net###content_parent:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:33:38 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.lc:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:33:51 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.lc-left:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:34:29 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.zmenu:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:31:13 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.maxwidth.xcontrast:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:33:03 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net###content_parent:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:33:38 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.lc:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:33:51 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.lc-left:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:34:29 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.zmenu:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:46:42 PM https://www.fanfiction.net/book/Harry-Potter/
+
+fanfiction.net##body:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:49:06 PM https://www.fanfiction.net/
+www.fanfiction.net##td! 3/8/2018, 8:31:13 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.maxwidth.xcontrast:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:33:03 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net###content_parent:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:33:38 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.lc:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:33:51 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.lc-left:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:34:29 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.zmenu:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:46:42 PM https://www.fanfiction.net/book/Harry-Potter/
+
+fanfiction.net##body:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:49:17 PM https://www.fanfiction.net/
+www.fanfiction.net##.tcat! 3/8/2018, 8:31:13 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.maxwidth.xcontrast:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:33:03 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net###content_parent:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:33:38 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.lc:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:33:51 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.lc-left:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:34:29 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.zmenu:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:46:42 PM https://www.fanfiction.net/book/Harry-Potter/
+
+fanfiction.net##body:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:50:39 PM https://www.fanfiction.net/
+www.fanfiction.net##tr! 3/8/2018, 8:31:13 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.maxwidth.xcontrast:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:33:03 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net###content_parent:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:33:38 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.lc:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:33:51 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.lc-left:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:34:29 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.zmenu:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:46:42 PM https://www.fanfiction.net/book/Harry-Potter/
+
+fanfiction.net##body:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:50:52 PM https://www.fanfiction.net/
+www.fanfiction.net###content_wrapper_inner! 3/8/2018, 8:31:13 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.maxwidth.xcontrast:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:33:03 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net###content_parent:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:33:38 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.lc:style(background-color: #d3d3d3 !important;)
+
+! 3/8/2018, 8:33:51 PM https://www.fanfiction.net/s/10359113/33/Tempest-of-the-Fae
+www.fanfiction.net##.lc-left:style(background-color: #d3d3d3 !important;)
+
+! 3/20/2018, 2:11:18 PM https://m.fanfiction.net/u/1318171/
+m.fanfiction.net##body:style(background-color: #d3d3d3 !important;)
+
+! 3/20/2018, 2:11:50 PM https://m.fanfiction.net/u/1318171/
+m.fanfiction.net##.lc:style(background-color: #d3d3d3 !important;)
