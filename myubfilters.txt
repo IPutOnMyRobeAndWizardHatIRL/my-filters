@@ -5,6 +5,11 @@
 ! Comment:Bits and pieces for my personal use only. Generally gotten from around the web, i.e. Reddit and other filter lists. Occasional Fix done by me.
 ! Author: IPutOnMyRobeAndWizardHatIRL
 
+instagram.com#@#div[style="max-height: inherit; max-width: inherit;"]:has(span:has-text(Paid partnership with ))
+
+! 2022-10-11 https://www.instagram.com
+www.instagram.com##._aato._aagu > ._aagw
+
 www.myfitnesspal.com##.mfp-modal-disable-overlay
 www.myfitnesspal.com##.mfp-modal-overlay
 ! 4/3/2019 btdb.eu
